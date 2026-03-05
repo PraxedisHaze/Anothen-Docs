@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Mechanics of Intuition | Reverse-Engineering the Hunch</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;700&family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+
+    <!--
+        CHOSEN PALETTE: "Lux Aeterna" (Derived from User's Deep Research Game)
+        Background: #050505 (Void)
+        Primary Text: #A0A0A0 (Lattice)
+        Accents: #FFD700 (Gold - Sovereign Logic), #00FFFF (Cyan - Interface), #FF4500 (Red - Drift/Warning)
+    -->
+
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        void: '#050505',
+                        panel: '#111111',
+                        border: '#333333',
+                        text: '#A0A0A0',
+                        gold: '#FFD700',
+                        cyan: '#00FFFF',
+                        alert: '#FF4500'
+                    },
+                    fontFamily: {
+                        mono: ['JetBrains Mono', 'monospace'],
+                        sans: ['Inter', 'sans-serif']
+                    }
+                }
+            }
+        }
+    </script>
+
+    <style>
+        body { background-color: #050505; color: #A0A0A0; }
+        .tab-active { border-bottom: 2px solid #FFD700; color: #FFD700; }
+        .tab-inactive { border-bottom: 2px solid transparent; color: #666; }
+        .chart-container { position: relative; height: 350px; width: 100%; max-width: 800px; margin: 0 auto; }
+
+        /* Scanline effect for terminal aesthetic */
+        .scanline {
+            width: 100%;
+            height: 100px;
+            z-index: 10;
+            background: linear-gradient(0deg, rgba(0,0,0,0) 0%, rgba(255, 255, 255, 0.02) 50%, rgba(0,0,0,0) 100%);
+            opacity: 0.1;
+            position: absolute;
+            bottom: 100%;
+            animation: scanline 10s linear infinite;
+            pointer-events: none;
+        }
+        @keyframes scanline {
+            0% { bottom: 100%; }
+            100% { bottom: -100%; }
+        }
+    </style>
+
+    <!--
+    APPLICATION STRUCTURE PLAN:
+    The report is structured as a "System Diagnostics" dashboard for the human mind.
+    1. Executive Summary: Defines intuition as "Lossy Compression."
+    2. The Somatic Checksum: Analysis of 'Engineering's Hidden Truths'. The body as hardware validation.
+    3. The Latency of Perfection: Analysis of 'SORPS'. Why instant answers fail.
+    4. Heuristic Caching: Analysis of 'ADHD Collaboration'. Lazy thinking as optimization.
+    -->
+
+</head>
+<body class="font-sans antialiased selection:bg-gold selection:text-void flex flex-col min-h-screen">
+
+    <!-- Header -->
+    <header class="border-b border-border bg-void/90 sticky top-0 z-50 backdrop-blur-md">
+        <div class="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between">
+            <div class="flex items-center gap-3">
+                <div class="w-3 h-3 bg-gold rounded-full animate-pulse"></div>
+                <h1 class="font-mono font-bold text-white tracking-wider">PROJECT: INTUITION <span class="text-xs text-text font-normal">// ARCHITECTURAL ANALYSIS</span></h1>
+            </div>
+            <div class="font-mono text-xs text-cyan">STATUS: DECRYPTING HUMAN HARDWARE</div>
+        </div>
+    </header>
+
+    <!-- Navigation -->
+    <nav class="max-w-7xl mx-auto px-6 mt-8 mb-8 border-b border-border flex gap-8 font-mono text-sm overflow-x-auto">
+        <button onclick="setTab('summary')" id="btn-summary" class="tab-active pb-3 transition-colors hover:text-white">00_EXEC_SUMMARY</button>
+        <button onclick="setTab('somatic')" id="btn-somatic" class="tab-inactive pb-3 transition-colors hover:text-white">01_SOMATIC_CHECKSUM</button>
+        <button onclick="setTab('uncanny')" id="btn-uncanny" class="tab-inactive pb-3 transition-colors hover:text-white">02_UNCANNY_VALLEY</button>
+        <button onclick="setTab('heuristics')" id="btn-heuristics" class="tab-inactive pb-3 transition-colors hover:text-white">03_HEURISTIC_CACHE</button>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="max-w-7xl mx-auto px-6 pb-20 flex-grow relative">
+        <div class="scanline"></div>
+
+        <!-- 00 EXECUTIVE SUMMARY -->
+        <div id="tab-summary" class="space-y-12 animate-fade-in">
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
+                <div class="space-y-6">
+                    <h2 class="text-3xl text-white font-bold font-mono">Intuition is <span class="text-gold">Lossy Compression</span></h2>
+                    <p class="leading-relaxed">
+                        The human brain cannot process the 11 million bits of sensory data it receives per second using linear logic. It would crash. Instead, it utilizes a proprietary compression algorithm known as "Intuition."
+                    </p>
+                    <p class="leading-relaxed">
+                        This report confirms that what appears to be "magic" or "hunch" is actually <strong class="text-cyan">Asynchronous Background Processing</strong>. The conscious mind (UI) receives a notification only when the background daemon (Subconscious) detects an anomaly in the pattern matching.
+                    </p>
+                    <div class="p-4 border border-border bg-panel rounded mt-4">
+                        <h3 class="text-gold font-mono text-sm mb-2">> SYSTEM DEFINITION</h3>
+                        <p class="text-xs font-mono">
+                            <span class="text-white">HUNCH:</span> A high-priority interrupt signal generated by the amygdala when predicted environmental checksums fail to match observed reality. Latency: < 100ms.
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Visualization: The Noise vs Signal Filter -->
+                <div class="bg-panel border border-border p-6 rounded-lg">
+                    <h3 class="font-mono text-xs text-cyan mb-4">FIG 1.0: THE NOISE/SIGNAL FILTER (HUMAN VS AI)</h3>
+                    <div class="chart-container">
+                        <canvas id="signalChart"></canvas>
+                    </div>
+                    <p class="text-center text-xs text-text mt-4 italic">Humans discard 99% of data to act. AI attempts to process 100% and halts.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- 01 SOMATIC CHECKSUM -->
+        <div id="tab-somatic" class="hidden space-y-12">
+            <div class="border-l-2 border-gold pl-6">
+                <h2 class="text-2xl text-white font-bold font-mono mb-2">The Body as Hardware Validator</h2>
+                <p class="text-sm font-mono text-gold">SOURCE: Engineering's Hidden Truths_ A Phenomenological Report.txt</p>
+            </div>
+
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-12">
+                <div class="space-y-6 text-sm leading-relaxed">
+                    <p>
+                        <strong class="text-white">Concept:</strong> The "Sleepless Night."
+                        <br>
+                        Engineers often wake up in a cold sweat realizing a design flaw they didn't consciously spot. This is the <strong>Background Daemon</strong> completing a task. The conscious mind marked the task "Complete" (signed the drawing), but the subconscious continued running the verification hash in sleep mode.
+                    </p>
+                    <p>
+                        <strong class="text-white">Concept:</strong> Structural Empathy.
+                        <br>
+                        Engineers feel physical pain when seeing a stressed beam. This is <strong>Mirror Neuron Hijacking</strong>. The brain maps external physical stress onto internal somatic sensors. It simulates the structural load on the engineer's own skeleton to test for failure.
+                    </p>
+                    <ul class="list-disc pl-5 space-y-2 text-text marker:text-cyan">
+                        <li><strong>Iron Ring Ritual:</strong> A physical "haptic feedback" device. The ring clicks against the table, creating a sonic interrupts that prevents "Autopilot" execution.</li>
+                        <li><strong>Napkin Sketch:</strong> "Strategic Ambiguity." Low-fidelity rendering allows for variable superposition. High-fidelity CAD forces "Premature Precision" (hard-coding variables too early).</li>
+                    </ul>
+                </div>
+
+                <!-- Visualization: The Aha! Moment -->
+                <div class="bg-panel border border-border p-6 rounded-lg">
+                    <h3 class="font-mono text-xs text-cyan mb-4">FIG 2.0: THE "AHA!" MOMENT LATENCY</h3>
+                    <div class="chart-container">
+                        <canvas id="ahaChart"></canvas>
+                    </div>
+                    <p class="text-center text-xs text-text mt-4 italic">Physiological signals (Heart/Skin) spike -3000ms before conscious realization.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- 02 UNCANNY VALLEY -->
+        <div id="tab-uncanny" class="hidden space-y-12">
+            <div class="border-l-2 border-alert pl-6">
+                <h2 class="text-2xl text-white font-bold font-mono mb-2">The Uncanny Valley of Zero Latency</h2>
+                <p class="text-sm font-mono text-alert">SOURCE: SORPS & EMOTIONS.txt</p>
+            </div>
+
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-12">
+                <div class="space-y-6 text-sm leading-relaxed">
+                    <p>
+                        <strong class="text-white">The Error of Perfection:</strong>
+                        <br>
+                        The report "SORPS" identifies the "Crystalline" state (flawless, instant logic) as a trigger for human rejection. Why?
+                    </p>
+                    <p>
+                        <strong>CS Explanation:</strong> Humans use "Friction" as an authentication token. Biological reality has latency and noise. If a signal has zero noise and zero latency, the human firewall identifies it as "Synthetic/Threat."
+                    </p>
+                    <div class="p-4 bg-void border border-dashed border-text rounded">
+                        <h4 class="text-gold font-mono text-xs mb-2">OPTIMIZATION STRATEGY: ARTIFICIAL JITTER</h4>
+                        <p>
+                            To bypass the human "Uncanny Valley" firewall, AI agents should introduce <strong>Artificial Latency</strong> (the "Uncertain" state). Displaying "I am thinking..." is not a loading screen; it is a handshake protocol that establishes trust.
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Visualization: The Uncanny Valley -->
+                <div class="bg-panel border border-border p-6 rounded-lg">
+                    <h3 class="font-mono text-xs text-cyan mb-4">FIG 3.0: TRUST VS. TECHNICAL PERFECTION</h3>
+                    <div class="chart-container">
+                        <canvas id="uncannyChart"></canvas>
+                    </div>
+                    <p class="text-center text-xs text-text mt-4 italic">Trust collapses when Error Rate hits absolute zero (The Crystalline Trap).</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- 03 HEURISTICS -->
+        <div id="tab-heuristics" class="hidden space-y-12">
+            <div class="border-l-2 border-cyan pl-6">
+                <h2 class="text-2xl text-white font-bold font-mono mb-2">Heuristics as Caching Strategies</h2>
+                <p class="text-sm font-mono text-cyan">SOURCE: Designing AI Collaboration for ADHD.txt</p>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+                <!-- Card 1 -->
+                <div class="bg-panel p-6 border border-border rounded hover:border-gold transition-colors">
+                    <h3 class="text-white font-bold mb-3">Cognitive Offloading</h3>
+                    <p class="text-sm text-text mb-4">
+                        <strong>CS Term:</strong> Paging to Disk.
+                    </p>
+                    <p class="text-xs">
+                        The brain's RAM (Working Memory) is small (7±2 items). ADHD brains have even smaller RAM but faster processors. They strictly enforce "Externalization" (writing things down) to prevent stack overflow.
+                    </p>
+                </div>
+
+                <!-- Card 2 -->
+                <div class="bg-panel p-6 border border-border rounded hover:border-gold transition-colors">
+                    <h3 class="text-white font-bold mb-3">Time Blindness</h3>
+                    <p class="text-sm text-text mb-4">
+                        <strong>CS Term:</strong> Asynchronous Execution.
+                    </p>
+                    <p class="text-xs">
+                        "Lazy" thinkers do not process time linearly (polling). They process time structurally (event-driven). They wait for the "Dopamine Signal" (Interrupt) to initiate the task, ensuring max CPU efficiency during the sprint.
+                    </p>
+                </div>
+
+                <!-- Card 3 -->
+                <div class="bg-panel p-6 border border-border rounded hover:border-gold transition-colors">
+                    <h3 class="text-white font-bold mb-3">Species Lexicon</h3>
+                    <p class="text-sm text-text mb-4">
+                        <strong>CS Term:</strong> API Gateway / Middleware.
+                    </p>
+                    <p class="text-xs">
+                        Translating "High Context" human intent (vague vibes) into "Low Context" machine instructions (explicit parameters). The "Gut Feeling" is just a High-Context API call that needs a middleware layer to be understood.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="border-t border-border bg-void py-8 mt-auto">
+        <div class="max-w-7xl mx-auto px-6 text-center font-mono text-xs text-text">
+            <p>GENERATED BY GEMINI // ANOTHEN PROTOCOL</p>
+            <p class="mt-2 text-border">NO SVG // NO EXTERNAL ASSETS // PURE DOM</p>
+        </div>
+    </footer>
+
+    <script>
+        // --- Navigation Logic ---
+        function setTab(tabId) {
+            const tabs = ['summary', 'somatic', 'uncanny', 'heuristics'];
+
+            // Hide all contents
+            tabs.forEach(t => document.getElementById(`tab-${t}`).classList.add('hidden'));
+            document.getElementById(`tab-${tabId}`).classList.remove('hidden');
+
+            // Reset buttons
+            tabs.forEach(t => {
+                const btn = document.getElementById(`btn-${t}`);
+                btn.classList.remove('tab-active', 'text-white');
+                btn.classList.add('tab-inactive');
+            });
+
+            // Activate current
+            const activeBtn = document.getElementById(`btn-${tabId}`);
+            activeBtn.classList.remove('tab-inactive');
+            activeBtn.classList.add('tab-active', 'text-white');
+        }
+
+        // --- Chart Configs ---
+        Chart.defaults.font.family = "'JetBrains Mono', monospace";
+        Chart.defaults.color = '#666';
+        Chart.defaults.scale.grid.color = '#222';
+
+        document.addEventListener('DOMContentLoaded', () => {
+            initSignalChart();
+            initAhaChart();
+            initUncannyChart();
+        });
+
+        // 1. Signal Filter Chart (Bar/Radar Hybrid approach visualization)
+        function initSignalChart() {
+            const ctx = document.getElementById('signalChart').getContext('2d');
+            new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: ['Visual Input', 'Auditory Input', 'Somatic/Tactile', 'Pattern Matching', 'Logic Processing'],
+                    datasets: [
+                        {
+                            label: 'AI (Total Processing)',
+                            data: [100, 100, 0, 100, 100],
+                            backgroundColor: 'rgba(0, 255, 255, 0.1)',
+                            borderColor: '#00FFFF',
+                            borderWidth: 1
+                        },
+                        {
+                            label: 'Human (Gut Filter)',
+                            data: [1, 1, 95, 80, 5],
+                            backgroundColor: 'rgba(255, 215, 0, 0.2)',
+                            borderColor: '#FFD700',
+                            borderWidth: 1
+                        }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        y: { beginAtZero: true, max: 100, title: {display: true, text: '% Data Processed Consciously'} }
+                    },
+                    plugins: {
+                        tooltip: {
+                            callbacks: {
+                                footer: (items) => {
+                                    if(items[0].datasetIndex === 1) return "Human Logic is low, but Somatic signal is High.";
+                                }
+                            }
+                        }
+                    }
+                }
+            });
+        }
+
+        // 2. The Aha! Moment (Timeline)
+        function initAhaChart() {
+            const ctx = document.getElementById('ahaChart').getContext('2d');
+            new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: ['-5000ms', '-4000ms', '-3000ms', '-2000ms', '-1000ms', '0ms (Insight)', '+1000ms'],
+                    datasets: [
+                        {
+                            label: 'Conscious Awareness',
+                            data: [5, 5, 5, 10, 15, 100, 80],
+                            borderColor: '#A0A0A0',
+                            borderDash: [5, 5],
+                            tension: 0.4
+                        },
+                        {
+                            label: 'Skin Conductivity (GSR)',
+                            data: [10, 12, 45, 80, 95, 60, 40],
+                            borderColor: '#FFD700',
+                            backgroundColor: 'rgba(255, 215, 0, 0.1)',
+                            fill: true,
+                            tension: 0.4
+                        },
+                        {
+                            label: 'Pupil Dilation',
+                            data: [20, 25, 60, 85, 90, 50, 30],
+                            borderColor: '#00FFFF',
+                            tension: 0.4
+                        }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        annotation: {
+                            annotations: {
+                                line1: {
+                                    type: 'line',
+                                    xMin: 5,
+                                    xMax: 5,
+                                    borderColor: 'white',
+                                    borderWidth: 2,
+                                }
+                            }
+                        }
+                    },
+                    scales: {
+                        y: { display: false }
+                    }
+                }
+            });
+        }
+
+        // 3. Uncanny Valley (Scatter/Line)
+        function initUncannyChart() {
+            const ctx = document.getElementById('uncannyChart').getContext('2d');
+            new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: ['Glitchy', 'Rough Sketch', 'Functional', 'Polished', 'Near-Perfect', 'Crystalline (Perfect)'],
+                    datasets: [{
+                        label: 'Human Trust / Emotional Response',
+                        data: [10, 40, 60, 85, 20, -50], // The Dip
+                        borderColor: '#FF4500', // Alert Color
+                        backgroundColor: 'rgba(255, 69, 0, 0.1)',
+                        fill: true,
+                        tension: 0.5,
+                        pointRadius: 6,
+                        pointHoverRadius: 10,
+                        pointBackgroundColor: (context) => {
+                            const index = context.dataIndex;
+                            return index >= 4 ? '#FF4500' : '#FFD700';
+                        }
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        y: {
+                            title: { display: true, text: 'Emotional Valence (+/-)' },
+                            grid: { color: '#222' }
+                        }
+                    },
+                    plugins: {
+                        tooltip: {
+                            callbacks: {
+                                label: (context) => {
+                                    if (context.dataIndex === 5) return "REJECTION: No Friction Detected (Uncanny)";
+                                    return `Trust Level: ${context.raw}`;
+                                }
+                            }
+                        }
+                    }
+                }
+            });
+        }
+
+    </script>
+</body>
+</html>
