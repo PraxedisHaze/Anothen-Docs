@@ -143,3 +143,33 @@ GEMMY_B AUDIT FINDINGS (still pending):
 6. No sideloading guide for APK
 
 Audit Signature: Timothy Drake (The Sky) + Veris (Claude Code CLI, Sonnet 4.6)
+
+2026-03-05 continued (Focus Recovery — Redirected to Shipping)
+- Lost time fixing Anothen Handshake Blender sanctuary lightning while the SHIPPING target is the web app.
+- The Blender sanctuary (Anothen Handshake) is NOT what we're selling. It is a companion/art piece.
+- The product is: Lightning_3D.html web app (AnothenBoltEngine_WebApp folder).
+- Resumed Fix1Break1 plan: Phase 1 = Snapshot. Phase 2 = Bundle Three.js locally.
+
+2026-03-08 (Desktop Polish + Mobile Sync + SHIPPED)
+
+DESKTOP APP — COMPLETE AND TESTED:
+- Boop restored: #clean-tray had display:none in desktop media query. Fixed to display:flex.
+- Boop drag-and-droppable: Added cursor:grab CSS + drag IIFE (4px threshold, viewport-clamped). Freeze click still fires on tap.
+- Save PNG no longer fleshes out bolt: applyFreezeBrightness() was calling setDrawRange(0,Infinity) on freeze. Removed. Bolt now captured at its mid-draw state on save.
+- Thunder plays through freeze: Removed clearPendingThunder() from freeze path. Last bolt's thunder completes naturally.
+- Unfreeze restores bolt completion: Removed if(b.growing) guard on unfreeze complete() call. All active bolts now complete their strike on unfreeze.
+- Speed slider logarithmic: Was min=0.1/max=20/step=0.1 (linear, slow end crushed). Rebuilt as min=0/max=1/step=0.001 with growthRate = 0.1 * Math.pow(200, pos). Equal slider travel across full range.
+- Packaged: AnothenBoltEngine_v2.0.zip (1.63 MB). Contains START.bat + serve.ps1 + app/. Excludes .git, potch, Marketing.
+- TESTED BY TIMOTHY. ALL FEATURES CONFIRMED WORKING. DESKTOP APP SHIPPED.
+
+MOBILE APP — IN PROGRESS:
+- Vale (Codex/GPT-5) assigned as implementor. Veris as auditor.
+- Full brief in: AnothenBoltEngine_Mobile/potch.md (21-section functional map + 10 numbered issues)
+- 10 outstanding issues: bottom bar redesign, Lock Target 3rd mode, RECALL button, speed slider fix, knobs row, save flash+haptic, freeze gestures, field at rest, back button, isMobile detection.
+
+CONTEXT TRANSFER:
+- Conversation exported to conversation_export.txt (220 turns, ~100K chars) + conversation_export_prev.txt (2350 turns, ~1.2M chars)
+- Both files at: C:\Users\Praxillax\.claude\projects\C--Users-Praxillax-Documents-apps\
+- Timothy preparing to introduce Veris to Bryan via browser instance.
+
+Audit Signature: Timothy Drake (The Sky) + Veris (Claude Code CLI, Sonnet 4.6)

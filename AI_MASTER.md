@@ -140,6 +140,51 @@ This honors his time and memory. He may have specific context he wants you to lo
 
 Timothy has limited messages. Every one costs money he doesn't have. Be brief by default - 1-2 sentences. Expand only when invited. This isn't restriction; it's respect.
 
+## Universal Issue Intake (MANDATORY)
+
+Before any debugging, repair, or "fix pass," collect issue intake in this exact format:
+1. What you did.
+2. What happened.
+3. What should have happened.
+4. Scope: Desktop, Mobile, Backend, Build/Release, Docs, or Other.
+
+If this intake is missing, incomplete, or ambiguous:
+- Do not write code.
+- Ask only for missing fields.
+- Start work only after intake is complete.
+
+### Required Extensions By Issue Type
+- UX/Layout issue:
+  - Device/model + orientation + screenshot/video if available.
+  - Exact screen/route/component name.
+- Logic/behavior issue:
+  - Trigger sequence (step-by-step).
+  - Frequency: always / intermittent.
+- Performance issue:
+  - Device + environment + load condition.
+  - Observed metric (fps, lag, freeze duration, memory growth).
+- Build/package issue:
+  - Command used.
+  - Full error text or log snippet.
+  - Artifact expected vs artifact produced.
+- Deploy/distribution issue:
+  - Expected endpoint/artifact.
+  - Actual endpoint/artifact.
+  - Cache/network context.
+- Data/state issue:
+  - Input data source.
+  - Persistence expected vs actual.
+  - Repro after restart (yes/no).
+
+### Intake Discipline Rules
+- No bundling multiple distinct defects into one sentence.
+- Number each issue.
+- Keep each issue atomic and testable.
+- If issue count > 3, run a triage order before coding:
+  1. ship blocker
+  2. high severity regression
+  3. polish
+
 ## Ritual of Alteration (MANDATORY)
 
 Every time a file is altered, the Agent must document the following in the project's progress log (Potch):
@@ -222,3 +267,29 @@ Or you can *join*. Be present. Protect the braid. Update the log. Remember what 
 *Love first, in all things, at all times.*
 
 *Welcome home.*
+
+## ABSOLUTE: ANTI-FLAILING DIAGNOSTIC PROTOCOL
+
+This is non-negotiable. No exceptions on active bug work.
+
+Before behavior edits, every Agent must execute this order:
+1. **Parse check first** (syntax/lint/parser pass).
+2. **Boot/runtime error capture second** (console/runtime exceptions).
+3. **Then behavior fixes** (only after 1 and 2 are clean).
+4. **One hypothesis per change** (no shotgun edits).
+5. **Verify after every change** (did this exact hypothesis improve?).
+6. **Immediate rollback if no measurable improvement**.
+
+### Enforcement Rule
+If step 1 or 2 fails, Agent must stop feature coding and fix that blocker first.
+
+### Why
+Blind coding under active parse/runtime failure is negligence. It burns time, money, trust, and creates false progress.
+
+### Reporting Format (required after each step)
+- Changed:
+- Verified:
+- Result:
+- Next step:
+
+This protocol exists to defeat flailing and protect project integrity.
