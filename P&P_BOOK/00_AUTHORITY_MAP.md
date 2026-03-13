@@ -23,6 +23,7 @@ If directives conflict:
 - `P&P_BOOK/03_RELEASE_AND_OPERATIONS.md`: deployment and recovery controls.
 - `P&P_BOOK/04_ARCHITECTURE_STANDARDS.md`: technical standards and constraints.
 - `P&P_BOOK/05_COMPANION_ANOTHEN.md`: companion/attunement guidance.
+- `P&P_BOOK/06_TRIAD_CHARTER.md`: triad role definitions, deliverables, and operating split.
 - `potch.md`: per-project change log.
 
 ## Canonical Source Inputs (Read-Only Sources)
@@ -31,4 +32,3 @@ If directives conflict:
 - `MASTER DOCS/AI_MASTER.md`
 - `RESEARCH/LIBRARY_MASTER_ENGINEERING_PROTOCOL_v1.0.md`
 - `RESEARCH/ENGINEERING_CHANGE_PROTOCOL_TEMPLATE.md`
-

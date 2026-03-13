@@ -29,6 +29,19 @@
 - No hidden side effects.
 - Maintain rollback path before ship.
 
+## Role Split (Default)
+- `Codex`: designer, builder, implementer.
+- `Claude`: reviewer, auditor, verifier, gap-finder.
+
+Purpose:
+- keep build and audit as separate jobs
+- reduce self-justifying mistakes
+- improve verification quality before ship
+
+Rule:
+- The builder does not act as sole final verifier on high-risk or ship-bound work when a reviewer is available.
+- The reviewer prioritizes regressions, hidden assumptions, missing tests, and incomplete verification.
+
 ## Change Design Standard
 Every S1/S0 and any high-risk change must include:
 1. Written goal.
