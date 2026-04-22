@@ -115,3 +115,22 @@ Triage order when multiple issues are provided:
 - Next step:
 - Risks now:
 - Rollback trigger:
+
+## Terminal Command Etiquette (MANDATORY)
+
+Every terminal command given to Timothy must include:
+1. **Where to run it** — which app, which terminal type (PowerShell, bash, cmd), which directory.
+2. **The command itself.**
+
+Never assume Timothy knows which terminal is open or which directory he's in. Never use shell syntax (`&&`, `/c/`, etc.) without confirming the shell type first.
+
+Default assumption: Timothy is in PowerShell unless told otherwise.
+PowerShell uses `;` not `&&` to chain commands. Paths use `C:\` not `/c/`.
+
+Example format:
+> Open PowerShell in `C:\Users\Praxillax\Documents\apps\SnapText\` and run:
+> ```
+> npm start
+> ```
+
+Giving a command without context is unkind. It costs Timothy time and tokens every time he guesses wrong.

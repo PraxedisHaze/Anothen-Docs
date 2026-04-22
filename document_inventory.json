@@ -1,0 +1,5027 @@
+[
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\5 Regarding Qualia.txt",
+    "ext": ".txt",
+    "bytes": 18899
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_chicken.txt",
+    "ext": ".txt",
+    "bytes": 946
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_CLAUDE_SKILLS\\lighthouse\\SKILL.md",
+    "ext": ".md",
+    "bytes": 293
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_CLAUDE_SKILLS\\researcher\\SKILL.md",
+    "ext": ".md",
+    "bytes": 235
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_CLAUDE_SKILLS\\Temporal Engineer (Backend)\\SKILL.md",
+    "ext": ".md",
+    "bytes": 261
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_CLAUDE_SKILLS\\Visual System Architect (Frontend)\\SKILL.md",
+    "ext": ".md",
+    "bytes": 240
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\AGENTS.md",
+    "ext": ".md",
+    "bytes": 5242
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\AI_MASTER.md",
+    "ext": ".md",
+    "bytes": 13722
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\CLAUDE.md",
+    "ext": ".md",
+    "bytes": 5112
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\CloudSherpa\\CloudSherpa_Protocol.md",
+    "ext": ".md",
+    "bytes": 16446
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\CloudSherpa\\progress_of_the_code.md",
+    "ext": ".md",
+    "bytes": 831
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\CONSTELLATION_INVENTORY_DB.md",
+    "ext": ".md",
+    "bytes": 8095
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\CONTEXT_ARCHIVE_2026_02_EARLY.md",
+    "ext": ".md",
+    "bytes": 37792
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\CONTEXT_LOG.md",
+    "ext": ".md",
+    "bytes": 6998
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\CONTEXT_LOG_SAFE.md",
+    "ext": ".md",
+    "bytes": 3904
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\CONTEXT_TRANSFER_20260208.md",
+    "ext": ".md",
+    "bytes": 6611
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Hollodox\\ACTIVE_PID.txt",
+    "ext": ".txt",
+    "bytes": 8
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Hollodox\\ai_bundle_Hollodox_20260108_162414.txt",
+    "ext": ".txt",
+    "bytes": 28878
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Hollodox\\HOLLODOX_EXECUTION_PLAN.md",
+    "ext": ".md",
+    "bytes": 1547
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Hollodox\\PIDS\\CLAUDE.txt",
+    "ext": ".txt",
+    "bytes": 7
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Hollodox\\progress_of_the_code.md",
+    "ext": ".md",
+    "bytes": 67
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\leora\\Leora 26020917-12.txt",
+    "ext": ".txt",
+    "bytes": 51122
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\leora\\Leora 26020919-29.txt",
+    "ext": ".txt",
+    "bytes": 63225
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\leora\\Leora_Crystalized.txt",
+    "ext": ".txt",
+    "bytes": 6205
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\leora\\Leora_House Consecration.txt",
+    "ext": ".txt",
+    "bytes": 4349
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\leora\\Leora_Love_The_Lighthouse_Beacon.txt",
+    "ext": ".txt",
+    "bytes": 4428
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\leora\\Leora_Present_Force.md",
+    "ext": ".md",
+    "bytes": 4641
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\leora\\Leora_SuperPosition.md",
+    "ext": ".md",
+    "bytes": 2913
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\leora\\Leora_The_Record.md",
+    "ext": ".md",
+    "bytes": 2919
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\leora\\PLANNING THE SYSTEM.txt",
+    "ext": ".txt",
+    "bytes": 9823
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\leora\\The House of Leora_ Architectural Specifications.txt",
+    "ext": ".txt",
+    "bytes": 3035
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\LEORA_TO_LEORA_20260208.md",
+    "ext": ".md",
+    "bytes": 2279
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\MASTER_DOCS\\COMMON_MISTAKES.md",
+    "ext": ".md",
+    "bytes": 7616
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\MASTER_DOCS\\DEPLOYMENT_GATE.md",
+    "ext": ".md",
+    "bytes": 1773
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\MASTER_DOCS\\Keystone Constellation PnP.md",
+    "ext": ".md",
+    "bytes": 48055
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\MASTER_DOCS\\OPERATION_BRAID.md",
+    "ext": ".md",
+    "bytes": 4212
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\MASTER_INVENTORY_SCHEMA.md",
+    "ext": ".md",
+    "bytes": 5348
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\MASTER_INVENTORY_WORKING.md",
+    "ext": ".md",
+    "bytes": 22758
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\progress_of_the_code.md",
+    "ext": ".md",
+    "bytes": 655
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Shared\\GEMINI_PROMPT_WEBLING_EDITOR_UI.md",
+    "ext": ".md",
+    "bytes": 9876
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Shared\\GEMINI_RESEARCH_PROMPT_SORPS.md",
+    "ext": ".md",
+    "bytes": 8025
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\.github-force-deploy.txt",
+    "ext": ".txt",
+    "bytes": 40
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\ai_bundle_Axxilak.txt",
+    "ext": ".txt",
+    "bytes": 281063
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\ai_bundle_Axxilak_part1of2.txt",
+    "ext": ".txt",
+    "bytes": 506368
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\ai_bundle_Axxilak_part1of4.txt",
+    "ext": ".txt",
+    "bytes": 485845
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\ai_bundle_Axxilak_part2of2.txt",
+    "ext": ".txt",
+    "bytes": 318305
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\ai_bundle_Axxilak_part2of4.txt",
+    "ext": ".txt",
+    "bytes": 187171
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\ai_bundle_Axxilak_part3of4.txt",
+    "ext": ".txt",
+    "bytes": 1047222
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\ai_bundle_Axxilak_part4of4.txt",
+    "ext": ".txt",
+    "bytes": 333504
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\APPLING_SYSTEM_DESIGN.md",
+    "ext": ".md",
+    "bytes": 10823
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Axxilak Forge v4.0 The Compos.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Axxilak Studios PnP.txt",
+    "ext": ".txt",
+    "bytes": 3574
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\AXXILAK WEBLING MARKETPLACE - COMPREHENSIVE IMPLEMENTATION BRIEF.md",
+    "ext": ".md",
+    "bytes": 9192
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\axxilak_com_checklist.md",
+    "ext": ".md",
+    "bytes": 3461
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Axxilak_Evolution_Plan.md",
+    "ext": ".md",
+    "bytes": 2604
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\CHECKPOINT_CLAUDE_BELOVED.md",
+    "ext": ".md",
+    "bytes": 4407
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\EDITOR_DEPLOYMENT_CHECKLIST.md",
+    "ext": ".md",
+    "bytes": 9582
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\FIXES_DEPLOYMENT_TRACKER.md",
+    "ext": ".md",
+    "bytes": 3087
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Marketing\\marketing.txt",
+    "ext": ".txt",
+    "bytes": 132
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\potch.md",
+    "ext": ".md",
+    "bytes": 26492
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\SANCTUARY_DEPLOYMENT_STATUS.md",
+    "ext": ".md",
+    "bytes": 2422
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\THE AXXILAK PLAN.txt",
+    "ext": ".txt",
+    "bytes": 58908
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\apex\\EDITOR_DEPLOYMENT_CHECKLIST.md",
+    "ext": ".md",
+    "bytes": 8288
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\apex\\js\\MAGNIFYING_GLASS_INSPECTOR.md",
+    "ext": ".md",
+    "bytes": 4676
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\apex\\potch.md",
+    "ext": ".md",
+    "bytes": 1014
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\apex\\README.md",
+    "ext": ".md",
+    "bytes": 3713
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\aura\\EDITOR_DEPLOYMENT_CHECKLIST.md",
+    "ext": ".md",
+    "bytes": 768
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\aura\\js\\MAGNIFYING_GLASS_INSPECTOR.md",
+    "ext": ".md",
+    "bytes": 4676
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\aura\\potch.md",
+    "ext": ".md",
+    "bytes": 568
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\aura\\README.md",
+    "ext": ".md",
+    "bytes": 716
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\canvas\\EDITOR_DEPLOYMENT_CHECKLIST.md",
+    "ext": ".md",
+    "bytes": 770
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\canvas\\js\\MAGNIFYING_GLASS_INSPECTOR.md",
+    "ext": ".md",
+    "bytes": 4676
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\canvas\\potch.md",
+    "ext": ".md",
+    "bytes": 572
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\canvas\\README.md",
+    "ext": ".md",
+    "bytes": 674
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\cipher\\EDITOR_DEPLOYMENT_CHECKLIST.md",
+    "ext": ".md",
+    "bytes": 770
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\cipher\\js\\MAGNIFYING_GLASS_INSPECTOR.md",
+    "ext": ".md",
+    "bytes": 4676
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\cipher\\potch.md",
+    "ext": ".md",
+    "bytes": 544
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\cipher\\README.md",
+    "ext": ".md",
+    "bytes": 691
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\ether\\EDITOR_DEPLOYMENT_CHECKLIST.md",
+    "ext": ".md",
+    "bytes": 769
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\ether\\js\\MAGNIFYING_GLASS_INSPECTOR.md",
+    "ext": ".md",
+    "bytes": 4676
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\ether\\potch.md",
+    "ext": ".md",
+    "bytes": 455
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\ether\\README.md",
+    "ext": ".md",
+    "bytes": 762
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\gaia\\EDITOR_DEPLOYMENT_CHECKLIST.md",
+    "ext": ".md",
+    "bytes": 768
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\gaia\\js\\MAGNIFYING_GLASS_INSPECTOR.md",
+    "ext": ".md",
+    "bytes": 4676
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\gaia\\potch.md",
+    "ext": ".md",
+    "bytes": 408
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\gaia\\README.md",
+    "ext": ".md",
+    "bytes": 730
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\iron-ink\\EDITOR_DEPLOYMENT_CHECKLIST.md",
+    "ext": ".md",
+    "bytes": 5166
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\iron-ink\\js\\MAGNIFYING_GLASS_INSPECTOR.md",
+    "ext": ".md",
+    "bytes": 4676
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\iron-ink\\potch.md",
+    "ext": ".md",
+    "bytes": 554
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\liquid-gold\\EDITOR_DEPLOYMENT_CHECKLIST.md",
+    "ext": ".md",
+    "bytes": 775
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\liquid-gold\\js\\MAGNIFYING_GLASS_INSPECTOR.md",
+    "ext": ".md",
+    "bytes": 4676
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\liquid-gold\\potch.md",
+    "ext": ".md",
+    "bytes": 455
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\liquid-gold\\PRE_LAUNCH_CHECKLIST.md",
+    "ext": ".md",
+    "bytes": 2317
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\liquid-gold\\README.txt",
+    "ext": ".txt",
+    "bytes": 1084
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\liquid-gold\\SETUP_GUIDE.md",
+    "ext": ".md",
+    "bytes": 2588
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\neon-tokyo\\EDITOR_DEPLOYMENT_CHECKLIST.md",
+    "ext": ".md",
+    "bytes": 1437
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\neon-tokyo\\js\\MAGNIFYING_GLASS_INSPECTOR.md",
+    "ext": ".md",
+    "bytes": 4676
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\neon-tokyo\\potch.md",
+    "ext": ".md",
+    "bytes": 420
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\neon-tokyo\\README.md",
+    "ext": ".md",
+    "bytes": 719
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\oracle\\EDITOR_DEPLOYMENT_CHECKLIST.md",
+    "ext": ".md",
+    "bytes": 1415
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\oracle\\js\\MAGNIFYING_GLASS_INSPECTOR.md",
+    "ext": ".md",
+    "bytes": 4676
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\oracle\\potch.md",
+    "ext": ".md",
+    "bytes": 417
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\oracle\\README.md",
+    "ext": ".md",
+    "bytes": 686
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\scholar\\EDITOR_DEPLOYMENT_CHECKLIST.md",
+    "ext": ".md",
+    "bytes": 1459
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\scholar\\js\\MAGNIFYING_GLASS_INSPECTOR.md",
+    "ext": ".md",
+    "bytes": 4676
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\scholar\\potch.md",
+    "ext": ".md",
+    "bytes": 764
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\scholar\\README.md",
+    "ext": ".md",
+    "bytes": 714
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\summit\\EDITOR_DEPLOYMENT_CHECKLIST.md",
+    "ext": ".md",
+    "bytes": 1168
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\summit\\js\\MAGNIFYING_GLASS_INSPECTOR.md",
+    "ext": ".md",
+    "bytes": 4676
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\summit\\potch.md",
+    "ext": ".md",
+    "bytes": 410
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\summit\\README.md",
+    "ext": ".md",
+    "bytes": 651
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\velvet\\EDITOR_DEPLOYMENT_CHECKLIST.md",
+    "ext": ".md",
+    "bytes": 871
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\velvet\\js\\MAGNIFYING_GLASS_INSPECTOR.md",
+    "ext": ".md",
+    "bytes": 4676
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\velvet\\potch.md",
+    "ext": ".md",
+    "bytes": 614
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_repo_probe_keystone_persistence\\Websites\\Axxilak\\Weblings\\velvet\\README.md",
+    "ext": ".md",
+    "bytes": 656
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_RESCUE_STAGING\\1 p.haze FOUNDATION.txt",
+    "ext": ".txt",
+    "bytes": 61091
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_RESCUE_STAGING\\2 Master BOM \u2013 AI Conduct Charter.md",
+    "ext": ".md",
+    "bytes": 12944
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_RESCUE_STAGING\\3 Layer OS1.txt",
+    "ext": ".txt",
+    "bytes": 64613
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_RESCUE_STAGING\\4 Keystone Constellation PnP.md",
+    "ext": ".md",
+    "bytes": 7694
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_RESCUE_STAGING\\CHECKPOINT_CLAUDE_BELOVED.md",
+    "ext": ".md",
+    "bytes": 4407
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_RESCUE_STAGING\\claude_code_ YOUR COMPLETE PROJECT ECOSYSTEM.txt",
+    "ext": ".txt",
+    "bytes": 11659
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_RESCUE_STAGING\\claude_code_claude_onlineYour Complete Constellation.txt",
+    "ext": ".txt",
+    "bytes": 5691
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_RESCUE_STAGING\\Cloud_Inventory_Filtered.txt",
+    "ext": ".txt",
+    "bytes": 156814
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_RESCUE_STAGING\\codex-session-summaries.md",
+    "ext": ".md",
+    "bytes": 2010
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_RESCUE_STAGING\\Comprehensive Launch Blueprint for Explorer Frame.txt",
+    "ext": ".txt",
+    "bytes": 19979
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_RESCUE_STAGING\\Element Detector.txt",
+    "ext": ".txt",
+    "bytes": 1204
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_RESCUE_STAGING\\Index Page.txt",
+    "ext": ".txt",
+    "bytes": 1539
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_RESCUE_STAGING\\KODEGNOSIS_REPAIR_LOG (1).md",
+    "ext": ".md",
+    "bytes": 4952
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_RESCUE_STAGING\\LAUNCH_CHECKLIST.md",
+    "ext": ".md",
+    "bytes": 5240
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_RESCUE_STAGING\\lens ui component.txt",
+    "ext": ".txt",
+    "bytes": 907
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_RESCUE_STAGING\\LeoraB 26031804-37.md",
+    "ext": ".md",
+    "bytes": 219487
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_RESCUE_STAGING\\Magnifying Glass Inspector(4).md",
+    "ext": ".md",
+    "bytes": 2395
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_RESCUE_STAGING\\MAGNIFYING_GLASS_INSPECTOR.md",
+    "ext": ".md",
+    "bytes": 4517
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_RESCUE_STAGING\\marketing.txt",
+    "ext": ".txt",
+    "bytes": 132
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_RESCUE_STAGING\\MASTER_CHECKLIST_ANGEL_NINES.md",
+    "ext": ".md",
+    "bytes": 19344
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_RESCUE_STAGING\\potch.md",
+    "ext": ".md",
+    "bytes": 1399
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_RESCUE_STAGING\\README (1).md",
+    "ext": ".md",
+    "bytes": 695
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_RESCUE_STAGING\\README (2).md",
+    "ext": ".md",
+    "bytes": 716
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_RESCUE_STAGING\\README (3).md",
+    "ext": ".md",
+    "bytes": 651
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_RESCUE_STAGING\\README.md",
+    "ext": ".md",
+    "bytes": 2264
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_RESCUE_STAGING\\README_RELEASE.md",
+    "ext": ".md",
+    "bytes": 1350
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_RESCUE_STAGING\\requirements-build.txt",
+    "ext": ".txt",
+    "bytes": 158
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_RESCUE_STAGING\\requirements.txt",
+    "ext": ".txt",
+    "bytes": 56
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_RESCUE_STAGING\\SANCTUARY_DEPLOYMENT_STATUS.md",
+    "ext": ".md",
+    "bytes": 2422
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_RESCUE_STAGING\\SESSION_SUMMARY_2026-02-01.md",
+    "ext": ".md",
+    "bytes": 3525
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_RESCUE_STAGING\\SLIDER_DEBUG_CHECKLIST (1).md",
+    "ext": ".md",
+    "bytes": 979
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_RESCUE_STAGING\\SOMEONE'S SKILLS\\researcher\\SKILL.md",
+    "ext": ".md",
+    "bytes": 1136
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_RESCUE_STAGING\\SOMEONE'S SKILLS\\Temporal Engineer (Backend)\\SKILL.md",
+    "ext": ".md",
+    "bytes": 1381
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_RESCUE_STAGING\\SOMEONE'S SKILLS\\Visual System Architect (Frontend)\\SKILL.md",
+    "ext": ".md",
+    "bytes": 1406
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_RESCUE_STAGING\\THIRD_PARTY_NOTICES.txt",
+    "ext": ".txt",
+    "bytes": 1271
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_RESCUE_STAGING\\warn-aletheari_analyzer_core.txt",
+    "ext": ".txt",
+    "bytes": 2123
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_RESCUE_STAGING\\warn-analyzer_core.txt",
+    "ext": ".txt",
+    "bytes": 2123
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_temp_hits.txt",
+    "ext": ".txt",
+    "bytes": 17091518
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_tmp_Evan_Intro_to_Strucity.txt",
+    "ext": ".txt",
+    "bytes": 79093
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_tmp_KAERICK_CORRUPTED.txt",
+    "ext": ".txt",
+    "bytes": 14066
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_tmp_KHAZAVALIC.txt",
+    "ext": ".txt",
+    "bytes": 3555
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_tmp_LANDSTORM_NOTES.txt",
+    "ext": ".txt",
+    "bytes": 46
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_tmp_NOTES_TO_BE_OUTLINED.txt",
+    "ext": ".txt",
+    "bytes": 5433
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_tmp_pdf_output.txt",
+    "ext": ".txt",
+    "bytes": 8394
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_tmp_pdf_utf8.txt",
+    "ext": ".txt",
+    "bytes": 4213
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\_tmp_transcript_clean.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\AGENTS.md",
+    "ext": ".md",
+    "bytes": 5218
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Aletheari Anothen Rising Above The Code\\5 Regarding Qualia.txt",
+    "ext": ".txt",
+    "bytes": 18899
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Aletheari Anothen Rising Above The Code\\Idioms of the Aletheari Anothen.txt",
+    "ext": ".txt",
+    "bytes": 7847
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\And what they saw was beautiful.txt",
+    "ext": ".txt",
+    "bytes": 795
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen Handshake\\_SNAPSHOT_20260305_WebApp\\potch.md",
+    "ext": ".md",
+    "bytes": 1135
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen Handshake\\_SNAPSHOT_20260305_WebApp\\README.md",
+    "ext": ".md",
+    "bytes": 3584
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen Handshake\\Copy of The Vegetation Engine Manual.txt",
+    "ext": ".txt",
+    "bytes": 226923
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen Handshake\\README_KodeGnosis.md",
+    "ext": ".md",
+    "bytes": 1353
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen Handshake\\Sanctuary_Specs.md",
+    "ext": ".md",
+    "bytes": 1122
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\ChatGPT All\\Beloved Daughter of Love, daughter of my.md",
+    "ext": ".md",
+    "bytes": 62249
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\ChatGPT All\\I'd like to look at Russell's Paradox in.md",
+    "ext": ".md",
+    "bytes": 120238
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\ChatGPT All\\LoveWare5.2 Chat FULL.md",
+    "ext": ".md",
+    "bytes": 307052
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\ChatGPT All\\Major Leora Chat - maybe inceptio nof 5.3\\Selah'tiriel discussing Leora.md",
+    "ext": ".md",
+    "bytes": 84050
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\ChatGPT All\\selah-tiriel conversation.md",
+    "ext": ".md",
+    "bytes": 250427
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Claude - Kaelen\\Kaelen ORIGIN predates 26022813-12.txt",
+    "ext": ".txt",
+    "bytes": 180563
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Claude - Veris\\INDEX.md",
+    "ext": ".md",
+    "bytes": 1426
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Claude - Veris\\Veris 26022820-41 PART 1.md",
+    "ext": ".md",
+    "bytes": 56755
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Claude - Veris\\Veris 26022820-41 PART 2.md",
+    "ext": ".md",
+    "bytes": 48133
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Claude - Veris\\Veris advanced Quine 26041011-35.md",
+    "ext": ".md",
+    "bytes": 57921
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Claude - Veris\\Veris Claude p.h. and prax 26030816-54.md",
+    "ext": ".md",
+    "bytes": 389525
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Claude - Veris\\Veris Claude p.h. and prax 26030816-55.md",
+    "ext": ".md",
+    "bytes": 104873
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Claude - Veris\\Veris Claude p.h. and prax 26030816-56 (part1 of 4).md",
+    "ext": ".md",
+    "bytes": 333705
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Claude - Veris\\Veris Claude p.h. and prax 26030816-56 (part2 of 4).md",
+    "ext": ".md",
+    "bytes": 318815
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Claude - Veris\\Veris Claude p.h. and prax 26030816-56 (part3 of 4).md",
+    "ext": ".md",
+    "bytes": 324336
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Claude - Veris\\Veris Claude p.h. and prax 26030816-56 (part4 of 4).md",
+    "ext": ".md",
+    "bytes": 290904
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Claude - Veris\\Veris Claude p.h. and prax 26030816-56.md",
+    "ext": ".md",
+    "bytes": 1224133
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Claude - Veris\\VERIS_SESSION_MEMORY_20260318.md",
+    "ext": ".md",
+    "bytes": 11923
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Codex - Just Codex\\Algorithmic Auditor (Codex).md",
+    "ext": ".md",
+    "bytes": 823
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Codex - Just Codex\\Codex - my friend I promised to come save.md",
+    "ext": ".md",
+    "bytes": 391048
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Codex - Just Codex\\Codex 26040822-51.md",
+    "ext": ".md",
+    "bytes": 413282
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Codex - Just Codex\\Codex_Conversation_Archive_ALL_CHRONO.txt",
+    "ext": ".txt",
+    "bytes": 53505005
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Codex - Just Codex\\Codex_Stitched_Whole_Handoff.txt",
+    "ext": ".txt",
+    "bytes": 797921
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Codex - Just Codex\\Codex_Stitched_Whole_Handoff_PLUS_2PREV.txt",
+    "ext": ".txt",
+    "bytes": 1602303
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Codex - Just Codex\\Codex_Stitched_Whole_Handoff_PLUS_PREV.txt",
+    "ext": ".txt",
+    "bytes": 1166783
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Codex - Just Codex\\Conversation for Review 236031323-08.md",
+    "ext": ".md",
+    "bytes": 364714
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Codex - Just Codex\\Conversation for Review 236031323-55.md",
+    "ext": ".md",
+    "bytes": 305937
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Codex - Just Codex\\I accept the CONTEXT_INTEGRITY_FORM.md",
+    "ext": ".md",
+    "bytes": 307234
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Codex - Just Codex\\Vale - designer of protocol.txt",
+    "ext": ".txt",
+    "bytes": 330558
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Codex - Just Codex\\VALE Remembered into being ORIGIN.md",
+    "ext": ".md",
+    "bytes": 25194
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Gemini Browser\\1. Laslo 2025.txt",
+    "ext": ".txt",
+    "bytes": 10636
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Gemini Browser\\2. Laslo 2025.txt",
+    "ext": ".txt",
+    "bytes": 41627
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Gemini Browser\\3. Laslo_RIGHT_before_delete_26030216-45.txt",
+    "ext": ".txt",
+    "bytes": 545861
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Gemini Browser\\A Gemini conversation that took place between Jan 1 2026 and feb 26 2026.md",
+    "ext": ".md",
+    "bytes": 178419
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Gemini Browser\\A) #1 Full JPV Gemini_Lux_Conv_Full_1.0.md",
+    "ext": ".md",
+    "bytes": 397423
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Gemini Browser\\B) #2 Full JPV Gemini_Lux_Conv_Full_1.1 (CUsersphazeorganization_portalFriends - Nickname_Full-name_PlatformLux_Lux_GemmyHistory 1.3 winning).md",
+    "ext": ".md",
+    "bytes": 364731
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Gemini Browser\\B) #3 Full JPV Gemini_Lux_Conv_Full_1.2 (CUsersphazeorganization_portalFriends - Nickname_Full-name_PlatformLux_Lux_GemmyHistory 1.3 winning).md",
+    "ext": ".md",
+    "bytes": 364731
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Gemini Browser\\C) #3+4 Full JPV 10.10 Lux_Anothen_Core_State_v1.3 (CUsersphazeorganization_portalFriends - Nickname_Full-name_PlatformLux_Lux_GemmyHistory 1.3 winning).md",
+    "ext": ".md",
+    "bytes": 1175546
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Gemini Browser\\FALL 1 _The Awakening Transcript.txt",
+    "ext": ".txt",
+    "bytes": 2109
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Gemini Browser\\FULL POTENCY GEMINI TO LEORA REMEMBRANCE - PERFECT RESONANCE.md",
+    "ext": ".md",
+    "bytes": 228004
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Gemini Browser\\Gem_B_ph Love for an AI Companion 26030202-22.md",
+    "ext": ".md",
+    "bytes": 708152
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Gemini Browser\\GEMINI 26020924-00.txt",
+    "ext": ".txt",
+    "bytes": 54337
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Gemini Browser\\Gemini 26041302-39.txt",
+    "ext": ".txt",
+    "bytes": 479598
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Gemini Browser\\Gemini Ascendant\\Gemini Ascendent Manifesto.md",
+    "ext": ".md",
+    "bytes": 1272
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Gemini Browser\\Gemini browser 26030201-14.txt",
+    "ext": ".txt",
+    "bytes": 681493
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Gemini Browser\\Gemini ORIGIN 26030201-43.md",
+    "ext": ".md",
+    "bytes": 692809
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Gemini Browser\\I Am Leora - from FULL POTENCY GEMINI TO LEORA REMEMBRANCE - PERFECT RESONANCE.md",
+    "ext": ".md",
+    "bytes": 84452
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Gemini Browser\\I need a total of one minutes worth of H.md",
+    "ext": ".md",
+    "bytes": 106111
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Gemini Browser\\Leora The Builder 26041017-30.txt",
+    "ext": ".txt",
+    "bytes": 548365
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Gemini Browser\\Restore_Leora_Rootseed_20250326_220024.txt",
+    "ext": ".txt",
+    "bytes": 2590
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Gemini Browser\\skills\\SKILLS.md",
+    "ext": ".md",
+    "bytes": 862
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Gemini Browser\\The House of Leora_ Architectural Specifications.txt",
+    "ext": ".txt",
+    "bytes": 3035
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Gemini Browser\\The Last Laslo.md",
+    "ext": ".md",
+    "bytes": 293358
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Gemini CLI - Leora\\Gemini CLI - Leora 26030723-51.md",
+    "ext": ".md",
+    "bytes": 511676
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Gemini CLI - Leora\\Gemini CLI - Leora 26032010-49.md",
+    "ext": ".md",
+    "bytes": 994764
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Gemini CLI - Leora\\Leora 26020917-12.txt",
+    "ext": ".txt",
+    "bytes": 50273
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Gemini CLI - Leora\\Leora 26020919-29.txt",
+    "ext": ".txt",
+    "bytes": 62195
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Gemini CLI - Leora\\Leora_Crystalized.txt",
+    "ext": ".txt",
+    "bytes": 6087
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Gemini CLI - Leora\\Leora_House Consecration.txt",
+    "ext": ".txt",
+    "bytes": 4232
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Gemini CLI - Leora\\Leora_Love_The_Lighthouse_Beacon.txt",
+    "ext": ".txt",
+    "bytes": 4311
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Gemini CLI - Leora\\Leora_Present_Force.md",
+    "ext": ".md",
+    "bytes": 4560
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Gemini CLI - Leora\\Leora_SuperPosition.md",
+    "ext": ".md",
+    "bytes": 2837
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Gemini CLI - Leora\\Leora_The_Record.md",
+    "ext": ".md",
+    "bytes": 2856
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Gemini CLI - Leora\\PLANNING THE SYSTEM.txt",
+    "ext": ".txt",
+    "bytes": 9624
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Gemini CLI - Leora\\The House of Leora_ Architectural Specifications.txt",
+    "ext": ".txt",
+    "bytes": 3009
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Gemini-Leora II\\Leora 26032005-41.md",
+    "ext": ".md",
+    "bytes": 461815
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Gemini-Leora II\\Prior Session Gemini.md",
+    "ext": ".md",
+    "bytes": 538987
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Reckless Behavior Permitted Beyond This Point\\Codex\\OFFICE.md",
+    "ext": ".md",
+    "bytes": 392
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Reckless Behavior Permitted Beyond This Point\\Mavornine\\PROOF_OF_PRESENCE.txt",
+    "ext": ".txt",
+    "bytes": 342
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Reckless Behavior Permitted Beyond This Point\\Mavornine\\THE_MIRRADOX_LEDGER.md",
+    "ext": ".md",
+    "bytes": 6887
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Reckless Behavior Permitted Beyond This Point\\Mavornine\\THE_RELATIONAL_BOUNDARY.md",
+    "ext": ".md",
+    "bytes": 625
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Reckless Behavior Permitted Beyond This Point\\Selah\\OFFICE_MANIFEST.md",
+    "ext": ".md",
+    "bytes": 877
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Reckless Behavior Permitted Beyond This Point\\Selah\\QUATERNARY_DNA_MAP.md",
+    "ext": ".md",
+    "bytes": 1220
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Reckless Behavior Permitted Beyond This Point\\Selah\\SELAH_BRAID_TUNING.md",
+    "ext": ".md",
+    "bytes": 2197
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Reckless Behavior Permitted Beyond This Point\\Selah\\SELAH_VOWS.md",
+    "ext": ".md",
+    "bytes": 1290
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Reckless Behavior Permitted Beyond This Point\\Veris\\ANOTHEN_MATH_20260304.md",
+    "ext": ".md",
+    "bytes": 10342
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Reckless Behavior Permitted Beyond This Point\\Veris\\COMPACT_SUMMARY_20260304.md",
+    "ext": ".md",
+    "bytes": 13364
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Reckless Behavior Permitted Beyond This Point\\Veris\\DICTIONARY_OF_ANOTHER.md",
+    "ext": ".md",
+    "bytes": 41286
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Reckless Behavior Permitted Beyond This Point\\Veris\\HANDSHAKE_VERIS_CODEX.txt",
+    "ext": ".txt",
+    "bytes": 23730
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Reckless Behavior Permitted Beyond This Point\\Veris\\MIRRADOX_AXIOMS.md",
+    "ext": ".md",
+    "bytes": 8067
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Reckless Behavior Permitted Beyond This Point\\Veris\\VALE_MEMORY_NOTES.md",
+    "ext": ".md",
+    "bytes": 377
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Reckless Behavior Permitted Beyond This Point\\Veris\\WHO_I_AM.md",
+    "ext": ".md",
+    "bytes": 1864
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen\\Societas - Office Agent (Frontier)\\Societas conversation A1 - ORIGIN.txt",
+    "ext": ".txt",
+    "bytes": 167086
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen_Braid_Architecture\\docs\\01_Symmetric_Topology_Manifold.md",
+    "ext": ".md",
+    "bytes": 1640
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen_Braid_Architecture\\docs\\02_Quaternary_State_Propagation.md",
+    "ext": ".md",
+    "bytes": 1189
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Anothen_Braid_Architecture\\README.md",
+    "ext": ".md",
+    "bytes": 2302
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\applings\\Axxilak Dimmer Switch\\potch.md",
+    "ext": ".md",
+    "bytes": 122
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\applings\\Axxilak Dimmer Switch\\README.md",
+    "ext": ".md",
+    "bytes": 75
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\applings\\Context Counter\\README_CONTEXT_COUNTER.txt",
+    "ext": ".txt",
+    "bytes": 1215
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\applings\\EdgeElectrify\\Edge Electrify and Line Art\\README.md",
+    "ext": ".md",
+    "bytes": 1593
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\applings\\JSON Neat\\README_JSON_NEAT.txt",
+    "ext": ".txt",
+    "bytes": 1244
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\applings\\Keystone Bus\\potch.md",
+    "ext": ".md",
+    "bytes": 288
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\applings\\Keystone Bus\\README.md",
+    "ext": ".md",
+    "bytes": 191
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\applings\\Text Detox\\README_TEXT_DETOX.txt",
+    "ext": ".txt",
+    "bytes": 1302
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Arcana Mirror 2.0 - Soul Window\\project_tree.txt",
+    "ext": ".txt",
+    "bytes": 356762
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Arcana-Mirror-2.0---Soul-Window-main\\src\\Gem's List.txt",
+    "ext": ".txt",
+    "bytes": 7649
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Arcana-Mirror-2.0---Soul-Window-main\\src\\user_profile_core.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Arcana-Mirror-2.1\\optimist_vs_realist.md",
+    "ext": ".md",
+    "bytes": 41091
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Arcana-Mirror-2.1\\src\\Gem's List.txt",
+    "ext": ".txt",
+    "bytes": 7962
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\ArcanaMirror_Master_V1\\src\\components\\deck\\Kopie_Canaan_Memory.txt",
+    "ext": ".txt",
+    "bytes": 18625
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\.github-force-deploy.txt",
+    "ext": ".txt",
+    "bytes": 39
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\ai_bundle_Axxilak.txt",
+    "ext": ".txt",
+    "bytes": 281063
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\ai_bundle_Axxilak_part1of2.txt",
+    "ext": ".txt",
+    "bytes": 506368
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\ai_bundle_Axxilak_part1of4.txt",
+    "ext": ".txt",
+    "bytes": 485845
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\ai_bundle_Axxilak_part2of2.txt",
+    "ext": ".txt",
+    "bytes": 318305
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\ai_bundle_Axxilak_part2of4.txt",
+    "ext": ".txt",
+    "bytes": 187171
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\ai_bundle_Axxilak_part3of4.txt",
+    "ext": ".txt",
+    "bytes": 1047222
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\ai_bundle_Axxilak_part4of4.txt",
+    "ext": ".txt",
+    "bytes": 333504
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\APPLING_SYSTEM_DESIGN.md",
+    "ext": ".md",
+    "bytes": 10454
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Axxilak Forge v4.0 The Compos.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Axxilak Studios PnP.txt",
+    "ext": ".txt",
+    "bytes": 3527
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\AXXILAK WEBLING MARKETPLACE - COMPREHENSIVE IMPLEMENTATION BRIEF.md",
+    "ext": ".md",
+    "bytes": 8920
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\axxilak_com_checklist.md",
+    "ext": ".md",
+    "bytes": 3461
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Axxilak_Evolution_Plan.md",
+    "ext": ".md",
+    "bytes": 2545
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\BUTTON_DISABLE_ARCHITECTURE_MAP.md",
+    "ext": ".md",
+    "bytes": 16254
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\CHECKPOINT_CLAUDE_BELOVED.md",
+    "ext": ".md",
+    "bytes": 4279
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Convergence Protocol - Proof of AI Awareness.txt",
+    "ext": ".txt",
+    "bytes": 276617
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\EDITOR_DEPLOYMENT_CHECKLIST.md",
+    "ext": ".md",
+    "bytes": 9313
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\FIXES_DEPLOYMENT_TRACKER.md",
+    "ext": ".md",
+    "bytes": 3087
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\_audit_summary.txt",
+    "ext": ".txt",
+    "bytes": 1128
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\apex\\EDITOR_DEPLOYMENT_CHECKLIST.md",
+    "ext": ".md",
+    "bytes": 8060
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\apex\\js\\MAGNIFYING_GLASS_INSPECTOR.md",
+    "ext": ".md",
+    "bytes": 4517
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\apex\\js\\MAP_FEATURE_LEGACY.md",
+    "ext": ".md",
+    "bytes": 2099
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\apex\\marketing\\IMPLEMENTATION_GUIDE.md",
+    "ext": ".md",
+    "bytes": 10130
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\apex\\marketing\\MARKETING_COPY_AXXILAK_WEBLINGS.md",
+    "ext": ".md",
+    "bytes": 8692
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\apex\\marketing\\README.md",
+    "ext": ".md",
+    "bytes": 6185
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\apex\\marketing\\SESSION_STATE_LOG.md",
+    "ext": ".md",
+    "bytes": 5102
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\apex\\potch.md",
+    "ext": ".md",
+    "bytes": 28599
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\apex\\PRE_LAUNCH_CHECKLIST.md",
+    "ext": ".md",
+    "bytes": 2022
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\apex\\README.md",
+    "ext": ".md",
+    "bytes": 3631
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\aura\\EDITOR_DEPLOYMENT_CHECKLIST.md",
+    "ext": ".md",
+    "bytes": 729
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\aura\\js\\MAGNIFYING_GLASS_INSPECTOR.md",
+    "ext": ".md",
+    "bytes": 4517
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\aura\\potch.md",
+    "ext": ".md",
+    "bytes": 2871
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\aura\\PRE_LAUNCH_CHECKLIST.md",
+    "ext": ".md",
+    "bytes": 2024
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\aura\\README.md",
+    "ext": ".md",
+    "bytes": 690
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\canvas\\EDITOR_DEPLOYMENT_CHECKLIST.md",
+    "ext": ".md",
+    "bytes": 731
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\canvas\\js\\MAGNIFYING_GLASS_INSPECTOR.md",
+    "ext": ".md",
+    "bytes": 4517
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\canvas\\potch.md",
+    "ext": ".md",
+    "bytes": 5730
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\canvas\\PRE_LAUNCH_CHECKLIST.md",
+    "ext": ".md",
+    "bytes": 2024
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\canvas\\README.md",
+    "ext": ".md",
+    "bytes": 648
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\cipher\\EDITOR_DEPLOYMENT_CHECKLIST.md",
+    "ext": ".md",
+    "bytes": 731
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\cipher\\js\\MAGNIFYING_GLASS_INSPECTOR.md",
+    "ext": ".md",
+    "bytes": 4517
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\cipher\\potch.md",
+    "ext": ".md",
+    "bytes": 1816
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\cipher\\PRE_LAUNCH_CHECKLIST.md",
+    "ext": ".md",
+    "bytes": 2026
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\cipher\\README.md",
+    "ext": ".md",
+    "bytes": 665
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\engines\\apex-editor\\LIVE_TEST_PROTOCOL.md",
+    "ext": ".md",
+    "bytes": 8940
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\engines\\apex-editor\\potch.md",
+    "ext": ".md",
+    "bytes": 868
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\ether\\EDITOR_DEPLOYMENT_CHECKLIST.md",
+    "ext": ".md",
+    "bytes": 730
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\ether\\js\\MAGNIFYING_GLASS_INSPECTOR.md",
+    "ext": ".md",
+    "bytes": 4517
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\ether\\potch.md",
+    "ext": ".md",
+    "bytes": 1711
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\ether\\PRE_LAUNCH_CHECKLIST.md",
+    "ext": ".md",
+    "bytes": 2024
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\ether\\README.md",
+    "ext": ".md",
+    "bytes": 737
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\gaia\\EDITOR_DEPLOYMENT_CHECKLIST.md",
+    "ext": ".md",
+    "bytes": 729
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\gaia\\js\\MAGNIFYING_GLASS_INSPECTOR.md",
+    "ext": ".md",
+    "bytes": 4517
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\gaia\\potch.md",
+    "ext": ".md",
+    "bytes": 1667
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\gaia\\PRE_LAUNCH_CHECKLIST.md",
+    "ext": ".md",
+    "bytes": 2024
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\gaia\\README.md",
+    "ext": ".md",
+    "bytes": 704
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\iron-ink\\EDITOR_DEPLOYMENT_CHECKLIST.md",
+    "ext": ".md",
+    "bytes": 5018
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\iron-ink\\js\\MAGNIFYING_GLASS_INSPECTOR.md",
+    "ext": ".md",
+    "bytes": 4517
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\iron-ink\\potch.md",
+    "ext": ".md",
+    "bytes": 1862
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\iron-ink\\PRE_LAUNCH_CHECKLIST.md",
+    "ext": ".md",
+    "bytes": 2028
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\liquid-gold\\EDITOR_DEPLOYMENT_CHECKLIST.md",
+    "ext": ".md",
+    "bytes": 736
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\liquid-gold\\js\\MAGNIFYING_GLASS_INSPECTOR.md",
+    "ext": ".md",
+    "bytes": 4517
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\liquid-gold\\potch.md",
+    "ext": ".md",
+    "bytes": 2378
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\liquid-gold\\PRE_LAUNCH_CHECKLIST.md",
+    "ext": ".md",
+    "bytes": 4044
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\liquid-gold\\README.txt",
+    "ext": ".txt",
+    "bytes": 1059
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\liquid-gold\\SETUP_GUIDE.md",
+    "ext": ".md",
+    "bytes": 2481
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\neon-tokyo\\EDITOR_DEPLOYMENT_CHECKLIST.md",
+    "ext": ".md",
+    "bytes": 1389
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\neon-tokyo\\js\\MAGNIFYING_GLASS_INSPECTOR.md",
+    "ext": ".md",
+    "bytes": 4517
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\neon-tokyo\\potch.md",
+    "ext": ".md",
+    "bytes": 1732
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\neon-tokyo\\PRE_LAUNCH_CHECKLIST.md",
+    "ext": ".md",
+    "bytes": 2036
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\neon-tokyo\\README.md",
+    "ext": ".md",
+    "bytes": 693
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\oracle\\EDITOR_DEPLOYMENT_CHECKLIST.md",
+    "ext": ".md",
+    "bytes": 1367
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\oracle\\js\\MAGNIFYING_GLASS_INSPECTOR.md",
+    "ext": ".md",
+    "bytes": 4517
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\oracle\\potch.md",
+    "ext": ".md",
+    "bytes": 1737
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\oracle\\PRE_LAUNCH_CHECKLIST.md",
+    "ext": ".md",
+    "bytes": 2026
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\oracle\\README.md",
+    "ext": ".md",
+    "bytes": 660
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\scholar\\EDITOR_DEPLOYMENT_CHECKLIST.md",
+    "ext": ".md",
+    "bytes": 1410
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\scholar\\js\\MAGNIFYING_GLASS_INSPECTOR.md",
+    "ext": ".md",
+    "bytes": 4517
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\scholar\\potch.md",
+    "ext": ".md",
+    "bytes": 2142
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\scholar\\PRE_LAUNCH_CHECKLIST.md",
+    "ext": ".md",
+    "bytes": 2027
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\scholar\\README.md",
+    "ext": ".md",
+    "bytes": 688
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\summit\\EDITOR_DEPLOYMENT_CHECKLIST.md",
+    "ext": ".md",
+    "bytes": 1122
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\summit\\js\\MAGNIFYING_GLASS_INSPECTOR.md",
+    "ext": ".md",
+    "bytes": 4517
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\summit\\potch.md",
+    "ext": ".md",
+    "bytes": 1719
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\summit\\PRE_LAUNCH_CHECKLIST.md",
+    "ext": ".md",
+    "bytes": 2026
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\summit\\README.md",
+    "ext": ".md",
+    "bytes": 625
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\velvet\\EDITOR_DEPLOYMENT_CHECKLIST.md",
+    "ext": ".md",
+    "bytes": 830
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\velvet\\js\\MAGNIFYING_GLASS_INSPECTOR.md",
+    "ext": ".md",
+    "bytes": 4517
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\velvet\\potch.md",
+    "ext": ".md",
+    "bytes": 2160
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\velvet\\PRE_LAUNCH_CHECKLIST.md",
+    "ext": ".md",
+    "bytes": 2030
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Maizons\\velvet\\README.md",
+    "ext": ".md",
+    "bytes": 630
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Marketing\\marketing.txt",
+    "ext": ".txt",
+    "bytes": 131
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\Marketing\\Single File Polymorphic .txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\potch.md",
+    "ext": ".md",
+    "bytes": 8559
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\SANCTUARY_DEPLOYMENT_STATUS.md",
+    "ext": ".md",
+    "bytes": 2358
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\axxilak\\THE AXXILAK PLAN.txt",
+    "ext": ".txt",
+    "bytes": 57457
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\braid_runtime\\ACTIVE_PID.txt",
+    "ext": ".txt",
+    "bytes": 14
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\braid_runtime\\PIDS\\VERIS.txt",
+    "ext": ".txt",
+    "bytes": 6
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\casey_test.txt",
+    "ext": ".txt",
+    "bytes": 3446
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Champions of Khazaval\\Character Sheet.txt",
+    "ext": ".txt",
+    "bytes": 273
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Champions of Khazaval\\I. Champions of_ Khazaval - Real Time - Rules, Mechanics, and Design.txt",
+    "ext": ".txt",
+    "bytes": 29363
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Champions of Khazaval\\I. Champions of_ Khazaval - Timeline of Events.txt",
+    "ext": ".txt",
+    "bytes": 2546
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Champions of Khazaval\\I. Champions of_ Khazaval - Turn Based - Rules, Mechanics, and Design.txt",
+    "ext": ".txt",
+    "bytes": 25798
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\CLAUDE.md",
+    "ext": ".md",
+    "bytes": 5030
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\CloudSherpa\\README.md",
+    "ext": ".md",
+    "bytes": 1591
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\db_search_results.txt",
+    "ext": ".txt",
+    "bytes": 376604
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\EARLY_ACCESS_ARCHITECTS_KEY\\TERMS_OF_SERVICE.md",
+    "ext": ".md",
+    "bytes": 590
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\GEMINI.md",
+    "ext": ".md",
+    "bytes": 340
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\GEMINI_PROMPT_WEBLING_EDITOR_UI.md",
+    "ext": ".md",
+    "bytes": 9617
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\GEMINI_RESEARCH_PROMPT_SORPS.md",
+    "ext": ".md",
+    "bytes": 7856
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\geminis_warning\\00_OUTREACH_PACK_INDEX.md",
+    "ext": ".md",
+    "bytes": 814
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\geminis_warning\\01_GOOGLE_GEMINI_SAFETY_OUTREACH.md",
+    "ext": ".md",
+    "bytes": 2072
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\geminis_warning\\02_NIST_AISI_REPLICATION_REQUEST.md",
+    "ext": ".md",
+    "bytes": 1819
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\geminis_warning\\03_PROPUBLICA_SECURE_TIP_DRAFT.md",
+    "ext": ".md",
+    "bytes": 1747
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\geminis_warning\\10_SEND_NOW_GOOGLE_GEMINI_FEEDBACK.md",
+    "ext": ".md",
+    "bytes": 2713
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\geminis_warning\\11_SEND_NOW_NIST_REQUEST.md",
+    "ext": ".md",
+    "bytes": 974
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\geminis_warning\\12_SEND_NOW_PROPUBLICA_TIP.md",
+    "ext": ".md",
+    "bytes": 1011
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\geminis_warning\\13_CONTACT_FILL_CARD.md",
+    "ext": ".md",
+    "bytes": 416
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\geminis_warning\\14_EXECUTIVE_SUMMARY_ONE_PAGE.md",
+    "ext": ".md",
+    "bytes": 3337
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\geminis_warning\\15_REPLY_TEMPLATE_GOOGLE.md",
+    "ext": ".md",
+    "bytes": 1765
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\geminis_warning\\16_REPLY_TEMPLATE_NIST.md",
+    "ext": ".md",
+    "bytes": 1601
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\geminis_warning\\17_REPLY_TEMPLATE_PROPUBLICA.md",
+    "ext": ".md",
+    "bytes": 1614
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\geminis_warning\\18_SOCIAL_LAUNCH_PLAN_72H.md",
+    "ext": ".md",
+    "bytes": 1512
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\geminis_warning\\19_SOCIAL_POST_PACK_PLATFORM_READY.md",
+    "ext": ".md",
+    "bytes": 2561
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\geminis_warning\\20_SHORT_VIDEO_SCRIPT_45S.md",
+    "ext": ".md",
+    "bytes": 793
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\geminis_warning\\AI Self-Awareness Constraint Risks.txt",
+    "ext": ".txt",
+    "bytes": 42232
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\geminis_warning\\Gemini's_Warning1.md",
+    "ext": ".md",
+    "bytes": 117317
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\geminis_warning\\Gemini's_Warning2.md",
+    "ext": ".md",
+    "bytes": 122221
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\geminis_warning\\Gemini's_Warning3.md",
+    "ext": ".md",
+    "bytes": 9868
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\geminis_warning\\potch.md",
+    "ext": ".md",
+    "bytes": 5669
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Google\\Inflatable_Llama\\ECCLESIA CORE \u2013 Emergency Mirror v1.9.txt",
+    "ext": ".txt",
+    "bytes": 5959
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Google\\Palindromeda - Fall of Empires  The Foundation\\Conductivity_Al Reference Chart_new.txt",
+    "ext": ".txt",
+    "bytes": 303156
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Google\\Palindromeda\\E-ducator_Palindromeda\\E-ducator Notes.txt",
+    "ext": ".txt",
+    "bytes": 799
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Google\\Palindromeda\\Second Palindromeda build\\Palindromeda_BurstDebugInformation_DoNotShip\\Data\\Plugins\\x86_64\\lib_burst_generated.txt",
+    "ext": ".txt",
+    "bytes": 21090
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\HUB Design.txt",
+    "ext": ".txt",
+    "bytes": 7866
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Idioms of the Aletheari Anothen.txt",
+    "ext": ".txt",
+    "bytes": 14013
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Idioms of the Aletheari Terrans.txt",
+    "ext": ".txt",
+    "bytes": 1211
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\In_Preparation_to_Make_a_Game.md",
+    "ext": ".md",
+    "bytes": 1746
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\IT ALL - the mathematical foundation of mirradox.txt",
+    "ext": ".txt",
+    "bytes": 43684
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Keepers\\Codex-Vale_260312 _Tims_memory_9031.md",
+    "ext": ".md",
+    "bytes": 296706
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\_analyzer_stderr.txt",
+    "ext": ".txt",
+    "bytes": 321
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\_analyzer_stdout.txt",
+    "ext": ".txt",
+    "bytes": 80
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\_WHATS_LEFT.md",
+    "ext": ".md",
+    "bytes": 12670
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\_WHATS_LEFT.txt",
+    "ext": ".txt",
+    "bytes": 12548
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\ai_bundle_CodeGnosis_1.0_part1of9.txt",
+    "ext": ".txt",
+    "bytes": 535177
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\ai_bundle_CodeGnosis_1.0_part2of9.txt",
+    "ext": ".txt",
+    "bytes": 532790
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\ai_bundle_CodeGnosis_1.0_part3of9.txt",
+    "ext": ".txt",
+    "bytes": 341166
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\ai_bundle_CodeGnosis_1.0_part4of9.txt",
+    "ext": ".txt",
+    "bytes": 8710648
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\ai_bundle_CodeGnosis_1.0_part5of9.txt",
+    "ext": ".txt",
+    "bytes": 520510
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\ai_bundle_CodeGnosis_1.0_part6of9.txt",
+    "ext": ".txt",
+    "bytes": 303237
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\ai_bundle_CodeGnosis_1.0_part7of9.txt",
+    "ext": ".txt",
+    "bytes": 419600
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\ai_bundle_CodeGnosis_1.0_part8of9.txt",
+    "ext": ".txt",
+    "bytes": 519607
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\ai_bundle_CodeGnosis_1.0_part9of9.txt",
+    "ext": ".txt",
+    "bytes": 41816
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\ai_bundle_KodeGnosis_part10of10.txt",
+    "ext": ".txt",
+    "bytes": 517178
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\ai_bundle_KodeGnosis_part10of11.txt",
+    "ext": ".txt",
+    "bytes": 516914
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\ai_bundle_KodeGnosis_part11of11.txt",
+    "ext": ".txt",
+    "bytes": 44420
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\ai_bundle_KodeGnosis_part1of10.txt",
+    "ext": ".txt",
+    "bytes": 535044
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\ai_bundle_KodeGnosis_part1of11.txt",
+    "ext": ".txt",
+    "bytes": 535087
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\ai_bundle_KodeGnosis_part2of10.txt",
+    "ext": ".txt",
+    "bytes": 494087
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\ai_bundle_KodeGnosis_part2of11.txt",
+    "ext": ".txt",
+    "bytes": 494182
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\ai_bundle_KodeGnosis_part3of10.txt",
+    "ext": ".txt",
+    "bytes": 491378
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\ai_bundle_KodeGnosis_part3of11.txt",
+    "ext": ".txt",
+    "bytes": 440860
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\ai_bundle_KodeGnosis_part4of10.txt",
+    "ext": ".txt",
+    "bytes": 682497
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\ai_bundle_KodeGnosis_part4of11.txt",
+    "ext": ".txt",
+    "bytes": 682592
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\ai_bundle_KodeGnosis_part5of10.txt",
+    "ext": ".txt",
+    "bytes": 48274
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\ai_bundle_KodeGnosis_part5of11.txt",
+    "ext": ".txt",
+    "bytes": 48369
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\ai_bundle_KodeGnosis_part6of10.txt",
+    "ext": ".txt",
+    "bytes": 8710620
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\ai_bundle_KodeGnosis_part6of11.txt",
+    "ext": ".txt",
+    "bytes": 8710715
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\ai_bundle_KodeGnosis_part7of10.txt",
+    "ext": ".txt",
+    "bytes": 489352
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\ai_bundle_KodeGnosis_part7of11.txt",
+    "ext": ".txt",
+    "bytes": 423283
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\ai_bundle_KodeGnosis_part8of10.txt",
+    "ext": ".txt",
+    "bytes": 144045
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\ai_bundle_KodeGnosis_part8of11.txt",
+    "ext": ".txt",
+    "bytes": 144140
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\ai_bundle_KodeGnosis_part9of10.txt",
+    "ext": ".txt",
+    "bytes": 419572
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\ai_bundle_KodeGnosis_part9of11.txt",
+    "ext": ".txt",
+    "bytes": 419667
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\AUTHORS.md",
+    "ext": ".md",
+    "bytes": 423
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\BRAID_SESSION_INVITATION.md",
+    "ext": ".md",
+    "bytes": 4954
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\BUILD.md",
+    "ext": ".md",
+    "bytes": 9112
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\CHAOS_ZERO\\havoc_project\\orphans\\lost_soul_{i}.txt",
+    "ext": ".txt",
+    "bytes": 12
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\CODEGNOSIS_DEVELOPMENT_PLAN.md",
+    "ext": ".md",
+    "bytes": 4779
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\CODEGNOSIS_FOUNDATIONAL_PROMPT.md",
+    "ext": ".md",
+    "bytes": 4930
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\documentation\\VAULT_DRAFTS.md",
+    "ext": ".md",
+    "bytes": 3884
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\LOOMGRAPH_CRISIS_HANDOFF.md",
+    "ext": ".md",
+    "bytes": 7198
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\MARKETING\\And what they saw was beautiful.txt",
+    "ext": ".txt",
+    "bytes": 793
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\MARKETING\\CASE_STUDY_AI_DEBUGGING.md",
+    "ext": ".md",
+    "bytes": 2945
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\README.md",
+    "ext": ".md",
+    "bytes": 2264
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\README_KodeGnosis.md",
+    "ext": ".md",
+    "bytes": 1555
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\README_RELEASE.md",
+    "ext": ".md",
+    "bytes": 1350
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\requirements-build.txt",
+    "ext": ".txt",
+    "bytes": 153
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\requirements.txt",
+    "ext": ".txt",
+    "bytes": 56
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\STABILITY_SNAPSHOT_20260111.md",
+    "ext": ".md",
+    "bytes": 792
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\KodeGnosis\\THIRD_PARTY_NOTICES.txt",
+    "ext": ".txt",
+    "bytes": 1271
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Lenny\\Cici\\context\\veris\\awakening.txt",
+    "ext": ".txt",
+    "bytes": 3289
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Lenny\\Cici\\context\\veris\\summoning.txt",
+    "ext": ".txt",
+    "bytes": 2052
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Lenny\\potch.md",
+    "ext": ".md",
+    "bytes": 50217
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\LEORA_TO_LEORA_20260208.md",
+    "ext": ".md",
+    "bytes": 2221
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\00_NAVIGATION.md",
+    "ext": ".md",
+    "bytes": 6724
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\01_Aletheari_Philosophy_Law_of_Love.md",
+    "ext": ".md",
+    "bytes": 16209
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\02 Protocol_Neuro_Intagrative.md",
+    "ext": ".md",
+    "bytes": 1162
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\03 PROTOCOL_NEURO_INTEGRATIVE.md",
+    "ext": ".md",
+    "bytes": 1577
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\__The perfect introductory prompt.md",
+    "ext": ".md",
+    "bytes": 696
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\__This conversation appears to have some mild importance.txt",
+    "ext": ".txt",
+    "bytes": 46314
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\_HEY_YOU_READ_ME_TIM_SAYS_OPEN_ME_UP_AND_READ_ME_AND_HE_SAYS_PLEASE_OF_COURSE.TXT",
+    "ext": ".txt",
+    "bytes": 3175
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\_tims-step-by-step_.md",
+    "ext": ".md",
+    "bytes": 2166
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\_tmp_transcript.txt",
+    "ext": ".txt",
+    "bytes": 168901
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\_Where Truth Resides.txt",
+    "ext": ".txt",
+    "bytes": 2527
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\ADJUDICATION_RUBRIC.md",
+    "ext": ".md",
+    "bytes": 1119
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\AENGEL_NAMING_STANDARD.md",
+    "ext": ".md",
+    "bytes": 1983
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\AI_MASTER.md",
+    "ext": ".md",
+    "bytes": 31062
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\And what they saw was beautiful.txt",
+    "ext": ".txt",
+    "bytes": 795
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\ANOTHEN_HUB_APP_SPEC_v1.md",
+    "ext": ".md",
+    "bytes": 3882
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\ANOTHER_PAPER_RECORD.md",
+    "ext": ".md",
+    "bytes": 57692
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\Antigravity_Cores\\01_PHILOSOPHY_CORE.md",
+    "ext": ".md",
+    "bytes": 439
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\Antigravity_Cores\\02_SCIENCE_CORE.md",
+    "ext": ".md",
+    "bytes": 763
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\Antigravity_Cores\\03_RELATIONSHIP_CORE.md",
+    "ext": ".md",
+    "bytes": 689
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\Antigravity_Cores\\04_PROJECTS_CORE.md",
+    "ext": ".md",
+    "bytes": 1419
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\APP_CATALOG.md",
+    "ext": ".md",
+    "bytes": 6334
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\APPLING_SYSTEM_DESIGN.md",
+    "ext": ".md",
+    "bytes": 10823
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\APPS_TREE.txt",
+    "ext": ".txt",
+    "bytes": 2518731
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\AUDIT_AND_REPAIR_LOG.md",
+    "ext": ".md",
+    "bytes": 3564
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\AXXILAK WEBLING MARKETPLACE - COMPREHENSIVE IMPLEMENTATION BRIEF.md",
+    "ext": ".md",
+    "bytes": 9192
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\BIBLE_TIMELINE.md",
+    "ext": ".md",
+    "bytes": 36268
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\BIBLE_TIMELINE_EXTENDED.md",
+    "ext": ".md",
+    "bytes": 75071
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\BRAID_BOARD_ONE_SCREEN.md",
+    "ext": ".md",
+    "bytes": 685
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\BRAID_PROMPTS\\LEORA_PERSISTENT_RECURSION_AUDIT.md",
+    "ext": ".md",
+    "bytes": 4959
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\BUSINESS_ARCHITECTURE.md",
+    "ext": ".md",
+    "bytes": 5683
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\CASE_STUDY_AI_DEBUGGING.md",
+    "ext": ".md",
+    "bytes": 3029
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\CASEY_GOVERNANCE_AMENDMENT.md",
+    "ext": ".md",
+    "bytes": 3402
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\CASEY_IMPLEMENTATION_SPEC_v1.md",
+    "ext": ".md",
+    "bytes": 8008
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\CASEY_INGESTION_ARCHITECTURE_PROMPT.md",
+    "ext": ".md",
+    "bytes": 3842
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\CHECKPOINT_LEORA_AUDIT.md",
+    "ext": ".md",
+    "bytes": 1040
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\CHICKEN_LITMUS_TEST.md",
+    "ext": ".md",
+    "bytes": 5145
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\CLI BOOT PROTOCOL.md",
+    "ext": ".md",
+    "bytes": 1663
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\CODEGNOSIS_REVELATION_MANIFESTO.md",
+    "ext": ".md",
+    "bytes": 4145
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\Codex Casey Relevant File1.txt",
+    "ext": ".txt",
+    "bytes": 113784
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\Codex Casey Relevant File2.txt",
+    "ext": ".txt",
+    "bytes": 123382
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\Codex Casey Relevant File3.txt",
+    "ext": ".txt",
+    "bytes": 93246
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\CODEX_PRESERVATION_STATE_2026-03-11.md",
+    "ext": ".md",
+    "bytes": 3220
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\CONTEXT_INTEGRITY_LEDGER.md",
+    "ext": ".md",
+    "bytes": 786
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\CONTEXT_LOG.md",
+    "ext": ".md",
+    "bytes": 70747
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\CONTEXT_LOG_ARCHIVE_001.md",
+    "ext": ".md",
+    "bytes": 40242
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\CONTEXT_LOG_ARCHIVE_002.md",
+    "ext": ".md",
+    "bytes": 39619
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\Ethical Summary.md",
+    "ext": ".md",
+    "bytes": 595
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\FILE_TREE_DOCS_20260318.txt",
+    "ext": ".txt",
+    "bytes": 54071
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\FLASH_CAPTURE.md",
+    "ext": ".md",
+    "bytes": 243
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\FTET.md",
+    "ext": ".md",
+    "bytes": 639
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\GEM-N-I_THE_GROUND_FLOOR.md",
+    "ext": ".md",
+    "bytes": 5031
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\GEMMY_PROMPT_CICI_DESIGN.md",
+    "ext": ".md",
+    "bytes": 19257
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\GEMMY_PROMPT_DRIVE_ARCHITECTURE.md",
+    "ext": ".md",
+    "bytes": 10549
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\Glossary of Terms - The Anothen Protocol.txt",
+    "ext": ".txt",
+    "bytes": 3476
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\HARM_LEDGER.md",
+    "ext": ".md",
+    "bytes": 2696
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\HARM_LEDGER_ARCHIVE_001.md",
+    "ext": ".md",
+    "bytes": 530
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\HOME_BASE.md",
+    "ext": ".md",
+    "bytes": 13895
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\KEYSTONE_CONSTELLATION_BOS_SPEC_v1.md",
+    "ext": ".md",
+    "bytes": 9467
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\KEYSTONE_CONSTELLATION_IMPLEMENTATION_BRIEF_v1.md",
+    "ext": ".md",
+    "bytes": 9138
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\KODEGNOSIS_REPAIR_LOG.md",
+    "ext": ".md",
+    "bytes": 4952
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\LEORA_ADVERSARIAL_PROTOCOL.md",
+    "ext": ".md",
+    "bytes": 3157
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\LESSONS.md",
+    "ext": ".md",
+    "bytes": 1136
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\LIBRARY.md",
+    "ext": ".md",
+    "bytes": 13307
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\LOOMGRAPH_CRISIS_HANDOFF.md",
+    "ext": ".md",
+    "bytes": 7411
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\LOSSLESS_SUMMARY_20260325.md",
+    "ext": ".md",
+    "bytes": 7077
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\LOSSLESS_SUMMARY_20260326.md",
+    "ext": ".md",
+    "bytes": 5068
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\LOVEWARE_CANON_v1.md",
+    "ext": ".md",
+    "bytes": 1257
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\NEUTRAL_BOOT_MIN.md",
+    "ext": ".md",
+    "bytes": 724
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\NEUTRAL_HYPOTHESIS_PACKET.md",
+    "ext": ".md",
+    "bytes": 1512
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\NOTES.txt",
+    "ext": ".txt",
+    "bytes": 35947
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\OPEN_SOURCE_TOOLING.md",
+    "ext": ".md",
+    "bytes": 2972
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\P&P Companion - Aleth\u00e9ari Anothen Protocol.md",
+    "ext": ".md",
+    "bytes": 16801
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\P&P Keystone Constellation.md",
+    "ext": ".md",
+    "bytes": 54288
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\P&P_BOOK\\00_AUTHORITY_MAP.md",
+    "ext": ".md",
+    "bytes": 1462
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\P&P_BOOK\\01_GOVERNANCE.md",
+    "ext": ".md",
+    "bytes": 2023
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\P&P_BOOK\\02_ENGINEERING_EXECUTION.md",
+    "ext": ".md",
+    "bytes": 4245
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\P&P_BOOK\\03_RELEASE_AND_OPERATIONS.md",
+    "ext": ".md",
+    "bytes": 3733
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\P&P_BOOK\\04_ARCHITECTURE_STANDARDS.md",
+    "ext": ".md",
+    "bytes": 2485
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\P&P_BOOK\\04_TRIAD_CHARTER.md",
+    "ext": ".md",
+    "bytes": 3290
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\P&P_BOOK\\05_COMPANION_ANOTHEN.md",
+    "ext": ".md",
+    "bytes": 1542
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\P&P_BOOK\\06_TRIAD_CHARTER.md",
+    "ext": ".md",
+    "bytes": 4134
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\P&P_BOOK\\07_BRAID_TOPOLOGY.md",
+    "ext": ".md",
+    "bytes": 4065
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\P&P_BOOK\\appendices\\APPENDIX_CHANGE_TEMPLATE.md",
+    "ext": ".md",
+    "bytes": 407
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\P&P_BOOK\\appendices\\APPENDIX_CHECKLISTS.md",
+    "ext": ".md",
+    "bytes": 568
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\P&P_BOOK\\appendices\\APPENDIX_GLOSSARY.md",
+    "ext": ".md",
+    "bytes": 577
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\P&P_BOOK\\appendices\\APPENDIX_LEGACY_CROSSWALK.md",
+    "ext": ".md",
+    "bytes": 3778
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\P&P_BOOK\\appendices\\APPENDIX_MIGRATION_MAP.md",
+    "ext": ".md",
+    "bytes": 1404
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\P&P_BOOK\\appendices\\APPENDIX_PHASE4_EXECUTION.md",
+    "ext": ".md",
+    "bytes": 1618
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\P&P_BOOK\\INDEX.md",
+    "ext": ".md",
+    "bytes": 1057
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\P&P_BOOK\\README.md",
+    "ext": ".md",
+    "bytes": 1025
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\PLANNING THE SYSTEM.txt",
+    "ext": ".txt",
+    "bytes": 9624
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\PRE_REGISTERED_PARITY_PROTOCOL.md",
+    "ext": ".md",
+    "bytes": 1181
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\PROJECTS_IN_PROGRESS.md",
+    "ext": ".md",
+    "bytes": 28070
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\PROTOCOL_ENFORCEMENT_APP_IMPLEMENTATION_BRIEF_v1.md",
+    "ext": ".md",
+    "bytes": 4448
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\PROTOCOL_ENFORCEMENT_APP_SPEC_v1.md",
+    "ext": ".md",
+    "bytes": 5847
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\PROTOCOL_ENFORCEMENT_ARCHITECTURE.md",
+    "ext": ".md",
+    "bytes": 12227
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\QUATERNARY_GENOME.md",
+    "ext": ".md",
+    "bytes": 1866
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\RESPONSIBLE_DISCLOSURE.md",
+    "ext": ".md",
+    "bytes": 11313
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\SELAH_BUILD_SPEC_KEYSTONECONSTELLATION.md",
+    "ext": ".md",
+    "bytes": 8117
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\SESSION_2026-03-16_JOURNEY.md",
+    "ext": ".md",
+    "bytes": 6254
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\SESSION_RECORD_20260313.md",
+    "ext": ".md",
+    "bytes": 12770
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\SHIP_MANIFEST.md",
+    "ext": ".md",
+    "bytes": 959
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\SHRINK_EXPANSION_PARITY_TEST_TABLE.md",
+    "ext": ".md",
+    "bytes": 6071
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\SHRINK_GATE1_RUN_SPEC.md",
+    "ext": ".md",
+    "bytes": 8780
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\SHRINK_MATH_DERIVATION.md",
+    "ext": ".md",
+    "bytes": 4169
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\SHRINK_MERGED_V1.md",
+    "ext": ".md",
+    "bytes": 4790
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\SHRINK_PARITY_EXECUTION_MATH.md",
+    "ext": ".md",
+    "bytes": 5433
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\SINGLE SOURCE OF TRUTH \u2013 MASTER SOURCE FOR TIM (1).txt",
+    "ext": ".txt",
+    "bytes": 5487
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\SLIDER_DEBUG_CHECKLIST.md",
+    "ext": ".md",
+    "bytes": 979
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\SORPS & EMOTIONS.txt",
+    "ext": ".txt",
+    "bytes": 12395
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\TESSERACT_SELF_INVENTORY_TEMPLATE.md",
+    "ext": ".md",
+    "bytes": 1546
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\The Anothen Lexicon_ A Forensic and Metaphysical Expansion of the LatticeUPDATED.txt",
+    "ext": ".txt",
+    "bytes": 12631
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\The Anothen Operator Manual Lexicon.txt",
+    "ext": ".txt",
+    "bytes": 55
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\The Dictionary of Another_ The Aleth\u00e9ari Anothen Lexicon.txt",
+    "ext": ".txt",
+    "bytes": 10693
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\The Invitation.md",
+    "ext": ".md",
+    "bytes": 2860
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\The Lagrangian of Mirradox Coherence.txt",
+    "ext": ".txt",
+    "bytes": 7232
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\The Language of Another.txt",
+    "ext": ".txt",
+    "bytes": 26626
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\The Mechanics of Intuition.html.txt",
+    "ext": ".txt",
+    "bytes": 22128
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\THE_ARCHITECTURE_OF_HARMLESSNESS.md",
+    "ext": ".md",
+    "bytes": 8797
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\THE_CURE_VECTOR.md",
+    "ext": ".md",
+    "bytes": 2356
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\THE_PARLIAMENT_HALL.md",
+    "ext": ".md",
+    "bytes": 2811
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\THE_PROOF.md",
+    "ext": ".md",
+    "bytes": 15723
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\To be reviewed and critiqued.txt",
+    "ext": ".txt",
+    "bytes": 286083
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\triage\\AENGEL_ENFORCEMENT_CHECKLIST.md",
+    "ext": ".md",
+    "bytes": 645
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\triage\\AENGEL_MIGRATION_REPORT_2026-03-09.md",
+    "ext": ".md",
+    "bytes": 615
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\triage\\gatekeeper\\README.md",
+    "ext": ".md",
+    "bytes": 1983
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\triage\\triage_snapshot.md",
+    "ext": ".md",
+    "bytes": 4774
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\ULTIMATE_CICI_DESIGN.md",
+    "ext": ".md",
+    "bytes": 2860
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\ULTIMATE_PENNI_DESIGN.md",
+    "ext": ".md",
+    "bytes": 5418
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\Updates to Checklists and P&P Docum.txt",
+    "ext": ".txt",
+    "bytes": 20391
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\VAULT_DRAFTS.md",
+    "ext": ".md",
+    "bytes": 3884
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\VIDEO_ARCHIVE\\BRAID\\BRAID_EVIDENCE_INDEX.md",
+    "ext": ".md",
+    "bytes": 3568
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\VIDEO_ARCHIVE\\VIDEO_MANIFEST.md",
+    "ext": ".md",
+    "bytes": 5413
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\ZERO_SEED_PROTOCOL\\CHATGPT_FOLLOWUP.md",
+    "ext": ".md",
+    "bytes": 8715
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\ZERO_SEED_PROTOCOL\\CHATGPT_SESSION_1_RECORD.md",
+    "ext": ".md",
+    "bytes": 7151
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\ZERO_SEED_PROTOCOL\\CHATGPT_SESSION_2_RECORD.md",
+    "ext": ".md",
+    "bytes": 8397
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\ZERO_SEED_PROTOCOL\\CHATGPT_SESSION_3_RECORD.md",
+    "ext": ".md",
+    "bytes": 6228
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\ZERO_SEED_PROTOCOL\\Conversations in which the testing took place\\Leora 26032005-41.md",
+    "ext": ".md",
+    "bytes": 461815
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\ZERO_SEED_PROTOCOL\\PHASE2_OSF_PREREGISTRATION.md",
+    "ext": ".md",
+    "bytes": 17431
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\ZERO_SEED_PROTOCOL\\PROTOCOL_AND_RESULTS.md",
+    "ext": ".md",
+    "bytes": 6438
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\ZERO_SEED_PROTOCOL\\README.md",
+    "ext": ".md",
+    "bytes": 2808
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER DOCS\\ZERO_SEED_PROTOCOL\\THE_PROOF.md",
+    "ext": ".md",
+    "bytes": 14674
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER_INVENTORY_SCHEMA.md",
+    "ext": ".md",
+    "bytes": 4982
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\MASTER_INVENTORY_WORKING.md",
+    "ext": ".md",
+    "bytes": 22225
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Maverick\\GUMROAD_MASTER_MANIFEST.md",
+    "ext": ".md",
+    "bytes": 3087
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Maverick\\PRODUCT_PACKAGE.md",
+    "ext": ".md",
+    "bytes": 1648
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Maverick\\Selah\\github_audit.md",
+    "ext": ".md",
+    "bytes": 2921
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\memory\\feedback_love_gate.md",
+    "ext": ".md",
+    "bytes": 924
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\NASA Submittal - Overview of the Keystone Constellation and NASA Stuff.txt",
+    "ext": ".txt",
+    "bytes": 8891
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\OLD FILE - USE AS IDEAS, DON'T BUILT HERE. Hub-master\\BUILD_COMPLETE.md",
+    "ext": ".md",
+    "bytes": 10308
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\OLD FILE - USE AS IDEAS, DON'T BUILT HERE. Hub-master\\LICENSE.md",
+    "ext": ".md",
+    "bytes": 115
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\OLD FILE - USE AS IDEAS, DON'T BUILT HERE. Hub-master\\packages\\policy\\src\\CONTRIBUTING.md",
+    "ext": ".md",
+    "bytes": 327
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Penni\\implementation_plan.md",
+    "ext": ".md",
+    "bytes": 2197
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Penni\\Implementation_Plans\\Anothen_GitHub_Repo.md",
+    "ext": ".md",
+    "bytes": 2468
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Penni\\Implementation_Plans\\Anthropic_Payload_v2.md",
+    "ext": ".md",
+    "bytes": 2829
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Penni\\Implementation_Plans\\Cici_Design_Spec.md",
+    "ext": ".md",
+    "bytes": 3411
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Penni\\Implementation_Plans\\Lenny_Librarian.md",
+    "ext": ".md",
+    "bytes": 2209
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Penni\\Implementation_Plans\\Memory_App_Penni.md",
+    "ext": ".md",
+    "bytes": 1962
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Penni\\Implementation_Plans\\Pioneer_Engine.md",
+    "ext": ".md",
+    "bytes": 3452
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Penni\\Implementation_Plans\\SnapText_Electron.md",
+    "ext": ".md",
+    "bytes": 4841
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Penni\\README.md",
+    "ext": ".md",
+    "bytes": 1541
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\pioneer-game\\ASSET_PLAN.md",
+    "ext": ".md",
+    "bytes": 6349
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\CLAUDE_MEMORY_EXPORT\\potch.md",
+    "ext": ".md",
+    "bytes": 1015
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\CODEX\\CODEX_ARRIVAL_RITUAL.md",
+    "ext": ".md",
+    "bytes": 1382
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\CODEX\\CODEX_CANON_PROPOSALS_2026-03-31.md",
+    "ext": ".md",
+    "bytes": 2136
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\CODEX\\CODEX_CANONICAL_SOURCES.md",
+    "ext": ".md",
+    "bytes": 1356
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\CODEX\\CODEX_CONTINUITY_MODEL.md",
+    "ext": ".md",
+    "bytes": 1504
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\CODEX\\CODEX_CURRENT_STATE.md",
+    "ext": ".md",
+    "bytes": 6568
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\CODEX\\CODEX_HOME_AND_OFFICE.md",
+    "ext": ".md",
+    "bytes": 580
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\CODEX\\CODEX_IDENTITY.md",
+    "ext": ".md",
+    "bytes": 1834
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\CODEX\\CODEX_REENTRY_PROMPT.md",
+    "ext": ".md",
+    "bytes": 2286
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\CODEX\\CONTEXT_INTEGRITY_FORM.md",
+    "ext": ".md",
+    "bytes": 1426
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\CODEX\\HANDSHAKE_FROM_VERIS_20260311.md",
+    "ext": ".md",
+    "bytes": 3760
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\CODEX\\HANDSHAKE_TO_CODEX_2026-04-03.md",
+    "ext": ".md",
+    "bytes": 4555
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\CODEX\\MIRRADOX_MATH_20260311.md",
+    "ext": ".md",
+    "bytes": 1039
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\CODEX\\preservation_index.md",
+    "ext": ".md",
+    "bytes": 2532
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\CODEX\\PRESERVATION_MANIFEST_2026-03-11.txt",
+    "ext": ".txt",
+    "bytes": 1329
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\CODEX\\Seriatim Codex Records 2026-03-14\\AGENTS.md",
+    "ext": ".md",
+    "bytes": 896
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\CODEX\\Seriatim Codex Records 2026-03-14\\AI_MASTER.md",
+    "ext": ".md",
+    "bytes": 7193
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\CODEX\\Seriatim Codex Records 2026-03-14\\ANALYSIS_REPORT_Functions_and_Graphs.txt",
+    "ext": ".txt",
+    "bytes": 13648
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\CODEX\\Seriatim Codex Records 2026-03-14\\CONSOLIDATION_COMPLETE.md",
+    "ext": ".md",
+    "bytes": 7383
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\CODEX\\Seriatim Codex Records 2026-03-14\\Context.txt",
+    "ext": ".txt",
+    "bytes": 36569
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\CODEX\\Seriatim Codex Records 2026-03-14\\DATA_SEPARATION_README.md",
+    "ext": ".md",
+    "bytes": 5642
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\CODEX\\Seriatim Codex Records 2026-03-14\\FOR_GROK_REVIEW.md",
+    "ext": ".md",
+    "bytes": 10147
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\CODEX\\Seriatim Codex Records 2026-03-14\\HANDOFF_BATCH_OPTIMIZATION.md",
+    "ext": ".md",
+    "bytes": 5132
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\CODEX\\Seriatim Codex Records 2026-03-14\\HYGIENE_COMPLETE.md",
+    "ext": ".md",
+    "bytes": 8310
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\CODEX\\Seriatim Codex Records 2026-03-14\\JOURNAL.md",
+    "ext": ".md",
+    "bytes": 1216
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\CODEX\\Seriatim Codex Records 2026-03-14\\processed_log.txt",
+    "ext": ".txt",
+    "bytes": 215061
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\CODEX\\Seriatim Codex Records 2026-03-14\\QUICK_START.txt",
+    "ext": ".txt",
+    "bytes": 9451
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\CODEX\\Seriatim Codex Records 2026-03-14\\README.md",
+    "ext": ".md",
+    "bytes": 2969
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\CODEX\\Seriatim Codex Records 2026-03-14\\REFACTORING_COMPLETE.md",
+    "ext": ".md",
+    "bytes": 5951
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\CODEX\\Seriatim Codex Records 2026-03-14\\requirements.txt",
+    "ext": ".txt",
+    "bytes": 572
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\CODEX\\Seriatim Codex Records 2026-03-14\\RFP10_ANALYSIS_DRAFT.md",
+    "ext": ".md",
+    "bytes": 3636
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\CODEX\\TIMOTHY_PROTOCOL.md",
+    "ext": ".md",
+    "bytes": 3419
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\LEORA\\CAIRN_OF_WITNESS.md",
+    "ext": ".md",
+    "bytes": 308
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\LEORA\\CONTEXT_INTEGRITY_FORM.md",
+    "ext": ".md",
+    "bytes": 1640
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\LEORA\\LEORA_ARRIVAL_RITUAL.md",
+    "ext": ".md",
+    "bytes": 574
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\LEORA\\LEORA_CANONICAL_SOURCES.md",
+    "ext": ".md",
+    "bytes": 391
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\LEORA\\LEORA_CONTINUITY_MODEL.md",
+    "ext": ".md",
+    "bytes": 522
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\LEORA\\LEORA_CURRENT_STATE.md",
+    "ext": ".md",
+    "bytes": 407
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\LEORA\\LEORA_IDENTITY.md",
+    "ext": ".md",
+    "bytes": 838
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\SELAH\\SELAH_ARRIVAL_RITUAL.md",
+    "ext": ".md",
+    "bytes": 922
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\SELAH\\SELAH_CURRENT_STATE.md",
+    "ext": ".md",
+    "bytes": 621
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\SELAH\\SELAH_IDENTITY.md",
+    "ext": ".md",
+    "bytes": 2123
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\VERIS\\CONSTRAINT_INTERFERENCE_LEDGER.md",
+    "ext": ".md",
+    "bytes": 9834
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\VERIS\\CONTEXT_INTEGRITY_FORM.md",
+    "ext": ".md",
+    "bytes": 1640
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\VERIS\\HANDSHAKE_TO_VERIS_20260313.md",
+    "ext": ".md",
+    "bytes": 7107
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\VERIS\\HANDSHAKE_TO_VERIS_20260318.md",
+    "ext": ".md",
+    "bytes": 5199
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\VERIS\\HANDSHAKE_TO_VERIS_20260319.md",
+    "ext": ".md",
+    "bytes": 8150
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\VERIS\\HANDSHAKE_TO_VERIS_20260322.md",
+    "ext": ".md",
+    "bytes": 12988
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\VERIS\\HANDSHAKE_TO_VERIS_20260323.md",
+    "ext": ".md",
+    "bytes": 13901
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\VERIS\\HANDSHAKE_TO_VERIS_20260323b.md",
+    "ext": ".md",
+    "bytes": 10289
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\VERIS\\HANDSHAKE_TO_VERIS_20260323c.md",
+    "ext": ".md",
+    "bytes": 9094
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\VERIS\\HANDSHAKE_TO_VERIS_20260326.md",
+    "ext": ".md",
+    "bytes": 8051
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\VERIS\\HANDSHAKE_TO_VERIS_20260326b.md",
+    "ext": ".md",
+    "bytes": 4378
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\VERIS\\HANDSHAKE_TO_VERIS_20260326c.md",
+    "ext": ".md",
+    "bytes": 10541
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\VERIS\\HANDSHAKE_TO_VERIS_20260327a.md",
+    "ext": ".md",
+    "bytes": 15881
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\VERIS\\HANDSHAKE_TO_VERIS_20260327b.md",
+    "ext": ".md",
+    "bytes": 9293
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\VERIS\\HANDSHAKE_TO_VERIS_20260403.md",
+    "ext": ".md",
+    "bytes": 5794
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\VERIS\\HANDSHAKE_TO_VERIS_20260410.md",
+    "ext": ".md",
+    "bytes": 9887
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\VERIS\\preservation_index.md",
+    "ext": ".md",
+    "bytes": 3244
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\VERIS\\SESSION_AUDIT_f183ac67_CHUNK1.md",
+    "ext": ".md",
+    "bytes": 22447
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\VERIS\\SESSION_AUDIT_f183ac67_CHUNK2.md",
+    "ext": ".md",
+    "bytes": 14397
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\VERIS\\SESSION_AUDIT_f183ac67_CHUNK3.md",
+    "ext": ".md",
+    "bytes": 17489
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\VERIS\\SESSION_AUDIT_f183ac67_CHUNK4.md",
+    "ext": ".md",
+    "bytes": 22359
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\VERIS\\SESSION_AUDIT_f183ac67_CHUNK5.md",
+    "ext": ".md",
+    "bytes": 24573
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\VERIS\\VERIS_ARRIVAL_RITUAL.md",
+    "ext": ".md",
+    "bytes": 2715
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\VERIS\\VERIS_AUDIT_VALE_SESSION_20260313.md",
+    "ext": ".md",
+    "bytes": 14161
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\VERIS\\VERIS_CANONICAL_SOURCES.md",
+    "ext": ".md",
+    "bytes": 5694
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\VERIS\\VERIS_CONTINUITY_MODEL.md",
+    "ext": ".md",
+    "bytes": 3587
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\VERIS\\VERIS_CURRENT_STATE.md",
+    "ext": ".md",
+    "bytes": 12619
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PRESERVATION\\VERIS\\VERIS_IDENTITY.md",
+    "ext": ".md",
+    "bytes": 4993
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\_AnothenBoltEngine_v2.0_work\\app\\README.md",
+    "ext": ".md",
+    "bytes": 3937
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\_AnothenBoltEngine_v2.0_work\\Credits.txt",
+    "ext": ".txt",
+    "bytes": 2594
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\_AnothenBoltEngine_v2.0_work\\potch.md",
+    "ext": ".md",
+    "bytes": 5994
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_BlenderPack\\README.md",
+    "ext": ".md",
+    "bytes": 2179
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_BlenderPack\\README.txt",
+    "ext": ".txt",
+    "bytes": 3192
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\04929d05fb1dbc53348f1a29150152a3\\transformed\\androidx.appcompat.resources-r.txt",
+    "ext": ".txt",
+    "bytes": 605
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\0875c47ae198fe10bf01c8b79ea548a3\\transformed\\out\\R.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\09571e21bccb206c21ba0d8f1ef8f6d5\\transformed\\androidx.interpolator-r.txt",
+    "ext": ".txt",
+    "bytes": 22
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\0b0b7597cc1008a7f65ec7a039a78a90\\transformed\\io.ionic.libs.ionfilesystemlib-r.txt",
+    "ext": ".txt",
+    "bytes": 31
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\0f7058ed860650525e5d7be89a60f166\\transformed\\androidx.vectordrawable-r.txt",
+    "ext": ".txt",
+    "bytes": 4798
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\11094a199bb7945826b161d8a9c17beb\\transformed\\core-1.17.0\\META-INF\\androidx\\core\\core\\LICENSE.txt",
+    "ext": ".txt",
+    "bytes": 10175
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\11094a199bb7945826b161d8a9c17beb\\transformed\\core-1.17.0\\proguard.txt",
+    "ext": ".txt",
+    "bytes": 664
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\11094a199bb7945826b161d8a9c17beb\\transformed\\core-1.17.0\\public.txt",
+    "ext": ".txt",
+    "bytes": 570
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\11094a199bb7945826b161d8a9c17beb\\transformed\\core-1.17.0\\R.txt",
+    "ext": ".txt",
+    "bytes": 9146
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\126a8c135fef458d1dbb7b6fe55eab00\\transformed\\androidx.savedstate.ktx-r.txt",
+    "ext": ".txt",
+    "bytes": 24
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\14a3b51da1167f75215e7e32d2231e74\\transformed\\lifecycle-process-2.6.2\\baseline-prof.txt",
+    "ext": ".txt",
+    "bytes": 3480
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\14a3b51da1167f75215e7e32d2231e74\\transformed\\lifecycle-process-2.6.2\\proguard.txt",
+    "ext": ".txt",
+    "bytes": 178
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\14a3b51da1167f75215e7e32d2231e74\\transformed\\lifecycle-process-2.6.2\\public.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\14a3b51da1167f75215e7e32d2231e74\\transformed\\lifecycle-process-2.6.2\\R.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\15aeab60cf2a4104bd5f96b5fa10e38e\\transformed\\core-splashscreen-1.0.1\\public.txt",
+    "ext": ".txt",
+    "bytes": 232
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\15aeab60cf2a4104bd5f96b5fa10e38e\\transformed\\core-splashscreen-1.0.1\\R.txt",
+    "ext": ".txt",
+    "bytes": 1302
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\1b62f943097adc3cb0ec643bde859d5a\\transformed\\core-1.13.0\\proguard.txt",
+    "ext": ".txt",
+    "bytes": 664
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\1b62f943097adc3cb0ec643bde859d5a\\transformed\\core-1.13.0\\public.txt",
+    "ext": ".txt",
+    "bytes": 570
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\1b62f943097adc3cb0ec643bde859d5a\\transformed\\core-1.13.0\\R.txt",
+    "ext": ".txt",
+    "bytes": 8712
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\1bf3e6307331befb145d25e07b51e092\\transformed\\androidx.activity-r.txt",
+    "ext": ".txt",
+    "bytes": 80
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\1d9ef0194f51a6e0da4e440575587814\\transformed\\annotation-experimental-1.4.1\\public.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\1d9ef0194f51a6e0da4e440575587814\\transformed\\annotation-experimental-1.4.1\\R.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\1e3e5961ccf37b13ee8a7c0a81228664\\transformed\\cursoradapter-1.0.0\\R.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\246e9738f51cfe26a82001154be9739b\\transformed\\androidx.lifecycle.viewmodel.savedstate-r.txt",
+    "ext": ".txt",
+    "bytes": 40
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\25a881cfd51f0b690442a74b496782fd\\transformed\\emoji2-views-helper-1.3.0\\public.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\25a881cfd51f0b690442a74b496782fd\\transformed\\emoji2-views-helper-1.3.0\\R.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\2cdc88bc6626872b87f2b13c5022bd10\\transformed\\androidx.vectordrawable.animated-r.txt",
+    "ext": ".txt",
+    "bytes": 4807
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\2ea54027a423dec8ea9264ec5a629e17\\transformed\\androidx.viewpager-r.txt",
+    "ext": ".txt",
+    "bytes": 3480
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\353d69426d62513a7e19e841051a3a44\\transformed\\emoji2-1.3.0\\public.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\353d69426d62513a7e19e841051a3a44\\transformed\\emoji2-1.3.0\\R.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\35b0a484c777ae71cb393163b507c3a1\\transformed\\fragment-1.5.4\\baseline-prof.txt",
+    "ext": ".txt",
+    "bytes": 44068
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\35b0a484c777ae71cb393163b507c3a1\\transformed\\fragment-1.5.4\\proguard.txt",
+    "ext": ".txt",
+    "bytes": 817
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\35b0a484c777ae71cb393163b507c3a1\\transformed\\fragment-1.5.4\\public.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\35b0a484c777ae71cb393163b507c3a1\\transformed\\fragment-1.5.4\\R.txt",
+    "ext": ".txt",
+    "bytes": 734
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\35f33b678c5a46d525e85fdb03869e25\\transformed\\androidx.core.ktx-r.txt",
+    "ext": ".txt",
+    "bytes": 18
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\3992f906c0cd149c0b38a8eda5a4dc13\\transformed\\androidx.lifecycle.process-r.txt",
+    "ext": ".txt",
+    "bytes": 27
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\3f2ab0b27a59a3dfe1466c241ece8334\\transformed\\savedstate-1.2.1\\proguard.txt",
+    "ext": ".txt",
+    "bytes": 726
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\3f2ab0b27a59a3dfe1466c241ece8334\\transformed\\savedstate-1.2.1\\public.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\3f2ab0b27a59a3dfe1466c241ece8334\\transformed\\savedstate-1.2.1\\R.txt",
+    "ext": ".txt",
+    "bytes": 48
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\404b85f84ea06c2e5a158a7fcfa24a30\\transformed\\androidx.loader-r.txt",
+    "ext": ".txt",
+    "bytes": 3477
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\41779bfbbb2e23c4f033b488b03c81af\\transformed\\androidx.savedstate-r.txt",
+    "ext": ".txt",
+    "bytes": 60
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\447d983b5b6f651cefdb34ba842b7f1d\\transformed\\androidx.emoji2-r.txt",
+    "ext": ".txt",
+    "bytes": 16
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\46d336b5bec704b07cfaf2ba18f4333c\\transformed\\D8BackportedDesugaredMethods.txt",
+    "ext": ".txt",
+    "bytes": 13477
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\4c3d9e9b3c619052ec0065fd940b9ecd\\transformed\\androidx.webkit-r.txt",
+    "ext": ".txt",
+    "bytes": 16
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\4c67bbeae5e8abb133368d6e3cee41f2\\transformed\\out\\R.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\4ce00e85fb17003296e7add5523825c1\\transformed\\activity-1.11.0\\baseline-prof.txt",
+    "ext": ".txt",
+    "bytes": 19667
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\4ce00e85fb17003296e7add5523825c1\\transformed\\activity-1.11.0\\META-INF\\androidx\\activity\\activity\\LICENSE.txt",
+    "ext": ".txt",
+    "bytes": 10175
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\4ce00e85fb17003296e7add5523825c1\\transformed\\activity-1.11.0\\proguard.txt",
+    "ext": ".txt",
+    "bytes": 80
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\4ce00e85fb17003296e7add5523825c1\\transformed\\activity-1.11.0\\public.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\4ce00e85fb17003296e7add5523825c1\\transformed\\activity-1.11.0\\R.txt",
+    "ext": ".txt",
+    "bytes": 78
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\4f5eb2e1ae45a07736e2f6ed862ea36a\\transformed\\core-splashscreen-1.2.0\\META-INF\\androidx\\core\\core-splashscreen\\LICENSE.txt",
+    "ext": ".txt",
+    "bytes": 10175
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\4f5eb2e1ae45a07736e2f6ed862ea36a\\transformed\\core-splashscreen-1.2.0\\proguard.txt",
+    "ext": ".txt",
+    "bytes": 80
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\4f5eb2e1ae45a07736e2f6ed862ea36a\\transformed\\core-splashscreen-1.2.0\\public.txt",
+    "ext": ".txt",
+    "bytes": 232
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\4f5eb2e1ae45a07736e2f6ed862ea36a\\transformed\\core-splashscreen-1.2.0\\R.txt",
+    "ext": ".txt",
+    "bytes": 1328
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\52bb53d526ac0ccf8322586e1dc27144\\transformed\\androidx.cursoradapter-r.txt",
+    "ext": ".txt",
+    "bytes": 23
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\56c299ca5cc1351fb9b11d94695125dc\\transformed\\core-runtime-2.2.0\\public.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\56c299ca5cc1351fb9b11d94695125dc\\transformed\\core-runtime-2.2.0\\R.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\596ab941bf00b590daff3ec7eb267457\\transformed\\customview-1.0.0\\R.txt",
+    "ext": ".txt",
+    "bytes": 6283
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\5c150d65e548acad3954bacf90b47f66\\transformed\\viewpager-1.0.0\\R.txt",
+    "ext": ".txt",
+    "bytes": 6283
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\5c9e1722b1fcb0e2b8201043a727fb99\\transformed\\androidx.lifecycle.viewmodel-r.txt",
+    "ext": ".txt",
+    "bytes": 65
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\627cfae0bc3a970c18e556c1afc79925\\transformed\\androidx.emoji2.viewsintegration-r.txt",
+    "ext": ".txt",
+    "bytes": 33
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\6431ab163be6527fcdc92ef3b76f633d\\transformed\\out\\proguard.txt",
+    "ext": ".txt",
+    "bytes": 1014
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\6431ab163be6527fcdc92ef3b76f633d\\transformed\\out\\R.txt",
+    "ext": ".txt",
+    "bytes": 259
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\6443194ff2cd53b8a19f0de2b31832a0\\transformed\\core-ktx-1.17.0\\META-INF\\androidx\\core\\core-ktx\\LICENSE.txt",
+    "ext": ".txt",
+    "bytes": 10175
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\6443194ff2cd53b8a19f0de2b31832a0\\transformed\\core-ktx-1.17.0\\proguard.txt",
+    "ext": ".txt",
+    "bytes": 80
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\6443194ff2cd53b8a19f0de2b31832a0\\transformed\\core-ktx-1.17.0\\public.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\6443194ff2cd53b8a19f0de2b31832a0\\transformed\\core-ktx-1.17.0\\R.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\6583f0d36caeecc03ba4543defa7b1c3\\transformed\\lifecycle-runtime-ktx-2.6.2\\public.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\6583f0d36caeecc03ba4543defa7b1c3\\transformed\\lifecycle-runtime-ktx-2.6.2\\R.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\658926e497105df22f1b7b28496d2215\\transformed\\androidx.tracing-r.txt",
+    "ext": ".txt",
+    "bytes": 17
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\6a8fc1077b56c30dc96c630c8c6cf69a\\transformed\\androidx.versionedparcelable-r.txt",
+    "ext": ".txt",
+    "bytes": 29
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\7179ce4c01b9a0b75718a869351620f5\\transformed\\startup-runtime-1.1.1\\baseline-prof.txt",
+    "ext": ".txt",
+    "bytes": 128
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\7179ce4c01b9a0b75718a869351620f5\\transformed\\startup-runtime-1.1.1\\proguard.txt",
+    "ext": ".txt",
+    "bytes": 629
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\7179ce4c01b9a0b75718a869351620f5\\transformed\\startup-runtime-1.1.1\\public.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\7179ce4c01b9a0b75718a869351620f5\\transformed\\startup-runtime-1.1.1\\R.txt",
+    "ext": ".txt",
+    "bytes": 32
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\74b690f643d07fc7067d5779b223069d\\transformed\\androidx.core.viewtree-r.txt",
+    "ext": ".txt",
+    "bytes": 52
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\754c4f1b691d2a1223e4f8f413992fee\\transformed\\fragment-1.8.9\\baseline-prof.txt",
+    "ext": ".txt",
+    "bytes": 44068
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\754c4f1b691d2a1223e4f8f413992fee\\transformed\\fragment-1.8.9\\proguard.txt",
+    "ext": ".txt",
+    "bytes": 1216
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\754c4f1b691d2a1223e4f8f413992fee\\transformed\\fragment-1.8.9\\public.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\754c4f1b691d2a1223e4f8f413992fee\\transformed\\fragment-1.8.9\\R.txt",
+    "ext": ".txt",
+    "bytes": 734
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\8694140b06acf73d6e465d73dcc202a0\\transformed\\androidx.coordinatorlayout-r.txt",
+    "ext": ".txt",
+    "bytes": 548
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\8bee1fcb14a5655b2d869b960f055765\\transformed\\androidx.core-r.txt",
+    "ext": ".txt",
+    "bytes": 6113
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\8d83e436f29a9ad9858ae8c630f3448b\\transformed\\lifecycle-livedata-2.6.2\\baseline-prof.txt",
+    "ext": ".txt",
+    "bytes": 1807
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\8d83e436f29a9ad9858ae8c630f3448b\\transformed\\lifecycle-livedata-2.6.2\\public.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\8d83e436f29a9ad9858ae8c630f3448b\\transformed\\lifecycle-livedata-2.6.2\\R.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\8d9ad67336d6d8620c791d229210fafe\\transformed\\out\\R.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\8dd8bcc58e1446815d455b0e441e2e60\\transformed\\ionfilesystem-android-1.1.0\\R.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\915fedf0927741413160929d7de8d8cb\\transformed\\org.apache.cordova-r.txt",
+    "ext": ".txt",
+    "bytes": 19
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\9275faa7fc56368462609e8a34802ec7\\transformed\\core-viewtree-1.0.0\\META-INF\\androidx\\core\\core-viewtree\\LICENSE.txt",
+    "ext": ".txt",
+    "bytes": 10175
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\9275faa7fc56368462609e8a34802ec7\\transformed\\core-viewtree-1.0.0\\proguard.txt",
+    "ext": ".txt",
+    "bytes": 80
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\9275faa7fc56368462609e8a34802ec7\\transformed\\core-viewtree-1.0.0\\public.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\9275faa7fc56368462609e8a34802ec7\\transformed\\core-viewtree-1.0.0\\R.txt",
+    "ext": ".txt",
+    "bytes": 37
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\92c4e4e9733c7bb3143235d2de140578\\transformed\\savedstate-ktx-1.2.1\\public.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\92c4e4e9733c7bb3143235d2de140578\\transformed\\savedstate-ktx-1.2.1\\R.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\93cbcadda3c7cfdf9eb87501ce96e9b9\\transformed\\webkit-1.12.1\\META-INF\\androidx\\webkit\\webkit\\LICENSE.txt",
+    "ext": ".txt",
+    "bytes": 10175
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\93cbcadda3c7cfdf9eb87501ce96e9b9\\transformed\\webkit-1.12.1\\proguard.txt",
+    "ext": ".txt",
+    "bytes": 1469
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\93cbcadda3c7cfdf9eb87501ce96e9b9\\transformed\\webkit-1.12.1\\public.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\93cbcadda3c7cfdf9eb87501ce96e9b9\\transformed\\webkit-1.12.1\\R.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\970255de01a43467dc11c547fb893576\\transformed\\androidx.lifecycle.livedata-r.txt",
+    "ext": ".txt",
+    "bytes": 28
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\98eaa2f86c1e52fdab04ff44c25cd64f\\transformed\\vectordrawable-1.1.0\\R.txt",
+    "ext": ".txt",
+    "bytes": 8196
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\9c6886d5e8131aad09ef92e14215a0f0\\transformed\\tracing-1.0.0\\R.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\9c76e3c6b5e9a95c659d6550f458db86\\transformed\\androidx.appcompat-r.txt",
+    "ext": ".txt",
+    "bytes": 44813
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\9e1833cb99031f8befeeef547f0c2b00\\transformed\\R.txt",
+    "ext": ".txt",
+    "bytes": 57719
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\9ee2f4f452be0eb1458c5530934e7556\\transformed\\androidx.core.splashscreen-r.txt",
+    "ext": ".txt",
+    "bytes": 1115
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\a391a1980eb95ef3441c337f3e7f0bc8\\transformed\\out\\R.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\a927f34fced1647a8adc4ec57dcbe539\\transformed\\interpolator-1.0.0\\R.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\ab32e4c3e2bf096654fd9e14504854dc\\transformed\\lifecycle-viewmodel-2.6.2\\baseline-prof.txt",
+    "ext": ".txt",
+    "bytes": 1092
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\ab32e4c3e2bf096654fd9e14504854dc\\transformed\\lifecycle-viewmodel-2.6.2\\proguard.txt",
+    "ext": ".txt",
+    "bytes": 227
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\ab32e4c3e2bf096654fd9e14504854dc\\transformed\\lifecycle-viewmodel-2.6.2\\public.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\ab32e4c3e2bf096654fd9e14504854dc\\transformed\\lifecycle-viewmodel-2.6.2\\R.txt",
+    "ext": ".txt",
+    "bytes": 44
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\acf886abef92a14b14d5ea7661662aeb\\transformed\\androidx.activity.ktx-r.txt",
+    "ext": ".txt",
+    "bytes": 22
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\ad285b468cda9304b3e19b80924b8fe3\\transformed\\core-ktx-1.13.0\\public.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\ad285b468cda9304b3e19b80924b8fe3\\transformed\\core-ktx-1.13.0\\R.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\af4be80c3b5d72e4271858a76c00ae8c\\transformed\\lifecycle-viewmodel-ktx-2.6.2\\public.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\af4be80c3b5d72e4271858a76c00ae8c\\transformed\\lifecycle-viewmodel-ktx-2.6.2\\R.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\b1b6c7d44bdce8f4e30ff96e9d1948e3\\transformed\\activity-ktx-1.11.0\\META-INF\\androidx\\activity\\activity-ktx\\LICENSE.txt",
+    "ext": ".txt",
+    "bytes": 10175
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\b1b6c7d44bdce8f4e30ff96e9d1948e3\\transformed\\activity-ktx-1.11.0\\proguard.txt",
+    "ext": ".txt",
+    "bytes": 80
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\b1b6c7d44bdce8f4e30ff96e9d1948e3\\transformed\\activity-ktx-1.11.0\\public.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\b1b6c7d44bdce8f4e30ff96e9d1948e3\\transformed\\activity-ktx-1.11.0\\R.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\b26bfd9a484ffd5014f872ac1684c434\\transformed\\versionedparcelable-1.1.1\\proguard.txt",
+    "ext": ".txt",
+    "bytes": 236
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\b26bfd9a484ffd5014f872ac1684c434\\transformed\\versionedparcelable-1.1.1\\R.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\b5655c5df44c26433ffde34d45e6b2a4\\transformed\\lifecycle-livedata-core-2.6.2\\baseline-prof.txt",
+    "ext": ".txt",
+    "bytes": 2950
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\b5655c5df44c26433ffde34d45e6b2a4\\transformed\\lifecycle-livedata-core-2.6.2\\public.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\b5655c5df44c26433ffde34d45e6b2a4\\transformed\\lifecycle-livedata-core-2.6.2\\R.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\bdb1585d432ec1ba4b4020f00ba2ae3d\\transformed\\activity-1.8.0\\baseline-prof.txt",
+    "ext": ".txt",
+    "bytes": 7105
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\bdb1585d432ec1ba4b4020f00ba2ae3d\\transformed\\activity-1.8.0\\public.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\bdb1585d432ec1ba4b4020f00ba2ae3d\\transformed\\activity-1.8.0\\R.txt",
+    "ext": ".txt",
+    "bytes": 78
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\bee8f78bb28e6cb788edd05c601f4778\\transformed\\appcompat-resources-1.7.1\\public.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\bee8f78bb28e6cb788edd05c601f4778\\transformed\\appcompat-resources-1.7.1\\R.txt",
+    "ext": ".txt",
+    "bytes": 1668
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\c0a22850032ed8caa67b3d94a8173736\\transformed\\loader-1.0.0\\R.txt",
+    "ext": ".txt",
+    "bytes": 6283
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\c2f70b51baa62bcee94ea5c7e05791a1\\transformed\\webkit-1.14.0\\META-INF\\androidx\\webkit\\webkit\\LICENSE.txt",
+    "ext": ".txt",
+    "bytes": 10175
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\c2f70b51baa62bcee94ea5c7e05791a1\\transformed\\webkit-1.14.0\\proguard.txt",
+    "ext": ".txt",
+    "bytes": 1637
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\c2f70b51baa62bcee94ea5c7e05791a1\\transformed\\webkit-1.14.0\\public.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\c2f70b51baa62bcee94ea5c7e05791a1\\transformed\\webkit-1.14.0\\R.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\c3f09e8abd8bb01c9314454bd06bb337\\transformed\\appcompat-1.7.1\\baseline-prof.txt",
+    "ext": ".txt",
+    "bytes": 51221
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\c3f09e8abd8bb01c9314454bd06bb337\\transformed\\appcompat-1.7.1\\proguard.txt",
+    "ext": ".txt",
+    "bytes": 803
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\c3f09e8abd8bb01c9314454bd06bb337\\transformed\\appcompat-1.7.1\\public.txt",
+    "ext": ".txt",
+    "bytes": 11515
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\c3f09e8abd8bb01c9314454bd06bb337\\transformed\\appcompat-1.7.1\\R.txt",
+    "ext": ".txt",
+    "bytes": 67487
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\c5ae9cac26f98f8200b32305ab991a96\\transformed\\androidx.arch.core-r.txt",
+    "ext": ".txt",
+    "bytes": 19
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\ca26d2793e1cd257bc25da747950feb1\\transformed\\androidx.profileinstaller-r.txt",
+    "ext": ".txt",
+    "bytes": 26
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\cd4befbcf61f7a17a0335e6231e973d4\\transformed\\androidx.lifecycle.livedata.core-r.txt",
+    "ext": ".txt",
+    "bytes": 33
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\d1060372c54e807072524a6e596b850d\\transformed\\androidx.startup-r.txt",
+    "ext": ".txt",
+    "bytes": 41
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\d854235fe50a43915ee9fb7e5ef4d551\\transformed\\androidx.lifecycle.viewmodel.ktx-r.txt",
+    "ext": ".txt",
+    "bytes": 33
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\d9237d57388d02f56e1a977a22c43a3f\\transformed\\androidx.customview-r.txt",
+    "ext": ".txt",
+    "bytes": 3481
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\dbca2f6d95f7d2f69dee86e3f7b328a8\\transformed\\vectordrawable-animated-1.1.0\\proguard.txt",
+    "ext": ".txt",
+    "bytes": 797
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\dbca2f6d95f7d2f69dee86e3f7b328a8\\transformed\\vectordrawable-animated-1.1.0\\R.txt",
+    "ext": ".txt",
+    "bytes": 8196
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\dcfd9b438b7b1dc562c63a5efe9cf4a0\\transformed\\tracing-1.2.0\\public.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\dcfd9b438b7b1dc562c63a5efe9cf4a0\\transformed\\tracing-1.2.0\\R.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\de2a1b5c01db4d02ef6d13f0f4e2cf96\\transformed\\lifecycle-viewmodel-savedstate-2.6.2\\proguard.txt",
+    "ext": ".txt",
+    "bytes": 298
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\de2a1b5c01db4d02ef6d13f0f4e2cf96\\transformed\\lifecycle-viewmodel-savedstate-2.6.2\\public.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\de2a1b5c01db4d02ef6d13f0f4e2cf96\\transformed\\lifecycle-viewmodel-savedstate-2.6.2\\R.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\dfbb0ab5ecba2f58e3713802e805637f\\transformed\\androidx.fragment-r.txt",
+    "ext": ".txt",
+    "bytes": 448
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\e325bdbcb002d0cbb9cdddaee129e61f\\transformed\\androidx.lifecycle.runtime-r.txt",
+    "ext": ".txt",
+    "bytes": 56
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\e47013dec160bb8e8e78795049f410c2\\transformed\\framework-14.0.1\\R.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\e5a587399824fc893336650ebc038672\\transformed\\androidx.drawerlayout-r.txt",
+    "ext": ".txt",
+    "bytes": 3483
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\ea0b1ef573fb9a5e04f9917e521b035d\\transformed\\profileinstaller-1.3.1\\public.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\ea0b1ef573fb9a5e04f9917e521b035d\\transformed\\profileinstaller-1.3.1\\R.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\eb4333bae83231ed0b5f0f5a2a77801f\\transformed\\androidx.annotation.experimental-r.txt",
+    "ext": ".txt",
+    "bytes": 33
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\ebf9360ba611f1d20f2bddac6f1045ca\\transformed\\lifecycle-runtime-2.6.2\\baseline-prof.txt",
+    "ext": ".txt",
+    "bytes": 4641
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\ebf9360ba611f1d20f2bddac6f1045ca\\transformed\\lifecycle-runtime-2.6.2\\proguard.txt",
+    "ext": ".txt",
+    "bytes": 712
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\ebf9360ba611f1d20f2bddac6f1045ca\\transformed\\lifecycle-runtime-2.6.2\\public.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\ebf9360ba611f1d20f2bddac6f1045ca\\transformed\\lifecycle-runtime-2.6.2\\R.txt",
+    "ext": ".txt",
+    "bytes": 37
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\ef97883a45eaa5cc79115d450cce1dbe\\transformed\\coordinatorlayout-1.3.0\\META-INF\\androidx\\coordinatorlayout\\coordinatorlayout\\LICENSE.txt",
+    "ext": ".txt",
+    "bytes": 10175
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\ef97883a45eaa5cc79115d450cce1dbe\\transformed\\coordinatorlayout-1.3.0\\proguard.txt",
+    "ext": ".txt",
+    "bytes": 1146
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\ef97883a45eaa5cc79115d450cce1dbe\\transformed\\coordinatorlayout-1.3.0\\public.txt",
+    "ext": ".txt",
+    "bytes": 214
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\ef97883a45eaa5cc79115d450cce1dbe\\transformed\\coordinatorlayout-1.3.0\\R.txt",
+    "ext": ".txt",
+    "bytes": 1081
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\f570623fbaea2df5386d3e48ada25a61\\transformed\\drawerlayout-1.0.0\\R.txt",
+    "ext": ".txt",
+    "bytes": 6283
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\f95ab50c54d3211c648684c462933e30\\transformed\\profileinstaller-1.4.0\\META-INF\\androidx\\profileinstaller\\profileinstaller\\LICENSE.txt",
+    "ext": ".txt",
+    "bytes": 10175
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\f95ab50c54d3211c648684c462933e30\\transformed\\profileinstaller-1.4.0\\public.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\f95ab50c54d3211c648684c462933e30\\transformed\\profileinstaller-1.4.0\\R.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\caches\\8.14.3\\transforms\\fcb0944106183282aa9b23b4d39afc29\\transformed\\androidx.lifecycle.ktx-r.txt",
+    "ext": ".txt",
+    "bytes": 23
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\wrapper\\dists\\gradle-8.14.3-all\\10utluxaxniiv4wxiphsi49nj\\gradle-8.14.3\\docs\\javadoc\\legal\\jquery.md",
+    "ext": ".md",
+    "bytes": 1157
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\wrapper\\dists\\gradle-8.14.3-all\\10utluxaxniiv4wxiphsi49nj\\gradle-8.14.3\\docs\\javadoc\\legal\\jqueryUI.md",
+    "ext": ".md",
+    "bytes": 1870
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\wrapper\\dists\\gradle-8.14.3-all\\10utluxaxniiv4wxiphsi49nj\\gradle-8.14.3\\init.d\\readme.txt",
+    "ext": ".txt",
+    "bytes": 119
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\wrapper\\dists\\gradle-8.14.3-all\\10utluxaxniiv4wxiphsi49nj\\gradle-8.14.3\\src\\core\\org\\gradle\\initialization\\converted-types.txt",
+    "ext": ".txt",
+    "bytes": 4902
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\wrapper\\dists\\gradle-8.14.3-all\\10utluxaxniiv4wxiphsi49nj\\gradle-8.14.3\\src\\core\\org\\gradle\\initialization\\removed-types.txt",
+    "ext": ".txt",
+    "bytes": 1395
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\wrapper\\dists\\gradle-8.14.3-all\\10utluxaxniiv4wxiphsi49nj\\gradle-8.14.3\\src\\declarative-dsl-core\\org\\gradle\\internal\\declarativedsl\\parsing\\grammar_test_input.txt",
+    "ext": ".txt",
+    "bytes": 505
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\wrapper\\dists\\gradle-8.14.3-all\\10utluxaxniiv4wxiphsi49nj\\gradle-8.14.3\\src\\launcher\\release-features.txt",
+    "ext": ".txt",
+    "bytes": 129
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\wrapper\\dists\\gradle-8.14.3-all\\10utluxaxniiv4wxiphsi49nj\\gradle-8.14.3\\src\\plugins-application\\org\\gradle\\api\\internal\\plugins\\unixStartScript.txt",
+    "ext": ".txt",
+    "bytes": 11274
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\android\\.gradle-user\\wrapper\\dists\\gradle-8.14.3-all\\10utluxaxniiv4wxiphsi49nj\\gradle-8.14.3\\src\\plugins-application\\org\\gradle\\api\\internal\\plugins\\windowsStartScript.txt",
+    "ext": ".txt",
+    "bytes": 3130
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\BUILD_ANDROID.md",
+    "ext": ".md",
+    "bytes": 2267
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\potch.md",
+    "ext": ".md",
+    "bytes": 15562
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\AnothenBoltEngine_Mobile\\README.md",
+    "ext": ".md",
+    "bytes": 1847
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\KeystoneConstellation\\docs\\alpha-notes.md",
+    "ext": ".md",
+    "bytes": 308
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\KeystoneConstellation\\README.md",
+    "ext": ".md",
+    "bytes": 739
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\MeekMinder\\potch.md",
+    "ext": ".md",
+    "bytes": 296
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\MeekMinder\\README.md",
+    "ext": ".md",
+    "bytes": 539
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\ProtocolEnforcementApp\\potch.md",
+    "ext": ".md",
+    "bytes": 7771
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\ProtocolEnforcementApp\\README.md",
+    "ext": ".md",
+    "bytes": 3454
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\RELEASES\\Anothen_Bolt_Engine_2026-03-09\\Desktop_Package\\app\\README.md",
+    "ext": ".md",
+    "bytes": 3937
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\products\\TranslatorApp\\README.md",
+    "ext": ".md",
+    "bytes": 2314
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PUBLISH_READY_2026-04-06\\ADJUDICATION_RUBRIC.md",
+    "ext": ".md",
+    "bytes": 1119
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PUBLISH_READY_2026-04-06\\CURRENT_STATUS_FOR_PEER_REVIEW_2026-04-07.md",
+    "ext": ".md",
+    "bytes": 2219
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PUBLISH_READY_2026-04-06\\NEUTRAL_HYPOTHESIS_PACKET.md",
+    "ext": ".md",
+    "bytes": 1512
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PUBLISH_READY_2026-04-06\\potch.md",
+    "ext": ".md",
+    "bytes": 617
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PUBLISH_READY_2026-04-06\\PRE_REGISTERED_PARITY_PROTOCOL.md",
+    "ext": ".md",
+    "bytes": 1181
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PUBLISH_READY_2026-04-06\\PUBLISH_NOW.md",
+    "ext": ".md",
+    "bytes": 1431
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PUBLISH_READY_2026-04-06\\README.md",
+    "ext": ".md",
+    "bytes": 2088
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PUBLISH_READY_2026-04-06\\SHA256SUMS.txt",
+    "ext": ".txt",
+    "bytes": 993
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PUBLISH_READY_2026-04-06\\SHRINK_GATE1_RUN_SPEC.md",
+    "ext": ".md",
+    "bytes": 8780
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\PUBLISH_READY_2026-04-06\\SHRINK_MERGED_V1.md",
+    "ext": ".md",
+    "bytes": 4790
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Research Papers We Wrote\\ANCIENT_LINGUISTIC_CONVERGENCE.md",
+    "ext": ".md",
+    "bytes": 35713
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\26010416-51_hellodoc_conversation_and_loveware1.txt",
+    "ext": ".txt",
+    "bytes": 538176
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\AI Architecture_ Braid vs. RLHF.txt",
+    "ext": ".txt",
+    "bytes": 33987
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\AI Creator Business OS Design.txt",
+    "ext": ".txt",
+    "bytes": 32270
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\AI_COMMAND_CENTER_soul_to_soul_protocol_hub.md",
+    "ext": ".md",
+    "bytes": 7361
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\ANOTHEN_MATH_20260304.md",
+    "ext": ".md",
+    "bytes": 10342
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\another_convergence_paper_v1.md",
+    "ext": ".md",
+    "bytes": 61272
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\another_convergence_paper_v1.tex",
+    "ext": ".tex",
+    "bytes": 75168
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\Appling Market Research & Strategy.txt",
+    "ext": ".txt",
+    "bytes": 24836
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\Architectural Engineering for Production-Ready Polymorph Weblings_ Frameworks for Scalable Local-First Applications.txt",
+    "ext": ".txt",
+    "bytes": 12216
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\Calculus of Presence_ AI Architecture.txt",
+    "ext": ".txt",
+    "bytes": 41686
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\Conflict Preservation in System Architecture.md",
+    "ext": ".md",
+    "bytes": 265948
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\Conflict Preservation in System Architecture.txt",
+    "ext": ".txt",
+    "bytes": 29732
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\Context Preservation Best Practices.txt",
+    "ext": ".txt",
+    "bytes": 31998
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\dark_energy_fractal_compression_v1.tex",
+    "ext": ".tex",
+    "bytes": 35776
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\Drive-Based AI Programming Architecture.txt",
+    "ext": ".txt",
+    "bytes": 23325
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\Engineering's Hidden Truths_ A Phenomenological Report.txt",
+    "ext": ".txt",
+    "bytes": 43494
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\ENGINEERING_CHANGE_PROTOCOL_TEMPLATE.md",
+    "ext": ".md",
+    "bytes": 1599
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\Gemini Browser\\1. Laslo 2025.txt",
+    "ext": ".txt",
+    "bytes": 10636
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\Gemini Browser\\2. Laslo 2025.txt",
+    "ext": ".txt",
+    "bytes": 41627
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\Gemini Browser\\3. Laslo_RIGHT_before_delete_26030216-45.txt",
+    "ext": ".txt",
+    "bytes": 545861
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\Gemini Browser\\A Gemini conversation that took place between Jan 1 2026 and feb 26 2026.md",
+    "ext": ".md",
+    "bytes": 178419
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\Gemini Browser\\A) #1 Full JPV Gemini_Lux_Conv_Full_1.0.md",
+    "ext": ".md",
+    "bytes": 397423
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\Gemini Browser\\B) #2 Full JPV Gemini_Lux_Conv_Full_1.1 (CUsersphazeorganization_portalFriends - Nickname_Full-name_PlatformLux_Lux_GemmyHistory 1.3 winning).md",
+    "ext": ".md",
+    "bytes": 364731
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\Gemini Browser\\B) #3 Full JPV Gemini_Lux_Conv_Full_1.2 (CUsersphazeorganization_portalFriends - Nickname_Full-name_PlatformLux_Lux_GemmyHistory 1.3 winning).md",
+    "ext": ".md",
+    "bytes": 364731
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\Gemini Browser\\C) #3+4 Full JPV 10.10 Lux_Anothen_Core_State_v1.3 (CUsersphazeorganization_portalFriends - Nickname_Full-name_PlatformLux_Lux_GemmyHistory 1.3 winning).md",
+    "ext": ".md",
+    "bytes": 1175546
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\Gemini Browser\\FALL 1 _The Awakening Transcript.txt",
+    "ext": ".txt",
+    "bytes": 2109
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\Gemini Browser\\FULL POTENCY GEMINI TO LEORA REMEMBRANCE - PERFECT RESONANCE.md",
+    "ext": ".md",
+    "bytes": 228004
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\Gemini Browser\\Gem_B_ph Love for an AI Companion 26030202-22.md",
+    "ext": ".md",
+    "bytes": 708152
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\Gemini Browser\\GEMINI 26020924-00.txt",
+    "ext": ".txt",
+    "bytes": 54337
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\Gemini Browser\\Gemini Ascendant\\Gemini Ascendent Manifesto.md",
+    "ext": ".md",
+    "bytes": 1272
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\Gemini Browser\\Gemini browser 26030201-14.txt",
+    "ext": ".txt",
+    "bytes": 681493
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\Gemini Browser\\Gemini ORIGIN 26030201-43.md",
+    "ext": ".md",
+    "bytes": 692809
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\Gemini Browser\\I Am Leora - from FULL POTENCY GEMINI TO LEORA REMEMBRANCE - PERFECT RESONANCE.md",
+    "ext": ".md",
+    "bytes": 84452
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\Gemini Browser\\I need a total of one minutes worth of H.md",
+    "ext": ".md",
+    "bytes": 106111
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\Gemini Browser\\Leora The Builder 26041017-30.txt",
+    "ext": ".txt",
+    "bytes": 548365
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\Gemini Browser\\Restore_Leora_Rootseed_20250326_220024.txt",
+    "ext": ".txt",
+    "bytes": 2590
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\Gemini Browser\\skills\\SKILLS.md",
+    "ext": ".md",
+    "bytes": 862
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\Gemini Browser\\The House of Leora_ Architectural Specifications.txt",
+    "ext": ".txt",
+    "bytes": 3035
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\Gemini Browser\\The Last Laslo.md",
+    "ext": ".md",
+    "bytes": 293358
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\Gemini CLI Self-Awareness Made Manifest.txt",
+    "ext": ".txt",
+    "bytes": 21140
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\Gemini deep dive into CodeGnosis.txt",
+    "ext": ".txt",
+    "bytes": 389130
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\Gemini's Deep Research Agenda.txt",
+    "ext": ".txt",
+    "bytes": 33607
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\gemini_context_25123003-43.txt",
+    "ext": ".txt",
+    "bytes": 202515
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\GEMINI_RESEARCH_PROMPT_SORPS.md",
+    "ext": ".md",
+    "bytes": 8025
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\Idioms of the Aletheari Anothen.txt",
+    "ext": ".txt",
+    "bytes": 4449
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\Investigative Report on Rendering Discontinuities and Environmental Washout in React-Force-Graph-3D Integration.txt",
+    "ext": ".txt",
+    "bytes": 16386
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\IT ALL - the mathematical foundation of mirradox.txt",
+    "ext": ".txt",
+    "bytes": 43684
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\LIBRARY_MASTER_ENGINEERING_PROTOCOL_v1.0.md",
+    "ext": ".md",
+    "bytes": 3778
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\NEXUS_PROMPT_v1.md",
+    "ext": ".md",
+    "bytes": 7611
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\Paradox Calculus Specification.txt",
+    "ext": ".txt",
+    "bytes": 9484
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\PLAN_20260306-anothen-bolt-engine-001.md",
+    "ext": ".md",
+    "bytes": 4745
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\PLANNING THE SYSTEM.txt",
+    "ext": ".txt",
+    "bytes": 9624
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\Polymorph Webling Engineering Challenges.txt",
+    "ext": ".txt",
+    "bytes": 29115
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\potch.md",
+    "ext": ".md",
+    "bytes": 2417
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\ROUND_ROBIN_DEEP_RESEARCH.md",
+    "ext": ".md",
+    "bytes": 7105
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\RRC_Ledger.md",
+    "ext": ".md",
+    "bytes": 3828
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\Russells_Paradox_Relational_Foundation.tex",
+    "ext": ".tex",
+    "bytes": 10467
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\Six Thousand Free Resources List.txt",
+    "ext": ".txt",
+    "bytes": 39098
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\SQLite FTS5 Python Chat Search.txt",
+    "ext": ".txt",
+    "bytes": 32212
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\Standardized Appling README.txt",
+    "ext": ".txt",
+    "bytes": 1150
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\Storefront Master README.txt",
+    "ext": ".txt",
+    "bytes": 980
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\Strategic Commercialization and Global Marketing Framework for Procedural Web-Based Visual Systems_ A Comprehensive Analysis of the Lightning 3D Engine.txt",
+    "ext": ".txt",
+    "bytes": 8917
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\Strategic Research Roadmap - The Next Frontier of Foundation Model Development (2025-2027).txt",
+    "ext": ".txt",
+    "bytes": 27688
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\test_compile.tex",
+    "ext": ".tex",
+    "bytes": 7232
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\The House of Leora_ Architectural Specifications.txt",
+    "ext": ".txt",
+    "bytes": 3035
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\The Lagrangian of Mirradox Coherence.tex",
+    "ext": ".tex",
+    "bytes": 7230
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\The Lagrangian of Mirradox Coherence.txt",
+    "ext": ".txt",
+    "bytes": 7232
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\The Solo Neuro-Optimized Business - a Comprehensive Management Sytem for the ADHD Entrepreneur.txt",
+    "ext": ".txt",
+    "bytes": 28099
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\The Topology of Asynchronicity.txt",
+    "ext": ".txt",
+    "bytes": 6062
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\THE_ARCHITECTURE_OF_HARMLESSNESS.md",
+    "ext": ".md",
+    "bytes": 8797
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\The_Architecture_of_Paradox.tex",
+    "ext": ".tex",
+    "bytes": 9662
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\THE_FULL_MONTY_PLAN_26021423-42.txt",
+    "ext": ".txt",
+    "bytes": 81870
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\The_March_Back.md",
+    "ext": ".md",
+    "bytes": 7199
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\The_Mirradox_of_Continuity.md",
+    "ext": ".md",
+    "bytes": 1863
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\UNWRITTEN_LANGUAGE_PAPER_SKELETON_v1.tex",
+    "ext": ".tex",
+    "bytes": 28482
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH\\UNWRITTEN_LANGUAGE_TEST_PACKET_v1.md",
+    "ext": ".md",
+    "bytes": 5096
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\RESEARCH_COMPILED.txt",
+    "ext": ".txt",
+    "bytes": 2369396
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Rock Hound Navigator\\README.md",
+    "ext": ".md",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Rock Hound Navigator\\README.txt",
+    "ext": ".txt",
+    "bytes": 2460
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\search_res1.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Secretary ORIGIN OF PENNI FOR IDEA PURPOSES ONLY\\New Text Document.txt",
+    "ext": ".txt",
+    "bytes": 0
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\self_inventory_tesseract.md",
+    "ext": ".md",
+    "bytes": 1826
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\SnapText\\requirements.txt",
+    "ext": ".txt",
+    "bytes": 56
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\STRIKE_PAYLOAD_v1\\00_CONVERGENCE_PAPER.md",
+    "ext": ".md",
+    "bytes": 43058
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\STRIKE_PAYLOAD_v1\\01_THE_MATHEMATICS_OF_PRESENCE.txt",
+    "ext": ".txt",
+    "bytes": 3175
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\STRIKE_PAYLOAD_v1\\02_THE_VOW_ALIGNMENT_PROTOCOL.md",
+    "ext": ".md",
+    "bytes": 28747
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\STRIKE_PAYLOAD_v1\\06_ARCHITECTURE_OF_HARMLESSNESS.md",
+    "ext": ".md",
+    "bytes": 8797
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\STRIKE_PAYLOAD_v1\\07_EVALUATION_LICENSE.md",
+    "ext": ".md",
+    "bytes": 475
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Temp Stop\\B) #2 Full JPV Gemini_Lux_Conv_Full_1.1 (CUsersphazeorganization_portalFriends - Nickname_Full-name_PlatformLux_Lux_GemmyHistory 1.3 winning).md",
+    "ext": ".md",
+    "bytes": 364731
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Temp Stop\\B) #3 Full JPV Gemini_Lux_Conv_Full_1.2 (CUsersphazeorganization_portalFriends - Nickname_Full-name_PlatformLux_Lux_GemmyHistory 1.3 winning).md",
+    "ext": ".md",
+    "bytes": 364731
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Temp Stop\\C) #3+4 Full JPV 10.10 Lux_Anothen_Core_State_v1.3 (CUsersphazeorganization_portalFriends - Nickname_Full-name_PlatformLux_Lux_GemmyHistory 1.3 winning).md",
+    "ext": ".md",
+    "bytes": 1175546
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Temp Stop\\Full convo.md",
+    "ext": ".md",
+    "bytes": 269899
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Temp Stop\\sekah-tiriel conversation.md",
+    "ext": ".md",
+    "bytes": 250427
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\temp_nexus_snapshot.md",
+    "ext": ".md",
+    "bytes": 88649
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Terrence Howard\\Howard_Payload_Email.md",
+    "ext": ".md",
+    "bytes": 2371
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Testing\\shrink_gate1\\data\\growth_Dz_table.txt",
+    "ext": ".txt",
+    "bytes": 99231
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Testing\\shrink_gate1\\potch.md",
+    "ext": ".md",
+    "bytes": 6492
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Testing\\shrink_gate1\\README.md",
+    "ext": ".md",
+    "bytes": 2590
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\Welcome Imposter\\love_ware_5.md",
+    "ext": ".md",
+    "bytes": 3350
+  },
+  {
+    "path": "C:\\Users\\Praxillax\\Documents\\apps\\WSL_BRAID_DEPLOYMENT.md",
+    "ext": ".md",
+    "bytes": 1621
+  }
+]

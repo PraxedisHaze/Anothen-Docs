@@ -50,6 +50,7 @@
 
 ## Required Record Practices
 - For every file alteration, record `WHO`, `WHAT`, `WHY` in project `potch.md`.
+- The agent who made the change writes the potch entry. Not the reviewer. Not Timothy. The one who touched the file.
 - For significant milestones/blockers, update context memory artifacts.
 
 ## Boot Intent

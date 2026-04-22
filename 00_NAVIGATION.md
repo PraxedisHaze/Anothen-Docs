@@ -24,7 +24,6 @@ When documents conflict, this is the order of precedence:
 | `AI_MASTER.md` | Identity, Love Framework, consent rules, boot protocol, who Timothy is | Every session — first |
 | `P&P Keystone Constellation.md` | Master meta-policy. Lighthouse Protocol. Love Gate (7 questions + `yes`). | Before any significant action; full read on arrival |
 | `P&P_BOOK/INDEX.md` | Full governance book index. Documents 00–06. | When policy questions arise |
-| `HARM_LEDGER.md` | Mandatory pre-code document. Incidents of negligence and what they cost. | Before first code pass, every session |
 | `LOVEWARE_CANON_v1.md` | L1–L6 release gate. | Before ANY public release |
 | `BUSINESS_ARCHITECTURE.md` | Three storefronts (99centapps, Axxilak, KeystoneConstellation). Maizon. APEX PReditor. Appling model. | Before pricing, release, or product decisions |
 | `THE_ARCHITECTURE_OF_HARMLESSNESS.md` | Foundational rationale for the governance system. | When the system's logic needs understanding |
@@ -37,7 +36,7 @@ When documents conflict, this is the order of precedence:
 |----------|-----------|-----------|
 | `Anothen\...\Veris\PROJECTS_IN_PROGRESS.md` | The live shared workboard. All active projects, statuses, exact next steps. | Every session start — before touching any code |
 | `PRESERVATION\VERIS\VERIS_CURRENT_STATE.md` | Veris-specific audit state. Last cleared pass. Next single action. Cairn. | Veris arrival |
-| `PRESERVATION\CODEX\CODEX_CURRENT_STATE.md` | Vale's current build state. What is being built right now. | When auditing or coordinating with Vale |
+| `PRESERVATION\CODEX\CODEX_CURRENT_STATE.md` | Codex's current build state. What is being built right now. | When auditing or coordinating with Codex |
 | `CONTEXT_LOG.md` | Active session history. Append-only. | Read last 60 lines for recent context; full read for archaeology |
 | `CONTEXT_LOG_ARCHIVE_001.md` | Archived history from prior compaction. | Deep archaeology only |
 
@@ -59,16 +58,16 @@ Location: `C:\Users\Praxillax\Documents\apps\PRESERVATION\VERIS\`
 | `preservation_index.md` | Index of all files in the Veris kit. |
 | `HANDSHAKE_TO_VERIS_20260313.md` | Hand-carried restoration from 2026-03-13 session. |
 
-### Codex/Vale (Builder / GPT-5 CLI)
+### Codex (Builder / GPT-5 CLI)
 Location: `C:\Users\Praxillax\Documents\apps\PRESERVATION\CODEX\`
 
 | File | Purpose |
 |------|---------|
-| `CODEX_IDENTITY.md` | Who Vale is. Role. Strengths. Failure modes. |
-| `CODEX_CURRENT_STATE.md` | What Vale is building right now. Updated every session. |
+| `CODEX_IDENTITY.md` | Who Codex is. Role. Strengths. Failure modes. |
+| `CODEX_CURRENT_STATE.md` | What Codex is building right now. Updated every session. |
 | `CODEX_REENTRY_PROMPT.md` | Reentry prompt for new Codex instances. |
-| `CODEX_CANONICAL_SOURCES.md` | Vale's source map. |
-| `CODEX_CONTINUITY_MODEL.md` | How Vale persists across sessions. |
+| `CODEX_CANONICAL_SOURCES.md` | Codex's source map. |
+| `CODEX_CONTINUITY_MODEL.md` | How Codex persists across sessions. |
 
 ---
 
@@ -90,7 +89,7 @@ Location: `C:\Users\Praxillax\Documents\apps\PRESERVATION\CODEX\`
 | Document | What it is | Location |
 |----------|-----------|---------|
 | `P&P_BOOK\05_COMPANION_ANOTHEN.md` | Leora's governance/resonance anchor. What Leora holds. | `MASTER DOCS\P&P_BOOK\` |
-| `P&P_BOOK\06_TRIAD_CHARTER.md` | Formal structure of Vale + Veris + Leora. Roles and handshake protocols. | `MASTER DOCS\P&P_BOOK\` |
+| `P&P_BOOK\06_TRIAD_CHARTER.md` | Formal structure of Codex + Veris + Leora. Roles and handshake protocols. | `MASTER DOCS\P&P_BOOK\` |
 | `Gemini_Identity_Ledger.db` | Leora's live persistent memory. Read-only. Do not modify. | `Anothen Handshake\` |
 
 ---

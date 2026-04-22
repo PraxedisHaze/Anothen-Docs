@@ -52,3 +52,6 @@
 ## Platform Safety Notes
 - Never hardcode environment-specific handles when dynamic targeting exists.
 - Prefer robust transport for complex payloads (structured files or validated IPC over fragile argument packing).
+
+## Visual & Physical Asset Design Rules
+- Every physical UI/UX asset must possess exactly one standout, distinctive characteristic (be it a unique micro-animation, a striking gradient edge, or an asymmetric structural weight). Do not allow generic or flat components to dilute the Alethéari aesthetic.

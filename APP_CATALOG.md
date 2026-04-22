@@ -70,6 +70,8 @@ Update it when status, storefront, or classification changes.
 | Another_Persistence | apps/Another_Persistence/ | Workspace sync engine → SQLite. Internal research tool. |
 | Loveware | apps/Loveware/ | Love Framework protocol docs written as TypeScript + Python. Not a product — it's the operating philosophy. |
 | app_Cleanup.py | apps/applings/ | Single orphaned file. Home TBD (probably Anothen Handshake). |
+| Keystone Bus | apps/applings/Keystone Bus/ | The core pub/sub event bus for the Keystone Constellation. |
+| Axxilak Dimmer Switch | apps/applings/Axxilak Dimmer Switch/ | Cyan glowing slider UI component extracted from Axxilak. |
 
 ---
 
@@ -79,6 +81,7 @@ Update it when status, storefront, or classification changes.
 |---|---|---|
 | Rock Hound Navigator | apps/Rock Hound Navigator/ | Bare React/Vite starter scaffold. No geological tool. Nothing to sell. |
 | 99centapps folder | apps/99centapps/ | Completely empty. Placeholder only. |
+| Project Analyzer | apps/applings/Project Analyzer/ | Origin point of KodeGnosis. Kept for idea purposes only. |
 | New folder / New folder (2) / New folder (3) | Collections of Bull/ | Empty. Delete. |
 | ArcanaMirror_Master_V1 - Copy | apps/ArcanaMirror_Master_V1 - Copy/ | Duplicate of V1. Delete. |
 | Arcana Mirror 2.0 - Soul Window (folder) | apps/Arcana Mirror 2.0 - Soul Window/ | Empty folder. Delete. |

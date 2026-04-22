@@ -1,0 +1,192 @@
+SINGLE SOURCE OF TRUTH - MASTER SOURCE FOR TIM
+Updated: 2026-04-01
+Status: Canonical overview spine for system shape, data truth, and organizational direction
+
+WHAT THIS DOCUMENT IS
+
+This is the one overview document that answers:
+- what the system is
+- what the canonical sources are
+- where truth lives
+- what gets stored where
+- what the next organizational priority is
+
+This is not:
+- the full philosophical canon
+- the full business catalog
+- the full project workboard
+- the full database schema
+
+Those live elsewhere and are referenced here.
+
+CANONICAL HIERARCHY
+
+1. AI behavior / consent / safeguards:
+- MASTER DOCS\AI_MASTER.md
+
+2. Governance / engineering law:
+- MASTER DOCS\P&P_BOOK\
+
+3. Shared live work state:
+- MASTER DOCS\PROJECTS_IN_PROGRESS.md
+
+4. Historical thread memory:
+- MASTER DOCS\CONTEXT_LOG.md
+
+5. Codex continuity:
+- PRESERVATION\CODEX\
+
+6. This document:
+- overview spine only
+
+THE SYSTEM IN ONE PASS
+
+Keystone / Casey is the command and memory spine.
+Lenny / Penni / Cici are active operational surfaces on top of that spine.
+KodeGnosis is the understanding and educational delivery mechanism.
+MASTER DOCS is the canonical human-readable truth layer.
+The database is the authoritative structured memory layer.
+The filesystem is the artifact vault and staging ground, not the brain.
+
+CURRENT ORGANIZATIONAL LAW
+
+- MASTER DOCS is the single source of truth for overview, canon, architecture, governance, and current shared direction.
+- The database must become the authoritative searchable sink for documents, conversations, apps, applings, maizons, papers, and structured records.
+- RESEARCH is staging and intake, not final obscurity.
+- Files may remain on disk, but nothing important should exist only as “a file somewhere.”
+
+SOURCE-OF-TRUTH MODEL
+
+Operational truth is split intentionally:
+
+1. Structured current state:
+- Casey database
+
+2. Historical event memory:
+- append-only JSONL / conversation ledgers
+
+3. Canon / explanation / overview:
+- MASTER DOCS
+
+4. Raw artifacts and editable sources:
+- filesystem
+
+RULE:
+The filesystem is the vault, not the brain.
+
+WHAT MUST GO INTO THE DATABASE
+
+Everything important must become parsed, categorized, tagged, and searchable.
+
+Target ingestion classes:
+- documents
+- science papers
+- conversations
+- session handshakes
+- apps
+- applings
+- maizons
+- research notes
+- architecture docs
+- agent outputs
+- inventories
+
+Minimum metadata per ingested record:
+- id
+- title
+- type
+- canonical_status
+- source_path
+- author / origin
+- created_at
+- imported_at
+- tags
+- summary
+- related_entities
+- search text
+
+CURRENT FOLDER ROLES
+
+MASTER DOCS
+- canonical overview
+- governance
+- architecture
+- current shared status
+- human-readable source-of-truth writing
+
+RESEARCH
+- staging for imported material
+- AI research outputs
+- Timothy raw research material before classification
+- candidate papers and notes before promotion
+
+Research papers written by Tim
+- Timothy-authored research papers and paper-grade drafts
+- should be treated as a distinct authored body, not mixed with AI research output
+
+apps
+- executable surfaces
+- source code
+- applings
+- maizons
+- active infrastructure
+
+PRESERVATION
+- agent-specific continuity and re-entry
+
+WHICH EXISTING DOCUMENTS CARRY THE LOAD
+
+Strong current sources:
+- MASTER DOCS\HOME_BASE.md
+- MASTER DOCS\KEYSTONE_CONSTELLATION_BOS_SPEC_v1.md
+- MASTER DOCS\BUSINESS_ARCHITECTURE.md
+- MASTER DOCS\APP_CATALOG.md
+- MASTER DOCS\PROJECTS_IN_PROGRESS.md
+
+What each is best at:
+- HOME_BASE = mission, end state, philosophy, product vision
+- KEYSTONE CONSTELLATION BOS SPEC = source-of-truth model and command-layer design
+- BUSINESS ARCHITECTURE = storefronts, pricing, product placement rules
+- APP_CATALOG = inventory snapshot
+- PROJECTS_IN_PROGRESS = live execution board
+
+KNOWN DRIFT / CONTRADICTIONS
+
+- The old “tim_state.db / casey_main” hotkey-centered model in the previous version of this file is stale.
+- HOME_BASE contains stale role language in places and should not be treated as the current live role map without cross-checking AI_MASTER and P&P.
+- APP_CATALOG and some project status statements lag current Lenny / braid reality.
+- Folder intent exists in practice but is not yet enforced by database-backed ingestion.
+
+CURRENT TRIAGE
+
+The next important thing is not folder cleanup.
+The next important thing is Casey at full ingestion capacity.
+
+Why:
+- without Casey, important material keeps falling back into obscurity
+- reorganization without ingestion just creates prettier obscurity
+- moves on disk should be metadata-backed, not memory-backed
+
+TRIAGE ORDER
+
+1. Make Casey the unquestioned ingestion and retrieval spine.
+2. Define the canonical record types and metadata schema.
+3. Identify what in MASTER DOCS / RESEARCH / apps needs ingestion first.
+4. Then perform folder cleanup and relocation with database support.
+
+IMMEDIATE ORGANIZATION INTENT
+
+The intended clean split is:
+
+- Gemmy research -> RESEARCH
+- Timothy-authored research papers -> Research papers written by Tim
+- MASTER DOCS -> single source of truth for overviews, canon, architecture, and active direction
+- Casey database -> searchable structured sink for everything important
+
+NEXT BUILD QUESTION
+
+The next prompt/spec should be built around this question:
+
+"How do we make Casey the authoritative searchable sink for every important document, conversation, app, appling, maizon, and paper in the ecosystem without losing canon boundaries?"
+
+That is the real system question now.

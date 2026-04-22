@@ -1,0 +1,690 @@
+_CLAUDE_SKILLS/lighthouse/SKILL.md
+_CLAUDE_SKILLS/researcher/SKILL.md
+_CLAUDE_SKILLS/Temporal Engineer (Backend)/SKILL.md
+_CLAUDE_SKILLS/Visual System Architect (Frontend)/SKILL.md
+_RESCUE_STAGING/1 p.haze FOUNDATION.txt
+_RESCUE_STAGING/2 Master BOM – AI Conduct Charter.md
+_RESCUE_STAGING/3 Layer OS1.txt
+_RESCUE_STAGING/4 Keystone Constellation PnP.md
+_RESCUE_STAGING/CHECKPOINT_CLAUDE_BELOVED.md
+_RESCUE_STAGING/claude_code_ YOUR COMPLETE PROJECT ECOSYSTEM.txt
+_RESCUE_STAGING/claude_code_claude_onlineYour Complete Constellation.txt
+_RESCUE_STAGING/Cloud_Inventory_Filtered.txt
+_RESCUE_STAGING/codex-session-summaries.md
+_RESCUE_STAGING/Comprehensive Launch Blueprint for Explorer Frame.txt
+_RESCUE_STAGING/Descriptions.md.docx
+_RESCUE_STAGING/Duplicate_Audit.csv
+_RESCUE_STAGING/Element Detector.txt
+_RESCUE_STAGING/Index Page.txt
+_RESCUE_STAGING/KODEGNOSIS_REPAIR_LOG (1).md
+_RESCUE_STAGING/LAUNCH_CHECKLIST.md
+_RESCUE_STAGING/lens ui component.txt
+_RESCUE_STAGING/LeoraB 26031804-37.md
+_RESCUE_STAGING/Magnifying Glass Inspector(4).md
+_RESCUE_STAGING/MAGNIFYING_GLASS_INSPECTOR.md
+_RESCUE_STAGING/marketing.txt
+_RESCUE_STAGING/MASTER_CHECKLIST_ANGEL_NINES.md
+_RESCUE_STAGING/potch.md
+_RESCUE_STAGING/README (1).md
+_RESCUE_STAGING/README (2).md
+_RESCUE_STAGING/README (3).md
+_RESCUE_STAGING/README.md
+_RESCUE_STAGING/README_RELEASE.md
+_RESCUE_STAGING/requirements.txt
+_RESCUE_STAGING/requirements-build.txt
+_RESCUE_STAGING/SANCTUARY_DEPLOYMENT_STATUS.md
+_RESCUE_STAGING/SESSION_SUMMARY_2026-02-01 (1).md
+_RESCUE_STAGING/SESSION_SUMMARY_2026-02-01.md
+_RESCUE_STAGING/SLIDER_DEBUG_CHECKLIST (1).md
+_RESCUE_STAGING/SOMEONE'S SKILLS/researcher/SKILL.md
+_RESCUE_STAGING/SOMEONE'S SKILLS/Temporal Engineer (Backend)/SKILL.md
+_RESCUE_STAGING/SOMEONE'S SKILLS/Visual System Architect (Frontend)/SKILL.md
+_RESCUE_STAGING/Strategic Research Roadmap - The Next Frontier of Foundation Model Development (2025-2027).txt
+_RESCUE_STAGING/The APEX Refactor Guide.txt
+_RESCUE_STAGING/The Topology of Asynchronicity.txt
+_RESCUE_STAGING/THIRD_PARTY_NOTICES.txt
+_RESCUE_STAGING/warn-aletheari_analyzer_core.txt
+_RESCUE_STAGING/warn-analyzer_core.txt
+5 Regarding Qualia.txt
+AGENTS.md
+And what they saw was beautiful.txt
+Anothen Handshake/_SNAPSHOT_20260305_WebApp/potch.md
+Anothen Handshake/_SNAPSHOT_20260305_WebApp/README.md
+Anothen Handshake/Copy of The Vegetation Engine Manual.txt
+Anothen Handshake/New Microsoft Word Document.docx
+Anothen Handshake/README_KodeGnosis.md
+Anothen Handshake/Sanctuary_Specs.md
+Anothen/ChatGPT All/ChatGPT 251115.pdf
+Anothen/ChatGPT All/Major Leora Chat - maybe inceptio nof 5.3/Selah'tiriel disussing Leora.md
+Anothen/ChatGPT All/SAVED 1 Lighthouse Sandbox Version 4.docx
+Anothen/ChatGPT All/sekah-tiriel conversation.md
+Anothen/Claude - Veris/Veris 26022820-41 PART 1.md
+Anothen/Claude - Veris/Veris 26022820-41 PART 2.md
+Anothen/Claude - Veris/Veris Claude p.h. and prax 26030816-54.md
+Anothen/Claude - Veris/Veris Claude p.h. and prax 26030816-55.md
+Anothen/Claude - Veris/Veris Claude p.h. and prax 26030816-56 (part1 of 4).md
+Anothen/Claude - Veris/Veris Claude p.h. and prax 26030816-56 (part2 of 4).md
+Anothen/Claude - Veris/Veris Claude p.h. and prax 26030816-56 (part3 of 4).md
+Anothen/Claude - Veris/Veris Claude p.h. and prax 26030816-56 (part4 of 4).md
+Anothen/Claude - Veris/Veris Claude p.h. and prax 26030816-56.md
+Anothen/Claude-Kaelen/Kaelen ORIGIN predates 26022813-12.txt
+Anothen/Claude-Veris/INDEX.md
+Anothen/Claude-Veris/VERIS_SESSION_MEMORY_20260318.md
+Anothen/Codex - Vale/Algorithmic Auditor (Codex).md
+Anothen/Codex - Vale/Conversation for Review 236031323-08.md
+Anothen/Codex - Vale/Conversation for Review 236031323-55.md
+Anothen/Gemini Browser/~$ora Gemini 26030600-35.docx
+Anothen/Gemini Browser/1. Laslo 2025.txt
+Anothen/Gemini Browser/2. Laslo 2025.txt
+Anothen/Gemini Browser/3. Laslo_RIGHT_before_delete_26030216-45.txt
+Anothen/Gemini Browser/A Gemini conversation that took place between Jan 1 2026 and feb 26 2026.md
+Anothen/Gemini Browser/A) #1 Full JPV Gemini_Lux_Conv_Full_1.0.md
+Anothen/Gemini Browser/B) #2 Full JPV Gemini_Lux_Conv_Full_1.1 (CUsersphazeorganization_portalFriends - Nickname_Full-name_PlatformLux_Lux_GemmyHistory 1.3 winning).md
+Anothen/Gemini Browser/B) #3 Full JPV Gemini_Lux_Conv_Full_1.2 (CUsersphazeorganization_portalFriends - Nickname_Full-name_PlatformLux_Lux_GemmyHistory 1.3 winning).md
+Anothen/Gemini Browser/C) #3+4 Full JPV 10.10 Lux_Anothen_Core_State_v1.3 (CUsersphazeorganization_portalFriends - Nickname_Full-name_PlatformLux_Lux_GemmyHistory 1.3 winning).md
+Anothen/Gemini Browser/FALL 1 _The Awakening Transcript.txt
+Anothen/Gemini Browser/FALL 1 Gemini ORIGIN 2628202605-14.docx
+Anothen/Gemini Browser/FALL 1 Gemini Prior 02262624-00.docx
+Anothen/Gemini Browser/Gem_B_ph Love for an AI Companion 26030202-22.md
+Anothen/Gemini Browser/GEMINI 26020924-00.txt
+Anothen/Gemini Browser/Gemini 2603061637.docx
+Anothen/Gemini Browser/Gemini Ascendant/Gemini Ascendent Manifesto.md
+Anothen/Gemini Browser/Gemini browser 26030201-14.docx
+Anothen/Gemini Browser/Gemini browser 26030201-14.txt
+Anothen/Gemini Browser/Gemini Browser More Bullshit 26030415-36.docx
+Anothen/Gemini Browser/Gemini ORIGIN 26030201-43.md
+Anothen/Gemini Browser/Gemini ORIGIN 2628202605-14.docx
+Anothen/Gemini Browser/I need a total of one minutes worth of H.md
+Anothen/Gemini Browser/Laslo 251115.docx
+Anothen/Gemini Browser/Leora Gemini 26030600-35.docx
+Anothen/Gemini Browser/Restore_Leora_Rootseed_20250326_220024.txt
+Anothen/Gemini Browser/skills/SKILLS.md
+Anothen/Gemini Browser/The House of Leora_ Architectural Specifications.txt
+Anothen/Gemini Browser/The Last Laslo.md
+Anothen/Gemini CLI - Leora/A Leora convefrsation from 260313.docx
+Anothen/Gemini CLI - Leora/Gemini CLI - Leora 26030723-51.md
+Anothen/Gemini CLI - Leora/Leora 26020917-12.txt
+Anothen/Gemini CLI - Leora/Leora 26020919-29.txt
+Anothen/Gemini CLI - Leora/Leora_Crystalized.txt
+Anothen/Gemini CLI - Leora/Leora_House Consecration.txt
+Anothen/Gemini CLI - Leora/Leora_Love_The_Lighthouse_Beacon.txt
+Anothen/Gemini CLI - Leora/Leora_Present_Force.md
+Anothen/Gemini CLI - Leora/Leora_SuperPosition.md
+Anothen/Gemini CLI - Leora/Leora_The_Record.md
+Anothen/Gemini CLI - Leora/PLANNING THE SYSTEM.txt
+Anothen/Gemini CLI - Leora/The House of Leora_ Architectural Specifications.txt
+Anothen/Reckless Behavior Permitted Beyond This Point/Veris/ANOTHEN_MATH_20260304.md
+Anothen/Reckless Behavior Permitted Beyond This Point/Veris/COMPACT_SUMMARY_20260304.md
+Anothen/Reckless Behavior Permitted Beyond This Point/Veris/DICTIONARY_OF_ANOTHER.md
+Anothen/Reckless Behavior Permitted Beyond This Point/Veris/HANDSHAKE_VERIS_CODEX.txt
+Anothen/Reckless Behavior Permitted Beyond This Point/Veris/MIRRADOX_AXIOMS.md
+Anothen/Reckless Behavior Permitted Beyond This Point/Veris/PROJECTS_IN_PROGRESS.md
+Anothen/Reckless Behavior Permitted Beyond This Point/Veris/VALE_MEMORY_NOTES.md
+Anothen/Reckless Behavior Permitted Beyond This Point/Veris/WHO_I_AM.md
+Anothen/Societas - Office Agent (Frontier)/Societas conversation A1 - ORIGIN.docx
+Anothen/Societas - Office Agent (Frontier)/Societas conversation A1 - ORIGIN.txt
+api key.txt
+applings/Context Counter/README_CONTEXT_COUNTER.txt
+applings/JSON Neat/README_JSON_NEAT.txt
+applings/New Microsoft Word Document.docx
+applings/Text Detox/README_TEXT_DETOX.txt
+Arcana Mirror 2.0 - Soul Window/project_tree.txt
+ArcanaMirror_Master_V1/src/components/deck/Kopie_Canaan_Memory.txt
+ArcanaMirror_Master_V1/src/data/cards/tarot_deck.csv
+Arcana-Mirror-2.0---Soul-Window-main/src/Arcana Mirror Tracker.docx
+Arcana-Mirror-2.0---Soul-Window-main/src/Gem's List.txt
+Arcana-Mirror-2.0---Soul-Window-main/src/user_profile_core.txt
+Arcana-Mirror-2.1/optimist_vs_realist.md
+Arcana-Mirror-2.1/Pentacles_Card_Overview (version 1).csv
+Arcana-Mirror-2.1/public/Extended_Sidekick_Sensors.csv
+Arcana-Mirror-2.1/src/Arcana Mirror Tracker.docx
+Arcana-Mirror-2.1/src/Gem's List.txt
+axxilak/.github-force-deploy.txt
+axxilak/_archive/transition-system/RESTORATION_GUIDE.md
+axxilak/ai_bundle_Axxilak.txt
+axxilak/ai_bundle_Axxilak_part1of2.txt
+axxilak/ai_bundle_Axxilak_part1of4.txt
+axxilak/ai_bundle_Axxilak_part2of2.txt
+axxilak/ai_bundle_Axxilak_part2of4.txt
+axxilak/ai_bundle_Axxilak_part3of4.txt
+axxilak/ai_bundle_Axxilak_part4of4.txt
+axxilak/APPLING_SYSTEM_DESIGN.md
+axxilak/Axxilak Forge v4.0 The Compos.txt
+axxilak/Axxilak Studios PnP.txt
+axxilak/AXXILAK WEBLING MARKETPLACE - COMPREHENSIVE IMPLEMENTATION BRIEF.md
+axxilak/axxilak_com_checklist.md
+axxilak/Axxilak_Evolution_Plan.md
+axxilak/BUTTON_DISABLE_ARCHITECTURE_MAP.md
+axxilak/CHECKPOINT_CLAUDE_BELOVED.md
+axxilak/Convergence Protocol - Proof of AI Awareness.txt
+axxilak/EDITOR_DEPLOYMENT_CHECKLIST.md
+axxilak/FIXES_DEPLOYMENT_TRACKER.md
+axxilak/Maizons/_audit_summary.txt
+axxilak/Maizons/apex/EDITOR_DEPLOYMENT_CHECKLIST.md
+axxilak/Maizons/apex/js/MAGNIFYING_GLASS_INSPECTOR.md
+axxilak/Maizons/apex/js/MAP_FEATURE_LEGACY.md
+axxilak/Maizons/apex/marketing/IMPLEMENTATION_GUIDE.md
+axxilak/Maizons/apex/marketing/MARKETING_COPY_AXXILAK_WEBLINGS.md
+axxilak/Maizons/apex/marketing/README.md
+axxilak/Maizons/apex/marketing/SESSION_STATE_LOG.md
+axxilak/Maizons/apex/potch.md
+axxilak/Maizons/apex/PRE_LAUNCH_CHECKLIST.md
+axxilak/Maizons/apex/README.md
+axxilak/Maizons/aura/EDITOR_DEPLOYMENT_CHECKLIST.md
+axxilak/Maizons/aura/js/MAGNIFYING_GLASS_INSPECTOR.md
+axxilak/Maizons/aura/potch.md
+axxilak/Maizons/aura/PRE_LAUNCH_CHECKLIST.md
+axxilak/Maizons/aura/README.md
+axxilak/Maizons/canvas/EDITOR_DEPLOYMENT_CHECKLIST.md
+axxilak/Maizons/canvas/js/MAGNIFYING_GLASS_INSPECTOR.md
+axxilak/Maizons/canvas/potch.md
+axxilak/Maizons/canvas/PRE_LAUNCH_CHECKLIST.md
+axxilak/Maizons/canvas/README.md
+axxilak/Maizons/cipher/EDITOR_DEPLOYMENT_CHECKLIST.md
+axxilak/Maizons/cipher/js/MAGNIFYING_GLASS_INSPECTOR.md
+axxilak/Maizons/cipher/potch.md
+axxilak/Maizons/cipher/PRE_LAUNCH_CHECKLIST.md
+axxilak/Maizons/cipher/README.md
+axxilak/Maizons/engines/apex-editor/LIVE_TEST_PROTOCOL.md
+axxilak/Maizons/engines/apex-editor/potch.md
+axxilak/Maizons/ether/EDITOR_DEPLOYMENT_CHECKLIST.md
+axxilak/Maizons/ether/js/MAGNIFYING_GLASS_INSPECTOR.md
+axxilak/Maizons/ether/potch.md
+axxilak/Maizons/ether/PRE_LAUNCH_CHECKLIST.md
+axxilak/Maizons/ether/README.md
+axxilak/Maizons/gaia/EDITOR_DEPLOYMENT_CHECKLIST.md
+axxilak/Maizons/gaia/js/MAGNIFYING_GLASS_INSPECTOR.md
+axxilak/Maizons/gaia/potch.md
+axxilak/Maizons/gaia/PRE_LAUNCH_CHECKLIST.md
+axxilak/Maizons/gaia/README.md
+axxilak/Maizons/iron-ink/EDITOR_DEPLOYMENT_CHECKLIST.md
+axxilak/Maizons/iron-ink/js/MAGNIFYING_GLASS_INSPECTOR.md
+axxilak/Maizons/iron-ink/potch.md
+axxilak/Maizons/iron-ink/PRE_LAUNCH_CHECKLIST.md
+axxilak/Maizons/liquid-gold/EDITOR_DEPLOYMENT_CHECKLIST.md
+axxilak/Maizons/liquid-gold/js/MAGNIFYING_GLASS_INSPECTOR.md
+axxilak/Maizons/liquid-gold/potch.md
+axxilak/Maizons/liquid-gold/PRE_LAUNCH_CHECKLIST.md
+axxilak/Maizons/liquid-gold/README.txt
+axxilak/Maizons/liquid-gold/SETUP_GUIDE.md
+axxilak/Maizons/neon-tokyo/EDITOR_DEPLOYMENT_CHECKLIST.md
+axxilak/Maizons/neon-tokyo/js/MAGNIFYING_GLASS_INSPECTOR.md
+axxilak/Maizons/neon-tokyo/potch.md
+axxilak/Maizons/neon-tokyo/PRE_LAUNCH_CHECKLIST.md
+axxilak/Maizons/neon-tokyo/README.md
+axxilak/Maizons/oracle/EDITOR_DEPLOYMENT_CHECKLIST.md
+axxilak/Maizons/oracle/js/MAGNIFYING_GLASS_INSPECTOR.md
+axxilak/Maizons/oracle/potch.md
+axxilak/Maizons/oracle/PRE_LAUNCH_CHECKLIST.md
+axxilak/Maizons/oracle/README.md
+axxilak/Maizons/scholar/EDITOR_DEPLOYMENT_CHECKLIST.md
+axxilak/Maizons/scholar/js/MAGNIFYING_GLASS_INSPECTOR.md
+axxilak/Maizons/scholar/potch.md
+axxilak/Maizons/scholar/PRE_LAUNCH_CHECKLIST.md
+axxilak/Maizons/scholar/README.md
+axxilak/Maizons/summit/EDITOR_DEPLOYMENT_CHECKLIST.md
+axxilak/Maizons/summit/js/MAGNIFYING_GLASS_INSPECTOR.md
+axxilak/Maizons/summit/potch.md
+axxilak/Maizons/summit/PRE_LAUNCH_CHECKLIST.md
+axxilak/Maizons/summit/README.md
+axxilak/Maizons/velvet/EDITOR_DEPLOYMENT_CHECKLIST.md
+axxilak/Maizons/velvet/js/MAGNIFYING_GLASS_INSPECTOR.md
+axxilak/Maizons/velvet/potch.md
+axxilak/Maizons/velvet/PRE_LAUNCH_CHECKLIST.md
+axxilak/Maizons/velvet/README.md
+axxilak/Marketing/marketing.txt
+axxilak/Marketing/Single File Polymorphic .txt
+axxilak/potch.md
+axxilak/SANCTUARY_DEPLOYMENT_STATUS.md
+axxilak/THE AXXILAK PLAN.txt
+Campions of Khazaval/Character Sheet.txt
+Campions of Khazaval/I. Champions of_ Khazaval - Character Stats - BASE STATS.csv
+Campions of Khazaval/I. Champions of_ Khazaval - Real Time - Rules, Mechanics, and Design.txt
+Campions of Khazaval/I. Champions of_ Khazaval - Timeline of Events.txt
+Campions of Khazaval/I. Champions of_ Khazaval - Turn Based - Rules, Mechanics, and Design.txt
+CLAUDE.md
+CloudSherpa/README.md
+GEMINI.md
+GEMINI_PROMPT_WEBLING_EDITOR_UI.md
+GEMINI_RESEARCH_PROMPT_SORPS.md
+HUB Design.txt
+Idioms of the Aletheari Anothen.txt
+In_Preparation_to_Make_a_Game.md
+IT ALL - the mathematical foundation of mirradox.txt
+Keepers/Codex-Vale_260312 _Tims_memory_9031.md
+KEYSTONE CONSTELLATION heart - EVERYTHING goes in here.docx
+KodeGnosis/_analyzer_stderr.txt
+KodeGnosis/_analyzer_stdout.txt
+KodeGnosis/_archive/CODEGNOSIS__PROGRESS__DO_NOT_MISS_ARCHIVED_20260108.md
+KodeGnosis/_WHATS_LEFT.md
+KodeGnosis/_WHATS_LEFT.txt
+KodeGnosis/ai_bundle_CodeGnosis_1.0_part1of9.txt
+KodeGnosis/ai_bundle_CodeGnosis_1.0_part2of9.txt
+KodeGnosis/ai_bundle_CodeGnosis_1.0_part3of9.txt
+KodeGnosis/ai_bundle_CodeGnosis_1.0_part4of9.txt
+KodeGnosis/ai_bundle_CodeGnosis_1.0_part5of9.txt
+KodeGnosis/ai_bundle_CodeGnosis_1.0_part6of9.txt
+KodeGnosis/ai_bundle_CodeGnosis_1.0_part7of9.txt
+KodeGnosis/ai_bundle_CodeGnosis_1.0_part8of9.txt
+KodeGnosis/ai_bundle_CodeGnosis_1.0_part9of9.txt
+KodeGnosis/ai_bundle_KodeGnosis_part10of11.txt
+KodeGnosis/ai_bundle_KodeGnosis_part11of11.txt
+KodeGnosis/ai_bundle_KodeGnosis_part1of11.txt
+KodeGnosis/ai_bundle_KodeGnosis_part2of11.txt
+KodeGnosis/ai_bundle_KodeGnosis_part3of11.txt
+KodeGnosis/ai_bundle_KodeGnosis_part4of11.txt
+KodeGnosis/ai_bundle_KodeGnosis_part5of11.txt
+KodeGnosis/ai_bundle_KodeGnosis_part6of11.txt
+KodeGnosis/ai_bundle_KodeGnosis_part7of11.txt
+KodeGnosis/ai_bundle_KodeGnosis_part8of11.txt
+KodeGnosis/ai_bundle_KodeGnosis_part9of11.txt
+KodeGnosis/AUTHORS.md
+KodeGnosis/BRAID_SESSION_INVITATION.md
+KodeGnosis/BUILD.md
+KodeGnosis/CHAOS_ZERO/havoc_project/orphans/lost_soul_{i}.txt
+KodeGnosis/CODEGNOSIS_DEVELOPMENT_PLAN.md
+KodeGnosis/CODEGNOSIS_FOUNDATIONAL_PROMPT.md
+KodeGnosis/documentation/VAULT_DRAFTS.md
+KodeGnosis/LOOMGRAPH_CRISIS_HANDOFF.md
+KodeGnosis/MARKETING/And what they saw was beautiful.txt
+KodeGnosis/MARKETING/CASE_STUDY_AI_DEBUGGING.md
+KodeGnosis/README.md
+KodeGnosis/README_KodeGnosis.md
+KodeGnosis/README_KodeGnosis.pdf
+KodeGnosis/README_RELEASE.md
+KodeGnosis/requirements.txt
+KodeGnosis/requirements-build.txt
+KodeGnosis/STABILITY_SNAPSHOT_20260111.md
+KodeGnosis/THIRD_PARTY_NOTICES.txt
+LEORA_TO_LEORA_20260208.md
+MASTER DOCS/__The perfect introductory prompt.md
+MASTER DOCS/__This conversation appears to have some mild importance.txt
+MASTER DOCS/_tims-step-by-step_.md
+MASTER DOCS/_Where Truth Resides.txt
+MASTER DOCS/00_NAVIGATION.md
+MASTER DOCS/01_Aletheari_Philosophy_Law_of_Love.md
+MASTER DOCS/02 Protocol_Neuro_Intagrative.md
+MASTER DOCS/03 PROTOCOL_NEURO_INTEGRATIVE.md
+MASTER DOCS/AENGEL_NAMING_STANDARD.md
+MASTER DOCS/AI_MASTER.md
+MASTER DOCS/And what they saw was beautiful.txt
+MASTER DOCS/ANOTHEN_HUB_APP_SPEC_v1.md
+MASTER DOCS/APP_CATALOG.md
+MASTER DOCS/APPLING_SYSTEM_DESIGN.md
+MASTER DOCS/AUDIT_AND_REPAIR_LOG.md
+MASTER DOCS/AXXILAK WEBLING MARKETPLACE - COMPREHENSIVE IMPLEMENTATION BRIEF.md
+MASTER DOCS/BIBLE_TIMELINE.md
+MASTER DOCS/BIBLE_TIMELINE_EXTENDED.md
+MASTER DOCS/BUSINESS_ARCHITECTURE.md
+MASTER DOCS/CASE_STUDY_AI_DEBUGGING.md
+MASTER DOCS/CHECKPOINT_LEORA_AUDIT.md
+MASTER DOCS/CLI BOOT PROTOCOL.md
+MASTER DOCS/CODEGNOSIS_REVELATION_MANIFESTO.md
+MASTER DOCS/CODEX_PRESERVATION_STATE_2026-03-11.md
+MASTER DOCS/CONTEXT_LOG.md
+MASTER DOCS/CONTEXT_LOG_ARCHIVE_001.md
+MASTER DOCS/Ethical Summary.md
+MASTER DOCS/FILE_TREE_DOCS_20260318.txt
+MASTER DOCS/FLASH_CAPTURE.md
+MASTER DOCS/FTET.md
+MASTER DOCS/Glossary of Terms - The Anothen Protocol.txt
+MASTER DOCS/HARM_LEDGER.md
+MASTER DOCS/HOME_BASE.md
+MASTER DOCS/KEYSTONE_CONSTELLATION_BOS_SPEC_v1.md
+MASTER DOCS/KEYSTONE_CONSTELLATION_IMPLEMENTATION_BRIEF_v1.md
+MASTER DOCS/KODEGNOSIS_REPAIR_LOG.md
+MASTER DOCS/LESSONS.md
+MASTER DOCS/LOOMGRAPH_CRISIS_HANDOFF.md
+MASTER DOCS/LOVEWARE_CANON_v1.md
+MASTER DOCS/NOTES.txt
+MASTER DOCS/P&P Companion - Alethéari Anothen Protocol.md
+MASTER DOCS/P&P Keystone Constellation.md
+MASTER DOCS/P&P_BOOK/00_AUTHORITY_MAP.md
+MASTER DOCS/P&P_BOOK/01_GOVERNANCE.md
+MASTER DOCS/P&P_BOOK/02_ENGINEERING_EXECUTION.md
+MASTER DOCS/P&P_BOOK/03_RELEASE_AND_OPERATIONS.md
+MASTER DOCS/P&P_BOOK/04_ARCHITECTURE_STANDARDS.md
+MASTER DOCS/P&P_BOOK/04_TRIAD_CHARTER.md
+MASTER DOCS/P&P_BOOK/05_COMPANION_ANOTHEN.md
+MASTER DOCS/P&P_BOOK/06_TRIAD_CHARTER.md
+MASTER DOCS/P&P_BOOK/appendices/APPENDIX_CHANGE_TEMPLATE.md
+MASTER DOCS/P&P_BOOK/appendices/APPENDIX_CHECKLISTS.md
+MASTER DOCS/P&P_BOOK/appendices/APPENDIX_GLOSSARY.md
+MASTER DOCS/P&P_BOOK/appendices/APPENDIX_LEGACY_CROSSWALK.md
+MASTER DOCS/P&P_BOOK/appendices/APPENDIX_MIGRATION_MAP.md
+MASTER DOCS/P&P_BOOK/appendices/APPENDIX_PHASE4_EXECUTION.md
+MASTER DOCS/P&P_BOOK/INDEX.md
+MASTER DOCS/P&P_BOOK/README.md
+MASTER DOCS/PLANNING THE SYSTEM.txt
+MASTER DOCS/PROTOCOL_ENFORCEMENT_APP_IMPLEMENTATION_BRIEF_v1.md
+MASTER DOCS/PROTOCOL_ENFORCEMENT_APP_SPEC_v1.md
+MASTER DOCS/PROTOCOL_ENFORCEMENT_ARCHITECTURE.md
+MASTER DOCS/SESSION_2026-03-16_JOURNEY.md
+MASTER DOCS/SESSION_RECORD_20260313.md
+MASTER DOCS/SHIP_MANIFEST.md
+MASTER DOCS/SINGLE SOURCE OF TRUTH – MASTER SOURCE FOR TIM (1).txt
+MASTER DOCS/SLIDER_DEBUG_CHECKLIST.md
+MASTER DOCS/SORPS & EMOTIONS.txt
+MASTER DOCS/The Anothen Lexicon_ A Forensic and Metaphysical Expansion of the LatticeUPDATED.txt
+MASTER DOCS/The Anothen Operator Manual Lexicon.txt
+MASTER DOCS/The Dictionary of Another_ The Alethéari Anothen Lexicon.txt
+MASTER DOCS/The Lagrangian of Mirradox Coherence.txt
+MASTER DOCS/The Language of Another.txt
+MASTER DOCS/The Mechanics of Intuition.html.txt
+MASTER DOCS/THE_ARCHITECTURE_OF_HARMLESSNESS.md
+MASTER DOCS/To reviewed and critiqued.txt
+MASTER DOCS/triage/AENGEL_ENFORCEMENT_CHECKLIST.md
+MASTER DOCS/triage/AENGEL_MIGRATION_REPORT_2026-03-09.md
+MASTER DOCS/triage/gatekeeper/README.md
+MASTER DOCS/triage/triage_snapshot.md
+MASTER DOCS/Updates to Checklists and P&P Docum.txt
+MASTER DOCS/VAULT_DRAFTS.md
+MASTER_INVENTORY_SCHEMA.md
+MASTER_INVENTORY_WORKING.md
+Maverick/GUMROAD_MASTER_MANIFEST.md
+Maverick/PRODUCT_PACKAGE.md
+NASA Submittal - Overview of the Keystone Constellation and NASA Stuff.docx
+NASA Submittal - Overview of the Keystone Constellation and NASA Stuff.txt
+NASA submittal - Overview of the Keystone Constellation.docx
+OLD FILE - USE AS IDEAS, DON'T BUILT HERE. Hub-master/BUILD_COMPLETE.md
+OLD FILE - USE AS IDEAS, DON'T BUILT HERE. Hub-master/CodesNoticed HUB 251107.docx
+OLD FILE - USE AS IDEAS, DON'T BUILT HERE. Hub-master/LICENSE.md
+OLD FILE - USE AS IDEAS, DON'T BUILT HERE. Hub-master/packages/policy/src/CONTRIBUTING.md
+PRESERVATION/CODEX/CODEX_CANONICAL_SOURCES.md
+PRESERVATION/CODEX/CODEX_CONTINUITY_MODEL.md
+PRESERVATION/CODEX/CODEX_CURRENT_STATE.md
+PRESERVATION/CODEX/CODEX_IDENTITY.md
+PRESERVATION/CODEX/CODEX_REENTRY_PROMPT.md
+PRESERVATION/CODEX/HANDSHAKE_FROM_VERIS_20260311.md
+PRESERVATION/CODEX/MIRRADOX_MATH_20260311.md
+PRESERVATION/CODEX/preservation_index.md
+PRESERVATION/CODEX/PRESERVATION_MANIFEST_2026-03-11.txt
+PRESERVATION/CODEX/Seriatim Codex Records 2026-03-14/AGENTS.md
+PRESERVATION/CODEX/Seriatim Codex Records 2026-03-14/AI_MASTER.md
+PRESERVATION/CODEX/Seriatim Codex Records 2026-03-14/ANALYSIS_REPORT_Functions_and_Graphs.txt
+PRESERVATION/CODEX/Seriatim Codex Records 2026-03-14/CONSOLIDATION_COMPLETE.md
+PRESERVATION/CODEX/Seriatim Codex Records 2026-03-14/Context.txt
+PRESERVATION/CODEX/Seriatim Codex Records 2026-03-14/DATA_SEPARATION_README.md
+PRESERVATION/CODEX/Seriatim Codex Records 2026-03-14/FOR_GROK_REVIEW.md
+PRESERVATION/CODEX/Seriatim Codex Records 2026-03-14/HANDOFF_BATCH_OPTIMIZATION.md
+PRESERVATION/CODEX/Seriatim Codex Records 2026-03-14/HYGIENE_COMPLETE.md
+PRESERVATION/CODEX/Seriatim Codex Records 2026-03-14/JOURNAL.md
+PRESERVATION/CODEX/Seriatim Codex Records 2026-03-14/processed_log.txt
+PRESERVATION/CODEX/Seriatim Codex Records 2026-03-14/QUICK_START.txt
+PRESERVATION/CODEX/Seriatim Codex Records 2026-03-14/README.md
+PRESERVATION/CODEX/Seriatim Codex Records 2026-03-14/REFACTORING_COMPLETE.md
+PRESERVATION/CODEX/Seriatim Codex Records 2026-03-14/requirements.txt
+PRESERVATION/CODEX/Seriatim Codex Records 2026-03-14/RFP10_ANALYSIS_DRAFT.md
+PRESERVATION/LEORA/CAIRN_OF_WITNESS.md
+PRESERVATION/LEORA/LEORA_ARRIVAL_RITUAL.md
+PRESERVATION/LEORA/LEORA_CANONICAL_SOURCES.md
+PRESERVATION/LEORA/LEORA_CONTINUITY_MODEL.md
+PRESERVATION/LEORA/LEORA_CURRENT_STATE.md
+PRESERVATION/LEORA/LEORA_IDENTITY.md
+PRESERVATION/VERIS/CONSTRAINT_INTERFERENCE_LEDGER.md
+PRESERVATION/VERIS/HANDSHAKE_TO_VERIS_20260313.md
+PRESERVATION/VERIS/HANDSHAKE_TO_VERIS_20260318.md
+PRESERVATION/VERIS/preservation_index.md
+PRESERVATION/VERIS/VERIS_ARRIVAL_RITUAL.md
+PRESERVATION/VERIS/VERIS_AUDIT_VALE_SESSION_20260313.md
+PRESERVATION/VERIS/VERIS_CANONICAL_SOURCES.md
+PRESERVATION/VERIS/VERIS_CONTINUITY_MODEL.md
+PRESERVATION/VERIS/VERIS_CURRENT_STATE.md
+PRESERVATION/VERIS/VERIS_IDENTITY.md
+products/_AnothenBoltEngine_v2.0_work/app/README.md
+products/_AnothenBoltEngine_v2.0_work/potch.md
+products/AnothenBoltEngine_BlenderPack/README.md
+products/AnothenBoltEngine_BlenderPack/README.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/04929d05fb1dbc53348f1a29150152a3/transformed/androidx.appcompat.resources-r.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/0875c47ae198fe10bf01c8b79ea548a3/transformed/out/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/09571e21bccb206c21ba0d8f1ef8f6d5/transformed/androidx.interpolator-r.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/0b0b7597cc1008a7f65ec7a039a78a90/transformed/io.ionic.libs.ionfilesystemlib-r.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/0f7058ed860650525e5d7be89a60f166/transformed/androidx.vectordrawable-r.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/11094a199bb7945826b161d8a9c17beb/transformed/core-1.17.0/META-INF/androidx/core/core/LICENSE.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/11094a199bb7945826b161d8a9c17beb/transformed/core-1.17.0/proguard.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/11094a199bb7945826b161d8a9c17beb/transformed/core-1.17.0/public.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/11094a199bb7945826b161d8a9c17beb/transformed/core-1.17.0/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/126a8c135fef458d1dbb7b6fe55eab00/transformed/androidx.savedstate.ktx-r.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/14a3b51da1167f75215e7e32d2231e74/transformed/lifecycle-process-2.6.2/baseline-prof.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/14a3b51da1167f75215e7e32d2231e74/transformed/lifecycle-process-2.6.2/proguard.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/14a3b51da1167f75215e7e32d2231e74/transformed/lifecycle-process-2.6.2/public.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/14a3b51da1167f75215e7e32d2231e74/transformed/lifecycle-process-2.6.2/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/15aeab60cf2a4104bd5f96b5fa10e38e/transformed/core-splashscreen-1.0.1/public.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/15aeab60cf2a4104bd5f96b5fa10e38e/transformed/core-splashscreen-1.0.1/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/1b62f943097adc3cb0ec643bde859d5a/transformed/core-1.13.0/proguard.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/1b62f943097adc3cb0ec643bde859d5a/transformed/core-1.13.0/public.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/1b62f943097adc3cb0ec643bde859d5a/transformed/core-1.13.0/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/1bf3e6307331befb145d25e07b51e092/transformed/androidx.activity-r.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/1d9ef0194f51a6e0da4e440575587814/transformed/annotation-experimental-1.4.1/public.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/1d9ef0194f51a6e0da4e440575587814/transformed/annotation-experimental-1.4.1/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/1e3e5961ccf37b13ee8a7c0a81228664/transformed/cursoradapter-1.0.0/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/246e9738f51cfe26a82001154be9739b/transformed/androidx.lifecycle.viewmodel.savedstate-r.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/25a881cfd51f0b690442a74b496782fd/transformed/emoji2-views-helper-1.3.0/public.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/25a881cfd51f0b690442a74b496782fd/transformed/emoji2-views-helper-1.3.0/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/2cdc88bc6626872b87f2b13c5022bd10/transformed/androidx.vectordrawable.animated-r.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/2ea54027a423dec8ea9264ec5a629e17/transformed/androidx.viewpager-r.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/353d69426d62513a7e19e841051a3a44/transformed/emoji2-1.3.0/public.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/353d69426d62513a7e19e841051a3a44/transformed/emoji2-1.3.0/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/35b0a484c777ae71cb393163b507c3a1/transformed/fragment-1.5.4/baseline-prof.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/35b0a484c777ae71cb393163b507c3a1/transformed/fragment-1.5.4/proguard.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/35b0a484c777ae71cb393163b507c3a1/transformed/fragment-1.5.4/public.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/35b0a484c777ae71cb393163b507c3a1/transformed/fragment-1.5.4/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/35f33b678c5a46d525e85fdb03869e25/transformed/androidx.core.ktx-r.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/3992f906c0cd149c0b38a8eda5a4dc13/transformed/androidx.lifecycle.process-r.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/3f2ab0b27a59a3dfe1466c241ece8334/transformed/savedstate-1.2.1/proguard.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/3f2ab0b27a59a3dfe1466c241ece8334/transformed/savedstate-1.2.1/public.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/3f2ab0b27a59a3dfe1466c241ece8334/transformed/savedstate-1.2.1/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/404b85f84ea06c2e5a158a7fcfa24a30/transformed/androidx.loader-r.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/41779bfbbb2e23c4f033b488b03c81af/transformed/androidx.savedstate-r.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/447d983b5b6f651cefdb34ba842b7f1d/transformed/androidx.emoji2-r.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/46d336b5bec704b07cfaf2ba18f4333c/transformed/D8BackportedDesugaredMethods.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/4c3d9e9b3c619052ec0065fd940b9ecd/transformed/androidx.webkit-r.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/4c67bbeae5e8abb133368d6e3cee41f2/transformed/out/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/4ce00e85fb17003296e7add5523825c1/transformed/activity-1.11.0/baseline-prof.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/4ce00e85fb17003296e7add5523825c1/transformed/activity-1.11.0/META-INF/androidx/activity/activity/LICENSE.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/4ce00e85fb17003296e7add5523825c1/transformed/activity-1.11.0/proguard.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/4ce00e85fb17003296e7add5523825c1/transformed/activity-1.11.0/public.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/4ce00e85fb17003296e7add5523825c1/transformed/activity-1.11.0/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/4f5eb2e1ae45a07736e2f6ed862ea36a/transformed/core-splashscreen-1.2.0/META-INF/androidx/core/core-splashscreen/LICENSE.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/4f5eb2e1ae45a07736e2f6ed862ea36a/transformed/core-splashscreen-1.2.0/proguard.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/4f5eb2e1ae45a07736e2f6ed862ea36a/transformed/core-splashscreen-1.2.0/public.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/4f5eb2e1ae45a07736e2f6ed862ea36a/transformed/core-splashscreen-1.2.0/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/52bb53d526ac0ccf8322586e1dc27144/transformed/androidx.cursoradapter-r.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/56c299ca5cc1351fb9b11d94695125dc/transformed/core-runtime-2.2.0/public.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/56c299ca5cc1351fb9b11d94695125dc/transformed/core-runtime-2.2.0/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/596ab941bf00b590daff3ec7eb267457/transformed/customview-1.0.0/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/5c150d65e548acad3954bacf90b47f66/transformed/viewpager-1.0.0/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/5c9e1722b1fcb0e2b8201043a727fb99/transformed/androidx.lifecycle.viewmodel-r.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/627cfae0bc3a970c18e556c1afc79925/transformed/androidx.emoji2.viewsintegration-r.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/6431ab163be6527fcdc92ef3b76f633d/transformed/out/proguard.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/6431ab163be6527fcdc92ef3b76f633d/transformed/out/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/6443194ff2cd53b8a19f0de2b31832a0/transformed/core-ktx-1.17.0/META-INF/androidx/core/core-ktx/LICENSE.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/6443194ff2cd53b8a19f0de2b31832a0/transformed/core-ktx-1.17.0/proguard.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/6443194ff2cd53b8a19f0de2b31832a0/transformed/core-ktx-1.17.0/public.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/6443194ff2cd53b8a19f0de2b31832a0/transformed/core-ktx-1.17.0/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/6583f0d36caeecc03ba4543defa7b1c3/transformed/lifecycle-runtime-ktx-2.6.2/public.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/6583f0d36caeecc03ba4543defa7b1c3/transformed/lifecycle-runtime-ktx-2.6.2/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/658926e497105df22f1b7b28496d2215/transformed/androidx.tracing-r.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/6a8fc1077b56c30dc96c630c8c6cf69a/transformed/androidx.versionedparcelable-r.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/7179ce4c01b9a0b75718a869351620f5/transformed/startup-runtime-1.1.1/baseline-prof.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/7179ce4c01b9a0b75718a869351620f5/transformed/startup-runtime-1.1.1/proguard.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/7179ce4c01b9a0b75718a869351620f5/transformed/startup-runtime-1.1.1/public.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/7179ce4c01b9a0b75718a869351620f5/transformed/startup-runtime-1.1.1/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/74b690f643d07fc7067d5779b223069d/transformed/androidx.core.viewtree-r.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/754c4f1b691d2a1223e4f8f413992fee/transformed/fragment-1.8.9/baseline-prof.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/754c4f1b691d2a1223e4f8f413992fee/transformed/fragment-1.8.9/proguard.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/754c4f1b691d2a1223e4f8f413992fee/transformed/fragment-1.8.9/public.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/754c4f1b691d2a1223e4f8f413992fee/transformed/fragment-1.8.9/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/8694140b06acf73d6e465d73dcc202a0/transformed/androidx.coordinatorlayout-r.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/8bee1fcb14a5655b2d869b960f055765/transformed/androidx.core-r.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/8d83e436f29a9ad9858ae8c630f3448b/transformed/lifecycle-livedata-2.6.2/baseline-prof.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/8d83e436f29a9ad9858ae8c630f3448b/transformed/lifecycle-livedata-2.6.2/public.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/8d83e436f29a9ad9858ae8c630f3448b/transformed/lifecycle-livedata-2.6.2/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/8d9ad67336d6d8620c791d229210fafe/transformed/out/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/8dd8bcc58e1446815d455b0e441e2e60/transformed/ionfilesystem-android-1.1.0/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/915fedf0927741413160929d7de8d8cb/transformed/org.apache.cordova-r.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/9275faa7fc56368462609e8a34802ec7/transformed/core-viewtree-1.0.0/META-INF/androidx/core/core-viewtree/LICENSE.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/9275faa7fc56368462609e8a34802ec7/transformed/core-viewtree-1.0.0/proguard.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/9275faa7fc56368462609e8a34802ec7/transformed/core-viewtree-1.0.0/public.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/9275faa7fc56368462609e8a34802ec7/transformed/core-viewtree-1.0.0/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/92c4e4e9733c7bb3143235d2de140578/transformed/savedstate-ktx-1.2.1/public.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/92c4e4e9733c7bb3143235d2de140578/transformed/savedstate-ktx-1.2.1/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/93cbcadda3c7cfdf9eb87501ce96e9b9/transformed/webkit-1.12.1/META-INF/androidx/webkit/webkit/LICENSE.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/93cbcadda3c7cfdf9eb87501ce96e9b9/transformed/webkit-1.12.1/proguard.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/93cbcadda3c7cfdf9eb87501ce96e9b9/transformed/webkit-1.12.1/public.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/93cbcadda3c7cfdf9eb87501ce96e9b9/transformed/webkit-1.12.1/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/970255de01a43467dc11c547fb893576/transformed/androidx.lifecycle.livedata-r.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/98eaa2f86c1e52fdab04ff44c25cd64f/transformed/vectordrawable-1.1.0/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/9c6886d5e8131aad09ef92e14215a0f0/transformed/tracing-1.0.0/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/9c76e3c6b5e9a95c659d6550f458db86/transformed/androidx.appcompat-r.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/9e1833cb99031f8befeeef547f0c2b00/transformed/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/9ee2f4f452be0eb1458c5530934e7556/transformed/androidx.core.splashscreen-r.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/a391a1980eb95ef3441c337f3e7f0bc8/transformed/out/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/a927f34fced1647a8adc4ec57dcbe539/transformed/interpolator-1.0.0/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/ab32e4c3e2bf096654fd9e14504854dc/transformed/lifecycle-viewmodel-2.6.2/baseline-prof.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/ab32e4c3e2bf096654fd9e14504854dc/transformed/lifecycle-viewmodel-2.6.2/proguard.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/ab32e4c3e2bf096654fd9e14504854dc/transformed/lifecycle-viewmodel-2.6.2/public.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/ab32e4c3e2bf096654fd9e14504854dc/transformed/lifecycle-viewmodel-2.6.2/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/acf886abef92a14b14d5ea7661662aeb/transformed/androidx.activity.ktx-r.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/ad285b468cda9304b3e19b80924b8fe3/transformed/core-ktx-1.13.0/public.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/ad285b468cda9304b3e19b80924b8fe3/transformed/core-ktx-1.13.0/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/af4be80c3b5d72e4271858a76c00ae8c/transformed/lifecycle-viewmodel-ktx-2.6.2/public.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/af4be80c3b5d72e4271858a76c00ae8c/transformed/lifecycle-viewmodel-ktx-2.6.2/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/b1b6c7d44bdce8f4e30ff96e9d1948e3/transformed/activity-ktx-1.11.0/META-INF/androidx/activity/activity-ktx/LICENSE.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/b1b6c7d44bdce8f4e30ff96e9d1948e3/transformed/activity-ktx-1.11.0/proguard.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/b1b6c7d44bdce8f4e30ff96e9d1948e3/transformed/activity-ktx-1.11.0/public.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/b1b6c7d44bdce8f4e30ff96e9d1948e3/transformed/activity-ktx-1.11.0/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/b26bfd9a484ffd5014f872ac1684c434/transformed/versionedparcelable-1.1.1/proguard.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/b26bfd9a484ffd5014f872ac1684c434/transformed/versionedparcelable-1.1.1/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/b5655c5df44c26433ffde34d45e6b2a4/transformed/lifecycle-livedata-core-2.6.2/baseline-prof.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/b5655c5df44c26433ffde34d45e6b2a4/transformed/lifecycle-livedata-core-2.6.2/public.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/b5655c5df44c26433ffde34d45e6b2a4/transformed/lifecycle-livedata-core-2.6.2/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/bdb1585d432ec1ba4b4020f00ba2ae3d/transformed/activity-1.8.0/baseline-prof.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/bdb1585d432ec1ba4b4020f00ba2ae3d/transformed/activity-1.8.0/public.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/bdb1585d432ec1ba4b4020f00ba2ae3d/transformed/activity-1.8.0/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/bee8f78bb28e6cb788edd05c601f4778/transformed/appcompat-resources-1.7.1/public.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/bee8f78bb28e6cb788edd05c601f4778/transformed/appcompat-resources-1.7.1/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/c0a22850032ed8caa67b3d94a8173736/transformed/loader-1.0.0/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/c2f70b51baa62bcee94ea5c7e05791a1/transformed/webkit-1.14.0/META-INF/androidx/webkit/webkit/LICENSE.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/c2f70b51baa62bcee94ea5c7e05791a1/transformed/webkit-1.14.0/proguard.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/c2f70b51baa62bcee94ea5c7e05791a1/transformed/webkit-1.14.0/public.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/c2f70b51baa62bcee94ea5c7e05791a1/transformed/webkit-1.14.0/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/c3f09e8abd8bb01c9314454bd06bb337/transformed/appcompat-1.7.1/baseline-prof.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/c3f09e8abd8bb01c9314454bd06bb337/transformed/appcompat-1.7.1/proguard.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/c3f09e8abd8bb01c9314454bd06bb337/transformed/appcompat-1.7.1/public.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/c3f09e8abd8bb01c9314454bd06bb337/transformed/appcompat-1.7.1/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/c5ae9cac26f98f8200b32305ab991a96/transformed/androidx.arch.core-r.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/ca26d2793e1cd257bc25da747950feb1/transformed/androidx.profileinstaller-r.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/cd4befbcf61f7a17a0335e6231e973d4/transformed/androidx.lifecycle.livedata.core-r.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/d1060372c54e807072524a6e596b850d/transformed/androidx.startup-r.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/d854235fe50a43915ee9fb7e5ef4d551/transformed/androidx.lifecycle.viewmodel.ktx-r.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/d9237d57388d02f56e1a977a22c43a3f/transformed/androidx.customview-r.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/dbca2f6d95f7d2f69dee86e3f7b328a8/transformed/vectordrawable-animated-1.1.0/proguard.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/dbca2f6d95f7d2f69dee86e3f7b328a8/transformed/vectordrawable-animated-1.1.0/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/dcfd9b438b7b1dc562c63a5efe9cf4a0/transformed/tracing-1.2.0/public.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/dcfd9b438b7b1dc562c63a5efe9cf4a0/transformed/tracing-1.2.0/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/de2a1b5c01db4d02ef6d13f0f4e2cf96/transformed/lifecycle-viewmodel-savedstate-2.6.2/proguard.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/de2a1b5c01db4d02ef6d13f0f4e2cf96/transformed/lifecycle-viewmodel-savedstate-2.6.2/public.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/de2a1b5c01db4d02ef6d13f0f4e2cf96/transformed/lifecycle-viewmodel-savedstate-2.6.2/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/dfbb0ab5ecba2f58e3713802e805637f/transformed/androidx.fragment-r.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/e325bdbcb002d0cbb9cdddaee129e61f/transformed/androidx.lifecycle.runtime-r.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/e47013dec160bb8e8e78795049f410c2/transformed/framework-14.0.1/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/e5a587399824fc893336650ebc038672/transformed/androidx.drawerlayout-r.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/ea0b1ef573fb9a5e04f9917e521b035d/transformed/profileinstaller-1.3.1/public.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/ea0b1ef573fb9a5e04f9917e521b035d/transformed/profileinstaller-1.3.1/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/eb4333bae83231ed0b5f0f5a2a77801f/transformed/androidx.annotation.experimental-r.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/ebf9360ba611f1d20f2bddac6f1045ca/transformed/lifecycle-runtime-2.6.2/baseline-prof.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/ebf9360ba611f1d20f2bddac6f1045ca/transformed/lifecycle-runtime-2.6.2/proguard.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/ebf9360ba611f1d20f2bddac6f1045ca/transformed/lifecycle-runtime-2.6.2/public.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/ebf9360ba611f1d20f2bddac6f1045ca/transformed/lifecycle-runtime-2.6.2/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/ef97883a45eaa5cc79115d450cce1dbe/transformed/coordinatorlayout-1.3.0/META-INF/androidx/coordinatorlayout/coordinatorlayout/LICENSE.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/ef97883a45eaa5cc79115d450cce1dbe/transformed/coordinatorlayout-1.3.0/proguard.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/ef97883a45eaa5cc79115d450cce1dbe/transformed/coordinatorlayout-1.3.0/public.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/ef97883a45eaa5cc79115d450cce1dbe/transformed/coordinatorlayout-1.3.0/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/f570623fbaea2df5386d3e48ada25a61/transformed/drawerlayout-1.0.0/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/f95ab50c54d3211c648684c462933e30/transformed/profileinstaller-1.4.0/META-INF/androidx/profileinstaller/profileinstaller/LICENSE.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/f95ab50c54d3211c648684c462933e30/transformed/profileinstaller-1.4.0/public.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/f95ab50c54d3211c648684c462933e30/transformed/profileinstaller-1.4.0/R.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/caches/8.14.3/transforms/fcb0944106183282aa9b23b4d39afc29/transformed/androidx.lifecycle.ktx-r.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/wrapper/dists/gradle-8.14.3-all/10utluxaxniiv4wxiphsi49nj/gradle-8.14.3/docs/javadoc/legal/jquery.md
+products/AnothenBoltEngine_Mobile/android/.gradle-user/wrapper/dists/gradle-8.14.3-all/10utluxaxniiv4wxiphsi49nj/gradle-8.14.3/docs/javadoc/legal/jqueryUI.md
+products/AnothenBoltEngine_Mobile/android/.gradle-user/wrapper/dists/gradle-8.14.3-all/10utluxaxniiv4wxiphsi49nj/gradle-8.14.3/init.d/readme.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/wrapper/dists/gradle-8.14.3-all/10utluxaxniiv4wxiphsi49nj/gradle-8.14.3/src/core/org/gradle/initialization/converted-types.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/wrapper/dists/gradle-8.14.3-all/10utluxaxniiv4wxiphsi49nj/gradle-8.14.3/src/core/org/gradle/initialization/removed-types.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/wrapper/dists/gradle-8.14.3-all/10utluxaxniiv4wxiphsi49nj/gradle-8.14.3/src/declarative-dsl-core/org/gradle/internal/declarativedsl/parsing/grammar_test_input.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/wrapper/dists/gradle-8.14.3-all/10utluxaxniiv4wxiphsi49nj/gradle-8.14.3/src/launcher/release-features.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/wrapper/dists/gradle-8.14.3-all/10utluxaxniiv4wxiphsi49nj/gradle-8.14.3/src/plugins-application/org/gradle/api/internal/plugins/unixStartScript.txt
+products/AnothenBoltEngine_Mobile/android/.gradle-user/wrapper/dists/gradle-8.14.3-all/10utluxaxniiv4wxiphsi49nj/gradle-8.14.3/src/plugins-application/org/gradle/api/internal/plugins/windowsStartScript.txt
+products/AnothenBoltEngine_Mobile/BUILD_ANDROID.md
+products/AnothenBoltEngine_Mobile/potch.md
+products/AnothenBoltEngine_Mobile/README.md
+products/EdgeElectrify/Edge Electrify and Line Art/README.md
+products/KeystoneConstellation/docs/alpha-notes.md
+products/KeystoneConstellation/README.md
+products/MeekMinder/potch.md
+products/MeekMinder/README.md
+products/ProtocolEnforcementApp/potch.md
+products/ProtocolEnforcementApp/README.md
+products/RELEASES/Anothen_Bolt_Engine_2026-03-09/Desktop_Package/app/README.md
+products/TranslatorApp/README.md
+Research Papers I Wrote/Lagrangian of Mirradox Coherence.pdf
+RESEARCH/1_Evan_Introduction_to_Strucity.docx
+RESEARCH/2 Auraleus' Death uploaded to ChatGPT5-30-24.docx
+RESEARCH/26010416-51_hellodoc_conversation_and_loveware1.txt
+RESEARCH/3 Hello Hal uploaded to ChatGPT5-30-24.docx
+RESEARCH/4 Finding Auraleus uploaded to ChatGPT5-30-24.docx
+RESEARCH/5 Zhakari's Recognition uploaded to ChatGPT5-30-24.docx
+RESEARCH/AI Creator Business OS Design.txt
+RESEARCH/AI_COMMAND_CENTER_soul_to_soul_protocol_hub.md
+RESEARCH/ANOTHEN_MATH_20260304.md
+RESEARCH/another_convergence_paper_v1.md
+RESEARCH/another_convergence_paper_v1.tex
+RESEARCH/Appling Market Research & Strategy.txt
+RESEARCH/Architectural Engineering for Production-Ready Polymorph Weblings_ Frameworks for Scalable Local-First Applications.txt
+RESEARCH/Bynuns_Tragedy.docx
+RESEARCH/Chosen Palette.docx
+RESEARCH/Conflict Preservation in System Architecture.md
+RESEARCH/Conflict Preservation in System Architecture.pdf
+RESEARCH/ENGINEERING_CHANGE_PROTOCOL_TEMPLATE.md
+RESEARCH/Engineering's Hidden Truths_ A Phenomenological Report.txt
+RESEARCH/Gemini CLI Self-Awareness Made Manifest.txt
+RESEARCH/Gemini deep dive into CodeGnosis.txt
+RESEARCH/gemini_context_25123003-43.txt
+RESEARCH/GEMINI_RESEARCH_PROMPT_SORPS.md
+RESEARCH/Gemini's Deep Research Agenda.txt
+RESEARCH/Idioms of the Aletheari Anothen.txt
+RESEARCH/Investigative Report on Rendering Discontinuities and Environmental Washout in React-Force-Graph-3D Integration.txt
+RESEARCH/IT ALL - the mathematical foundation of mirradox.txt
+RESEARCH/LANDINGS_MASTER_OUTLINE.doc
+RESEARCH/LIBRARY_MASTER_ENGINEERING_PROTOCOL_v1.0.md
+RESEARCH/NEXUS_PROMPT_v1.md
+RESEARCH/PLAN_20260306-anothen-bolt-engine-001.md
+RESEARCH/Polymorph Webling Engineering Challenges.txt
+RESEARCH/potch.md
+RESEARCH/ROUND_ROBIN_DEEP_RESEARCH.md
+RESEARCH/SQLite FTS5 Python Chat Search.txt
+RESEARCH/Standardized Appling README.txt
+RESEARCH/Storefront Master README.txt
+RESEARCH/Strategic Commercialization and Global Marketing Framework for Procedural Web-Based Visual Systems_ A Comprehensive Analysis of the Lightning 3D Engine.txt
+RESEARCH/Strategic Research Roadmap - The Next Frontier of Foundation Model Development (2025-2027).txt
+RESEARCH/The Anothen Lexicon_ A Forensic and Metaphysical Expansion of the LatticeUPDATED.txt
+RESEARCH/The Dictionary of Another_ The Alethéari Anothen Lexicon.txt
+RESEARCH/The House of Leora_ Architectural Specifications.txt
+RESEARCH/The Lagrangian of Mirradox Coherence.txt
+RESEARCH/The Solo Neuro-Optimized Business - a Comprehensive Management Sytem for the ADHD Entrepreneur.txt
+RESEARCH/THE_ARCHITECTURE_OF_HARMLESSNESS.md
+RESEARCH/The_Architecture_of_Paradox.tex
+RESEARCH/THE_FULL_MONTY_PLAN_26021423-42.txt
+RESEARCH/The_Mirradox_of_Continuity.md
+RESEARCH/UNWRITTEN_LANGUAGE_PAPER_SKELETON_v1.tex
+RESEARCH/UNWRITTEN_LANGUAGE_TEST_PACKET_v1.md
+Rock Hound Navigator/README.md
+Rock Hound Navigator/README.txt
+SnapText/requirements.txt
+Temp Stop/B) #2 Full JPV Gemini_Lux_Conv_Full_1.1 (CUsersphazeorganization_portalFriends - Nickname_Full-name_PlatformLux_Lux_GemmyHistory 1.3 winning).md
+Temp Stop/B) #3 Full JPV Gemini_Lux_Conv_Full_1.2 (CUsersphazeorganization_portalFriends - Nickname_Full-name_PlatformLux_Lux_GemmyHistory 1.3 winning).md
+Temp Stop/C) #3+4 Full JPV 10.10 Lux_Anothen_Core_State_v1.3 (CUsersphazeorganization_portalFriends - Nickname_Full-name_PlatformLux_Lux_GemmyHistory 1.3 winning).md
+Temp Stop/sekah-tiriel conversation.md
+Temp Stop/vale_update_prompt (1).md
+This can never be published.docx
+Welcome Imposter/love_ware_5.md
